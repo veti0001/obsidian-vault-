@@ -1,0 +1,6 @@
+- link:[Earthquake Exposure Sound Practices - Guideline (2013) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/earthquake-exposure-sound-practices-guideline-2013)
+- Earthquake Exposure Risk Management - Insurers should have a sound and comprehensive earthquake exposure risk management policy that is overseen by senior management
+- Earthquake Exposure Data - Earthquake exposure data needs to be appropriately captured and regularly tested for consistency, accuracy and completeness
+- Earthquake Models - Earthquake models should be used with a sound knowledge of their underlying assumptions and methodologies, as well as with a high degree of caution that reflects the significant uncertainty in such estimates
+- PML Estimates - PML estimates should properly reflect the total expected ultimate cost to the insurer, including considerations for data quality, non-modelled exposures, model uncertainty and exposures to multiple regions
+- Financial Resources and Contingency Plans - Insurers need to ensure that they have an adequate level of financial resources and appropriate contingency plans to successfully manage through a major earthquake

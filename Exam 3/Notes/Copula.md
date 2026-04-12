@@ -1,0 +1,10 @@
+- Gaussian :
+	- standard choice for linear correlation
+	- Use when extreme events are not expected
+- Student:
+	- Similar to Gaussian but with fatter tail
+	- Use to capture symmetric tail dependence
+- Archimedean Copula
+	- Clayton Copula: high lower tail dependence 
+	- Gumbel : high upper tail dependence
+	- Frank: Symmetric but capture stronger dependence in the centre of the distribution

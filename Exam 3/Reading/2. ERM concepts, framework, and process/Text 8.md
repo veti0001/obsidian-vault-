@@ -1,0 +1,4 @@
+- Link: [OpenPDF.aspx](https://www3.ambest.com/ambv/ratingmethodology/OpenPDF.aspx?rc=250950) Part 1
+- Key Points: 4
+- Resume:
+	- Credit Rating

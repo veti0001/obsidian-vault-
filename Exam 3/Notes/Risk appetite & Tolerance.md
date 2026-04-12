@@ -1,0 +1,15 @@
+- setting and monitoring is a responsibility of the board and senior management
+- take into account external context of the firm operation
+	- exposure to external factor 
+	- review key external relationship and their impact on relevant risks
+	- take into account the views of external stakeholders
+- take into account internal context
+	- take into account context of internal stakeholders
+	- risk appetite should be realistic of the firm  governance, culture and competency
+	- take into account firm finance and expertise
+	- risk appetite can specify areas of zero risk appetite
+- risk appetite address strategic, reputational, regulatory and operational risks
+- Quantitative metrics should be well defined and specify the relevant time horizon
+- Qualitative risk appetite statements are often relative or categorize risk appetite into broad buckets
+- Need to monitor compliance 
+- risk appetite and tolerance should be updated

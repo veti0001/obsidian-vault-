@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2cb719dd6be91de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5a9eeb0f4542f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140ffdb40a598719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ICA Standard of practice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ICA Standard of practice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f282a0d1e3d8aa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eafec0586d02a8f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3cc2127567b198",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cde5c95e459e4050",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9974233dcb384c93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fb63aa98e023e1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b578afee433823ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d10782aa119e2db5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/ICA Standard of practice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ICA Standard of practice"
+            }
+          },
+          {
+            "id": "401891279e40eb22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "48a85087bc9507a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa960e63e167fa85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6a95a976033ca8fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "140ffdb40a598719",
+  "lastOpenFiles": [
+    "Notes/Notes from previous exams.md",
+    "Notes/ICA Standard of practice.md",
+    "Notes/Data governance.md",
+    "Notes/Correlation advantages and disadvantages.md",
+    "Notes/Copula.md",
+    "Notes/Validate model.md",
+    "Notes/Risk treatment of model risk.md",
+    "OSFI Guidelines/ORSA.md",
+    "OSFI Guidelines/Earthquake.md",
+    "OSFI Guidelines/Corporate Governance.md",
+    "OSFI Guidelines/Climate Risk Management.md",
+    "OSFI Guidelines/Stress Testing.md",
+    "OSFI Guidelines/Reinsurance.md",
+    "OSFI Guidelines/Large Insurance exposure and risk concentration.md",
+    "OSFI Guidelines/Third Party risk management.md",
+    "OSFI Guidelines/Technology and Cyber risk management.md",
+    "Notes/Risk appetite & Tolerance.md",
+    "Reading/3. Risk categories and risk identification/Text 3.md",
+    "Reading/2. ERM concepts, framework, and process/Text 12.md",
+    "Untitled",
+    "OSFI Guidelines",
+    "Reading/2.ERM Concepts, framework and process/9. Utilize methods to identify risks and their causes and implications.md",
+    "Reading/2.ERM Concepts, framework and process/8. Describe the risk management control cycle, including the relevance of external influences and emerging  risks..md",
+    "Reading/2.ERM Concepts, framework and process/6. Demonstrate how to determinate and articulate.md",
+    "Reading/2.ERM Concepts, framework and process/4. Describe the perspectives of credit-rating agencies..md",
+    "Reading/2.ERM Concepts, framework and process/3. Describe regulatory requirements related to ERM, including own-risk and solvency assessment (ORSA).md",
+    "Reading/2.ERM Concepts, framework and process/2. Apply the framework for risk management and control within an insurer.md",
+    "Reading/2.ERM Concepts, framework and process/1. Apply Concept of ERM.md",
+    "Notes/2.ERM Concepts, framework and process/2. Apply the framework for risk management and control within an insurer",
+    "Reading/2.ERM Concepts, framework and process",
+    "Notes",
+    "Reading",
+    "Reading/3. Risk categories and risk identification",
+    "Reading/2. ERM concepts, framework, and process"
+  ]
+}

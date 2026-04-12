@@ -1,0 +1,4 @@
+- Link: [350346.pdf](https://dbrs.morningstar.com/document/350346.pdf?Expires=1768784517&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYnJzLm1vcm5pbmdzdGFyLmNvbS9kb2N1bWVudC8zNTAzNDYucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY4Nzg0NTE3fX19XX0_&Signature=C9DR2aMssLX1H40T2nzjiwOpRS4nnvGszv67AerF9mkqpkHa6BTH8QDPQXwlBEqZPvx-GGI~yNwNnoDGP2hZstEb7rmX-sT~4wB8aLEQlteb1TjBXgxpvVAwXpNs0SnAURG0hn5U3dxRn1mBbK3AbJrgEky0751etwp7rexNxQO~2XIyFc2dZe0-wSz01N1Kf0Css-dN3F4262DomqomIiucmzTzSU5nloyOk1dwwVd0dosT-7zlIq-gBx4ZEVZXuB~kK9FnPuNTdJ8cVkedVTsxXQ1XOJOel-SF4lHkWlYq805dJ0rHDuRcB6Wx~qsk9aiJL-fGtuwRe0sRgRXq~g__&Key-Pair-Id=KNWV36WLG7L4J)
+- Key Points: 4
+- Resume:
+	-  What credit rating agencies are looking at

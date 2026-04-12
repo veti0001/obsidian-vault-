@@ -1,0 +1,22 @@
+- link: [Technology and Cyber Risk Management - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management)
+- outcomes:
+	1. Technology and cyber risks are governed through clear accountabilities and structures, and comprehensive strategies and frameworks.
+		- **Principle 1:** Senior Management should assign responsibility for managing technology and cyber risks to senior officers. It should also ensure an appropriate organizational structure and adequate resourcing are in place for managing technology and cyber risks across the FRFI.
+		- **Principle 2:** FRFIs should define, document, approve and implement a strategic technology and cyber plan(s). The plan(s) should align to business strategy and set goals and objectives that are measurable and evolve with changes in the FRFI’s technology and cyber environment.
+		- **Principle 3:** FRFIs should establish a technology and cyber risk management framework (RMF). The framework should set out a risk appetite for technology and cyber risks and define FRFI’s processes and requirements to identify, assess, manage, monitor and report on technology and cyber risks.
+	2. A technology environment that is stable, scalable and resilient. The environment is kept current and supported by robust and sustainable technology operating and recovery processes.
+		- **Principle 4:** FRFIs should implement a technology architecture framework, with supporting processes to ensure solutions are built in line with business, technology, and security requirements.
+		-  **Principle 5:** FRFIs should maintain an updated inventory of all technology assets supporting business processes or functions. FRFI’s asset management processes should address classification of assets to facilitate risk identification and assessment, record configurations to ensure asset integrity, provide for the safe disposal of assets at the end of their life cycle, and monitor and manage technology currency.
+		- **Principle 6:** Effective processes are in place to govern and manage technology projects, from initiation to closure, to ensure that project outcomes are aligned with business objectives and are achieved within the FRFI’s risk appetite.
+		- **Principle 7:** FRFIs should implement a System Development Life Cycle (SDLC) framework for the secure development, acquisition and maintenance of technology systems that perform as expected in support of business objectives.
+		- **Principle 8:** FRFIs should establish and implement a technology change and release management process and supporting documentation to ensure changes to technology assets are conducted in a controlled manner that ensures minimal disruption to the production environment.
+		- **Principle 9:** FRFIs should implement patch management processes to ensure controlled and timely application of patches across its technology environment to address vulnerabilities and flaws.
+		- **Principle 10:** FRFIs should effectively detect, log, manage, resolve, monitor and report on technology incidents and minimize their impacts.
+		- **Principle 11:** FRFIs should develop service and capacity standards and processes to monitor operational management of technology, ensuring business needs are met.
+		- **Principle 12:** FRFIs should establish and maintain an Enterprise Disaster Recovery Program (EDRP) to support its ability to deliver technology services through disruption and operate within its risk tolerance.
+		- **Principle 13:** FRFIs should perform scenario testing on disaster recovery capabilities to confirm its technology services operate as expected through disruption.
+	3. A secure technology posture that maintains the confidentiality, integrity and availability of the FRFI’s technology assets.
+		- **Principle 14:** FRFIs should maintain a range of practices, capabilities, processes and tools to identify and assess cyber security for weaknesses that could be exploited by external and insider threat actors.
+		- **Principle 15:** FRFIs should design, implement and maintain multi-layer, preventive cyber security controls and measures to safeguard its technology assets.
+		- **Principle 16:** FRFIs design, implement and maintain continuous security detection capabilities to enable monitoring, alerting and forensic investigations.
+		- **Principle 17:** FRFIs should respond to, contain, recover and learn from cyber security incidents impacting their technology assets, including incidents originating at third-party providers.

@@ -1,0 +1,5 @@
+- Link: [IAA Risk Book - Operational Risk](https://actuaries.org/app/uploads/2025/08/IAARiskBook_OperationalRisk_2016-03.pdf)
+- Key points:
+- Resume:
+	- describes the characteristics and assessment of operational risk.
+	- More precisely about operational risk

@@ -1,0 +1,7 @@
+- link : [Corporate Governance – Guideline (2018) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018)
+- uses : corporate governance is important in maintaining the confidence of depositor, policyholders and market confidence
+- Risk governance:
+	- board and senior manager should promote risk culture that stresses integrity and effective risk management 
+	- company should have a risk appetite framework in place that guides the risk taking activities of the FRFI
+	- board should establish a board risk committee to oversee risk management on an enterprise wide basis
+	- FRFI should have a CRO who is responsible for the oversight of all risk across the firm

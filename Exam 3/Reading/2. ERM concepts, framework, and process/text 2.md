@@ -1,0 +1,25 @@
+- link: [Corporate Governance – Guideline (2018) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018) part III
+- key concept:
+	- 2
+- Resume:
+	-  Risk Governance
+	- All company will face risk, but they should be able to:
+		- Identify the significant risks
+		- assess their potential impact
+		- have policies and controls in place to manage them effectively
+	- Risk Appetite Framework:
+		- take into account the risk profile of the company
+		- is appropriate relative to: 
+			- risk profile
+			- long-term strategic plan
+			- operating environment
+		- this framework set what risk the company is ready to take
+	- Oversight of risk:
+		- the higher ups should know well the environment of the company so they are able to take good decision
+	- Board Risk Committee:
+		- oversees the risk management of the company
+		- board choose the members, all are non executive member
+	- Chef Risk Officer (CRO)
+		- Head of risk management 
+		- independent and has access to all the data
+		- Need to report to higher management on risk of the company

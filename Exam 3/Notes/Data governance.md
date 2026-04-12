@@ -1,0 +1,12 @@
+- data governance framework should achieve de following:
+	- Clearly define roles and responsibilities around data governance;
+	- Establish policies, procedures, and controls needed to efficiently manage and protect data assets;
+	- Establish an effective data quality control and stewardship process to proactively monitor, manage and remediate data issues;
+	- Provide guidance and support to business units on emerging data governance issues and trends.
+- what to report to ECM users, if applicable:
+	- A conclusion that the required data are unavailable or inadequate and that satisfactory additional sources cannot be found;
+	- The extent of reliance placed on data provided by others and whether it is possible to check or validate aspects of the data independently;
+	- Any material adjustment made to the data other than routine corrections, as well as the rationale for any such adjustment;
+	- Any material reservations about the accuracy or completeness of the data, to the extent that they are likely to limit the usefulness of the resulting actuarial information for decision- making;
+	- Any doubt that is associated with the use of an approximation; and
+	- An indication of the level of uncertainty inherent in the data.

@@ -1,0 +1,77 @@
+- link: [Own Risk and Solvency Assessment - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment)
+- key concept: 3
+- Resume:
+	- Own Risk and Solvency Assessment (ORSA)
+		- reflect insurer risk and solvency assessment
+		- The ORSA should serve as a tool to enhance an insurer's understanding of the interrelationships between its risk profile and capital needs.
+		-  stress and scenario testing should be an important component
+	- Scope:
+		-  domestic and foreign operations
+		- prepared either on an individual insurer basis or on a group basis
+	-  ORSA and Enterprise Risk Management
+		- An insurer should determine its own capital needs and establish its Internal Targets based on an internal assessment of all material risks
+		- Multiple possible approach
+	- ORSA Minimum component:
+		- Comprehensive Identification and Assessment of Risks:
+			- RSA should identify, define and assess the materiality of all known, reasonably foreseeable, emerging and other relevant risks
+			- The ORSA should give proper consideration to non-material risks that, when combined with other non-material risks, become material
+		-  Relating Risk to Capital:
+			- stress and scenario testing should be an integral part of an insurer's process for determining its Internal Targets
+			- Insurers are expected to use more sophisticated methods to estimate the amount of own capital needed for material complex risks they take on or are exposed to
+			- For less material and less complex risks, or for those that are not readily quantifiable, insurers may opt for simpler quantitative analysis
+			- Insurers are expected to consider when quantifying risks:
+				- Regulator consulting firms, professional and other associations, academia, credit rating agencies and other purveyors of research, data, models and publications relating to the measurement of risks and risk mitigants;
+				- Empirical data, evidence and studies of the different and varying manifestations of historical and potential new risks in different markets for similar and dissimilar business activities and products;
+				- Developments in the insurance, financial and other markets and their potential impact on the continued appropriateness of current measurement tools, data and assumptions used by the insurer;
+				-  Benchmarking exercises with respect to risk measurement and mitigation tools and their results, whether in the insurance sector or in other sectors where similar risks exist.
+			- Once an insurer has determined its own capital needs, these initial results should be assessed to determine if they are appropriate in relation to external or third party capital expectations
+		- Oversight:
+			- Senior Management should have a good understanding of the nature and significance of the risk exposures of the insurer
+			- The ORSA should assist the insurer in its risk assessment, risk management and planning by exploring and assessing potential threats to an insurer's capital and solvency positions.
+		- Monitoring and reporting:
+			- It should be clearly and formally documented in a report at least annually
+			- insurer's Senior Management should receive regular and timely reports
+				-  Evaluate the level and trend of material risks and their potential effect on capital;
+				- Evaluate the sensitivity and reasonableness of assumptions used in the risk and capital assessment and measurement process
+				-  Determine that the insurer holds sufficient capital in relation to established capital adequacy targets and goals (both internal and regulatory/external);
+				-  Evaluate the adequacy of capital using stresses and scenarios;
+				- Assess future capital needs (e.g. dividend plans, issuance/retirement of capital instruments and capital fungibility constraints) and make any adjustments to the insurer's strategic, capital and other plans, as necessary;
+		- Internal Controls and Objective Review
+			- insurer's Senior Management reviews the insurer's method for monitoring and reporting on compliance with internal policies as well as the system for assessing risks and for relating risks to the insurer's own capital needs.
+			- An insurer should conduct regular reviews of its ORSA process for integrity, accuracy, and reasonableness.
+			- Area to be reviewed
+				- Comprehensiveness and appropriateness of an insurer's assessment process, given the insurer's nature, scale and complexity, the soundness of the controls underpinning it, and OSFI's expectations with respect to the ORSA process;
+				- Governance mechanisms related to the assessment and review by the insurer of group processes used in its operations, where the insurer uses a group ORSA;
+				- Process for identification of risks, large exposures, risk concentrations, dependencies and interactions;
+				- Appropriateness of the methodologies, distributions and measures and accuracy and completeness of financial and quantitative data inputs;
+				- Reasonableness and validity of the ORSA results, including the embedded assumptions and inputs from stress tests, scenarios, models and other methodologies and tools used in the assessment process;
+				-  Reasonableness of the individual risk and other components and overall ORSA results;
+				-  Consistency of the ORSA results with an insurer's risk limits and risk appetite;
+				- Appropriateness of the documentation that supports the ORSA and the contents of the ORSA report;
+				- Effectiveness of information systems that support the ORSA;
+				- Consistency and linkages of the ORSA process and results with the risk management, strategic, business and capital planning processed
+	- Interaction of the ORSA with the supervisory review
+		- The supervisory review of the ORSA is not intended to prescribe how an insurer should perform, use or report on its ORSA.
+		- Used to discuss the following topics:
+			- The approach/methodology, assumptions, data and other considerations (e.g. level of confidence and rationale) supporting internal estimates of risks that are also explicitly captured in the regulatory capital guidelines;
+			- Risks not fully captured (e.g. concentration, contagion and aggregation of risks) and/or not explicitly captured (e.g. reputation and strategic risk) by regulatory capital guidelines
+			-  External factors, where not already considered in the previous points, including stress testing, impact of economic cycles and other external risks;
+			- The level and quality of the insurer's capital, and the quality of the assessment by the insurer using a range of stress scenarios included or referenced in the ORSA;
+			- Limitations of the insurer's ORSA;
+			- Other regulatory requirements and expectations or market considerations;
+			- Identification of best practices and potential gaps arising from a cross-sector review of ORSA;
+			- How and to whom ORSA related information is communicated and how ORSA issues or limitations are shared with users and appropriately elevated to relevant parties within the insurer
+	- Emerging /Evolving risks:
+		- new developments or emerging trends in the internal or external environment
+		- immaterial risk may become material
+		- considers how risk may evolve and how how to monitor them
+	- Risk transfer/Mitigation activities:
+		-  risk may exists in the following activities: reinsurance, hedging or securitization transactions
+	- Cross border activities:
+		- more risky: country risk, concentration risk, foreign currency risk (market risk) as well as regulatory, legal, compliance and operational risks.
+	- Relating risk to capital:
+		- This guideline does not provide a list of available approaches, methodologies or tools
+	- Aggregation/Diversification adjustment:
+		- Insurers should be prudent in their assessment of aggregation/diversification benefits and should consider whether such benefits exist in periods of stress
+	- Concentrations, Dependencies and Interactions of Risks:
+		- An insurer should have an understanding of its insurance, market, credit and other risk concentrations, dependencies and interactions resulting from exposures within and across its different business lines.

@@ -1,0 +1,3 @@
+- link: [Airmic-EXPLAINED-guide-Risk-Appetite-Revised.pdf](https://www.airmic.com/sites/default/files/Airmic-EXPLAINED-guide-Risk-Appetite-Revised.pdf)
+- Key points: 6
+- Resume: Talks about the different risk measure a company should have and should take

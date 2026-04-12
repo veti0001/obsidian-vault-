@@ -1,0 +1,10 @@
+- link: [Property and Casualty Large Insurance Exposures and Investment Concentration - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/property-casualty-large-insurance-exposures-investment-concentration)
+- P&C FRIs should have a comprehensive Gross Underwriting Limit Policy (GUWP) that is consistent with the P&C FRI's Risk Appetite Framework
+	- GWUP should:
+		- Define what constitutes a **Single Insurance Exposure** by class of insurance, as appropriate. A P&C FRI could aggregate insurance exposures across multiple coverages and/or classes of insurance;
+		- Establish limits by class of insurance regarding the level of gross insurance risk that the P&C FRI is willing to accept in respect of a maximum loss related to a Single Insurance Exposure; and
+		- Be reviewed by Senior Management of the P&C FRI, at a minimum, annually.
+	- The maximum loss on a single insurance exposure should be determine and be smaller than certain threshold based on the insurance type 
+- At no time should any P&C FRI's **Net Retention**, plus its **Largest Net Counterparty Unregistered Reinsurance Exposure**, due to the occurrence of a maximum loss on a Single Insurance Exposure, exceed the following limits: see guideline
+- P&C FRIs should have policies with respect to the management of investment concentration, which include internal limits. The policies should be consistent with the P&C FRIs' Risk Appetite Framework.
+	- investment in single entity smaller than 5% of company assets

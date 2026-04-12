@@ -1,0 +1,5 @@
+ - link: [Sound Reinsurance Practices and Procedures – Guideline (2025) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/sound-reinsurance-practices-procedures-guideline-2025)
+ - A FRI should have a sound and comprehensive reinsurance risk management policy that is overseen by senior management.
+ - A FRI should perform due diligence on its reinsurance counterparties on an ongoing basis sufficient to ensure that the FRI is aware of its counterparty risk and is able to assess and manage such risk.
+ - The terms and conditions of the reinsurance contract should provide clarity and certainty on reinsurance coverage.
+ - The terms and conditions of a reinsurance contract should not adversely affect the ceding FRI.

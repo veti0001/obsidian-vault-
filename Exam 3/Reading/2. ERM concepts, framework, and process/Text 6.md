@@ -1,0 +1,16 @@
+- link: [Technology and Cyber Risk Management - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management)
+- key concepts:5,8
+- Resume:
+	- Technology and Cyber Risk management
+	- Technology Risk:
+		- includes cyber risk
+		- refers to the risk arising from the inadequacy, disruption, destruction, failure, damage from unauthorised access, modifications, or malicious use of information technology assets, people or processes that enable and support business needs, and can result in financial loss and/or reputational damage.
+	- Technology and cyber risks are dynamic and intersect with other risk areas.
+	- Governance and risk management:
+		- **Outcome:** Technology and cyber risks are governed through clear accountabilities and structures, and comprehensive strategies and frameworks.
+		- Give roles to competent people
+		- Need to have the appropriate guidelines and training in place
+	- Technology and operational resilience:
+		- **Outcome:** A technology environment that is stable, scalable and resilient. The environment is kept current and supported by robust and sustainable technology operations and recovery processes.
+	- Cyber Security:
+		- **Outcome:** A secure technology posture that maintains the confidentiality, integrity and availability of FRFIs’ technology assets.

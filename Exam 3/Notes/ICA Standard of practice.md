@@ -1,0 +1,93 @@
+2500: (FCT)
+	 - 2510:
+		- Financial condition testing 
+		- talks about the duty of the appointed actuary
+	- 2520:
+		- Analysis
+		- The appointed actuary should make an investigation at least once during each financial year of the insurer’s recent and current financial position and financial condition, as revealed by financial condition testing for selected scenarios.
+		- should report findings to the insurance board
+		- the report need to be current (consider all recent events)
+		- forecast period long enough to be certain that all relevant risk have emerge
+	- 2530:
+		- reporting
+		- In the case of a Canadian insurer, the appointed actuary should report to the board of directors or to an appropriate committee of the board
+	- 2540:
+		- Opinion by the actuary
+		- The report should contain an opinion signed by the appointed actuary
+		- need to disclose management action in some specific case
+8000:
+	-  8100
+		- ERM focused
+		- purpose of section: 
+			- Actuarial work are carried out professionally and with due care;
+			- The results are relevant to users’ needs, are presented clearly and understandably, and are complete; and
+			- The assumptions and methodology used are disclosed appropriately.
+	- 8210eeeeeeeaahahahah
+		- actuary should take into account the circumstances affecting the work
+	- 8220
+		- Identifying risks
+			- • The strategic objectives of the entity;
+			- • The processes for collecting information and whether the staff have adequate qualifications, training and experience to understand and identify the risks;
+			- • Whether the risk identification process is sufficient to identify current and emerging risks that are reasonably foreseeable, relevant, and material including risks that directly or indirectly impact the financial condition and other objectives of the entity (e.g., reputational risk);
+			- • The time frame over which the risks may emerge and may impact the entity;
+			- • The risks that may arise from reasonably foreseeable changes in the business of the entity (operations, markets, products) and from business conduct;
+			- • Whether underlying risks within financial structures that have limited transparency have been sufficiently identified (e.g. off-balance sheet exposures, complex asset or risk transfer structures);
+			- • Whether the reasonably foreseeable causes of risks and their consequences have been sufficiently identified;
+			- • Risks arising or increasing as a consequence of risk management activities (e.g., credit risk arising from the transfer of risk);
+			- • The impact that an entity’s culture, governance structure and remuneration systems may have on the ability and willingness of the management and staff to identify and manage risks, and whether culture, governance structure or remuneration generates, magnifies or mitigates risks; and
+			- • Input regarding the identification of risks from management, other knowledgeable persons within the entity, other subject matter experts and regulators.
+		- Assessing the risks
+			- • The qualitative assessment of risks in addition to, or instead of, assessing them quantitatively;
+			- • Risk correlations, risk aggregations and tail risks (e.g., catastrophe and pandemic risks, and complex outsourcing risks);
+			- • The appropriateness of the risk modelling, stress testing, reverse stress testing and scenario testing techniques that are applied;
+			- • The extent to which the risk models that measure the probability and impact of risks provide results that are consistent with information expressed by market prices, where applicable, for the risks concerned or related risks;
+			- • The consistency among the various valuation methodologies underlying the enterprise risk management program;
+			- • The operation and effectiveness of the processes and mechanisms used to address risk control and risk mitigation;
+			- • The appropriateness of the assumptions regarding future actions taken by management and by external parties, taking into account prior experiences in the industry with similar actions;
+			- • Input regarding probability and impact from management, other knowledgeable persons within the entity, other subject matter experts and regulators; and 
+			- • Consistency of risk assessments over time.
+		- Risk Management
+			- • The entity’s risk management policies and risk appetite and tolerance statements;
+			- • The relationship between the entity’s financial strength and risk profile, and the entity’s risk management system;
+			- • Any significant inconsistency in the evaluation of the entity’s risk tolerances and risk limits;
+			- • The extent to which the results of the risk models used to measure the economic costs and benefits of risk mitigation are consistent with information expressed by market prices, where applicable, for the risks concerned or related risks;
+			- • The operation and effectiveness of the processes and mechanisms used to address risk control and risk mitigation;
+			- • The appropriateness of the assumptions regarding future actions taken by management and by external parties, taking into account prior experiences in the industry with similar actions;
+			- • The culture within the entity to commit to, and implement, risk mitigation actions when needed;
+			- • The impact of reasonably foreseeable future adverse circumstances on the availability and effectiveness of future risk mitigation practices;
+			- • The existence and effectiveness of feedback loops in the risk management process; and
+			- • How the nature and relative importance of risks may change over time.
+	- 8230
+		- Enterprise risk management
+		- Aggregation of risks:
+			- • The financial strength, risk profile, business management, governance structure and risk environment of the entity;
+			- • Whether the risk management processes are suitably aligned with the entity’s objectives and strategy, regarding aggregate risk taking and regarding each major risk category, as reflected by the risk appetite, risk tolerance and risk limits;
+			- • The interdependence of risks relating to the entity’s assets and liabilities, noting that correlation of risks between different asset classes, products and business lines may not be linear, and may change under stressed conditions;
+			- • Off-balance sheet exposures that may revert to the entity in times of difficulty; and
+			- • Diversification benefits that result from aggregation of risks.
+		- Reviewing risk management framework:
+			- • The engagement of the Board in assessing, setting, monitoring and reviewing the entity’s risk appetite and risk profile, and whether the interests of its clients and other relevant stakeholders are considered appropriately within those processes;
+			- • The adequacy of the risk management resources and capabilities within the entity for the current and expected risk profile and risk management strategies;
+			- • The quality, extent and effectiveness of independence, challenge and monitoring reflected in the framework;
+			- • The extent and results of recent reviews and audits of control effectiveness, and management’s response to the findings;
+			- • The management of potential conflicts of interest;
+			- • The extent to which risk management and risk assessments are used in the decision making practices of the entity;
+			- • The effectiveness of risk communication channels within the entity, including risk escalation processes, and with its regulators;
+			- • The effectiveness and timeliness of the reporting of, and response to, incidences and breaches related to the operation of the enterprise risk management framework within the entity;
+			- • The operational quality and effectiveness of key enterprise risk management framework related policies, processes and mechanisms, including, but not limited to, third party management, business continuity management (including pandemic response management), whistle blowing policies, fraud and privacy risk management, model risk management and business conduct risk management;
+			- • The extent to which the enterprise risk management framework is adaptive to changes to the entity and to its environment;
+			- • The extent that the enterprise risk management framework complies with regulatory requirements and guidelines applicable to it;
+			- • The adequacy of the entity’s Own Risk and Solvency Assessment (ORSA); and
+			- • Contingency plans to restore the entity’s financial strength and viability in severe adverse circumstances.
+	- 8240 (ORSA)
+		- The time horizon considered by the ORSA;
+		- • Whether the qualitative and quantitative risk assessments and the financial projections used in the ORSA are appropriate for their intended purpose;
+		- • Any changes to the entity’s risk profile and risk appetite since the previous ORSA;
+		- • The various accounting bases of the entity;
+		- • Reasonably foreseeable changes in the external environment;
+		- • Allowance for new business, and for the run-off of existing and new business; 
+		- • Access to new capital in times of financial stress;
+		- • Differences between the entity’s regulatory capital requirements and the entity’s own assessment of its capital needs;
+		- • The quality and adequacy of the entity’s capital resources in relation to quality and adequacy criteria established by the regulatory body;
+		- • The degree of severity reflected in the risk modelling, stress testing, reverse stress testing and scenario testing; and
+		- • The circumstances that may trigger an ORSA to be performed at a time other than during the regular review schedule.

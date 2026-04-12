@@ -1,0 +1,33 @@
+- CAS criteria
+- Selecting an appropriate modelling technique:
+	- Aims of the analysis – Does the procedure achieve the aim of the analysis?
+	- Data availability – Are the appropriate types of data available and in sufficient quantity?
+	- Non-data-specific model evaluation – The CAS Working Party asks the following questions:
+		- Has the model been validated against historical data that are similar to the data at hand?
+		- Has the model been verified to perform well against data that contain known results and contain similar features to those expected to underlie the data to be analyzed?
+		- Are the model’s assumptions plausible given what is known about the process generating the data?
+	- Cost/benefit analysis – Relevant questions include:
+		- Can the analysis be performed using widely available software or is specialist software required?
+		- How much analyst and computer time is required?
+		- How difficult is it to describe the workings of the procedure to others?
+- Overall model reasonableness:
+	- Coefficient of variation (CV) by year;
+	- Standard error (SE) by year;
+	- Overall CV;
+	- Overall SE;
+	- Correlated SE and CV;
+	- Reasonability of model parameters and development patterns;
+	- Consistency of simulated data with actual data; and
+	- Model completeness.
+- Model goodness of fit:
+	- Validity of link ratios;
+	- Standardization of residuals;
+	- Analysis of residual patterns;
+	- Prediction error and out-of-sample data;
+	- Goodness-of-fit measures including
+		- Adjusted sum of squared errors;
+		- Akaike Information Criterion; and
+		- Bayesian Information Criterion.
+	- Ockham’s Razor and the principle of parsimony (the principle of parsimony states that all else equal, a simpler model is preferred);
+	- Predictive variability; and
+	- Model validation.

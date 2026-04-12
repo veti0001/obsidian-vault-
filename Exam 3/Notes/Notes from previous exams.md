@@ -1,0 +1,19 @@
+- Why we should identify ENID: 
+	- An insurer identifying ENID likely viewed favourably by regulator
+	- “Blue Sky Thinking” in the process will give participants a different perspective/view of the company and is likely to provide more insight 
+	- Provide a basis for the frequency-severity approach
+- Possible ENID:
+	- Catastrophe claims
+	- Court rulings
+	- Legislative changes
+- Why ORSA better for a company then MCT:
+	- ORSA considers more risks than MCT and includes all risks material and relevant to the  company
+	- ORSA considers dependencies and correlations between risks whereas MCT uses a  simplified approach that only considers correlation between insurance and asset risk
+	- ORSA includes assessment of internal controls to allow for better management of the  business
+	- ORSA allows for the setting of an internal target to reflect an insurer’s own risk appetite 
+	- ORSA allows for a better qualitative assessment of risk, whereas MCT is only quantitative 
+	- ORSA is tailored to a company’s own risk profile, whereas MCT is a formula‐based  approach that is not specific to the company
+	- ORSA is more of a forward‐looking measure
+	- ORSA is used for mitigation/prevention exercise
+- Duration comparison:
+	- Effective duration accounts for situations where the cash flows may change as a result of changes in interest rates. Modified duration does not.

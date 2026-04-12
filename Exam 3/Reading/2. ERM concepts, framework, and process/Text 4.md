@@ -1,0 +1,39 @@
+- link: [Stress Testing – Guideline (2009) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009)
+- Key concepts:9
+- Resume:
+	- stress testing guidelines:
+	- Stress testing:
+		- effect of plausible events on the financial situation of a company
+		- include stress testing and scenario testing
+		- stress testing:
+			- useful during period of expansion or when market has been good for a long time
+			- assumptions made are no longer true
+			- purpose:
+				- helps in: setting the institution's risk appetite, setting exposure limits, and evaluating strategic choices in longer term business planning.
+				- **Risk identification and control**
+				- **Providing a complementary risk perspective to other risk management tools**
+				- **Supporting capital management**
+				- **Improving liquidity management**
+		- Role of senior management:
+			- essential for its effective operation
+		- General Consideration for stress testing programs:
+			- **Stress testing programs should take account of views from across the organisation and should cover a range of perspectives and techniques**
+			- **Institutions should have written policies and procedures governing the stress testing program. The operation of the program should be appropriately documented.**
+			- **An institution should have a suitably robust infrastructure in place, which is sufficiently flexible to accommodate different and possibly changing stress tests at an appropriate level of granularity.**
+			- **An institution should regularly maintain and update its stress testing framework. The effectiveness of the stress testing program, as well as the robustness of individual components, should be assessed regularly and independently.**
+		- Methodology and scenario selection:
+			- takes into account the most material risks 
+		- Specific area of focus:
+			- Risk mitigation:
+				- performance of reinsurance, hedging, netting and the use of collateral, should be challenged and assessed
+			-  Securitization and Warehousing Risks
+				- cover complex programs
+				- Hold assets longer than anticipated
+			- Risk to reputation
+				- take into account 
+			- Counterparty credit risks:
+			- Risk concentrations:
+	- Supervisory Consideration:
+		- OSFI can look at multiple things
+	
+

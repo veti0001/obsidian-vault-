@@ -1,0 +1,6 @@
+- Link: [Climate Risk Management - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/climate-risk-management)
+- Key Points: 7
+- Resume:
+	- climate risk mitigation
+		- split into physical and transition risk
+		- only talks about things a company should disclose

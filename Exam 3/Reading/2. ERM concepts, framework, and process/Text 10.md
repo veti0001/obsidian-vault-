@@ -1,0 +1,4 @@
+- Link:[09-hall-jones-madigan-zheng_0.pdf](https://www.casact.org/sites/default/files/2021-02/09-hall-jones-madigan-zheng_0.pdf)
+- key points:
+- Resume:
+	-  Analysis of Insurance environment and what can be done to make it better
