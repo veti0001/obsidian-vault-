@@ -1,0 +1,10 @@
+- Minimum capital:
+	 - The minimum levels of capital necessary for an insurer to cover the risks specified in the Capital Guidelines.
+	- If an insurer's Capital Resources approached, or were to fall below, the Minimums, OSFI would be very concerned about the ongoing viability of the insurer and/or the level of risk to policyholders and creditors.
+- Supervisory target
+	- The target levels of capital necessary for an insurer to cover the risks specified in the Capital Guidelines as well as to provide a margin for other risks.
+	- provide an early signal so that intervention will be timely and for there to be a reasonable expectation that actions can successfully address difficulties
+	- An insurer whose Capital Resources approach or fall below the Supervisory Targets will attract increased supervisory attention, which would generally include an early warning intervention status
+- Internal Targets:
+	- The target levels of capital, determined as part of an insurer's ORSA, needed to cover all the risks of the insurer, including the risks specified in the Capital Guidelines.
+	- If this happens, or is anticipated to happen within two years, the insurer should inform OSFI promptly and provide plans on how it expects to manage the risks and/or restore its Capital Resources levels to its Internal Targets within a relatively short period of time.

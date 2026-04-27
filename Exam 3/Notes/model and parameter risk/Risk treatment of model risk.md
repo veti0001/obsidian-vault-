@@ -1,0 +1,19 @@
+- coding error:
+	- strong model governance and rigorous vetting and approval requirement 
+- Misuse of model risk:
+	- strong training of model users
+	- model users present at design stage 
+	- easily interpretable and usable results
+	- have a feedback channel in place
+	- having process in place that guarantees that the model is not deployed outside of is intended usage
+- idiosyncratic model error
+	- difference between the model outputs and the real world
+	- can be mitigated with model design
+- multiple inconsistent usage of model:
+	- strong model governance and control
+- Fat finger error:
+	- have a good user interface with checks and constraint 
+- Spreadsheet error 
+	- rigorous vetting process
+- Model and parameter uncertainty
+	- relevant stakeholders is not involved in the model vetting or approval

@@ -1,0 +1,7 @@
+- Transaction risk:
+	- is the risk arising when a firm has current contractual obligations which are specified in different currencies.
+- Economic risk:
+	- refers to a firm’s general economic exposure to exchange rate fluctuations.
+- Translation risk:
+	- arises from the requirements of financial reporting for a firm with assets and liabilities designated in different currencies.
+- Highly quantifiable

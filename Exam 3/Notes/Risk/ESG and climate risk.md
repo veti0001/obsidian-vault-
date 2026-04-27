@@ -1,0 +1,2 @@
+- Environmental risk arises from changes in the environment and in the way organizations and society in general interact with the environment.
+- transition, physical and liability are different kind of environmental risk

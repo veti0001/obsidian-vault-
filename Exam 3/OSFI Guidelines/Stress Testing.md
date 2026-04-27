@@ -1,4 +1,8 @@
 link: [Stress Testing – Guideline (2009) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009)
+definition stress testing: 
+	- A risk management tool used to determine the potential impact on a company financial condition, of a selected change of risk factors, corresponding to an exceptional but plausible event.
+definition reverse stress testing:
+	- Start with a specific result and then work backward to analyse what’s need to set that result and assess of that scenario is plausible. Could be useful to define adverse scenario that should be assess in the FCT process.
 purpose:
 	- Risk identification and control: All material risks should be identified and interdependencies between risks should be considered.
 	- providing a complementary risk perspective to other risk management tools: Should complement other risk assessment tools. Method used for a risk should depend on the complexity for this risk.

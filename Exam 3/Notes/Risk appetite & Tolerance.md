@@ -13,3 +13,8 @@
 - Qualitative risk appetite statements are often relative or categorize risk appetite into broad buckets
 - Need to monitor compliance 
 - risk appetite and tolerance should be updated
+- how to create risk appetite statement:
+	- how: risk culture
+	- what: strategy and objectives
+	- how much: risk capacity
+- Typical metrics that are covered in risk appetite or risk tolerance statements include share price, earnings volatility, excess capital over regulatory minimum requirements, credit rating, credit risk, customer satisfaction, and reputation

@@ -1,6 +1,6 @@
 - link: [Own Risk and Solvency Assessment - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment)
 - The ORSA should contain, at a minimum, certain key elements and considerations, including:
-1. Comprehensive Identification and Assessment of Risks
+1. Comprehensive Identification and Assessment of Risks: Should be able to understand and evaluate all possible sources of risk (use of individual and aggregate data)
 2. Relating Risk to Capital
 3. Oversight
 4. Monitoring and Reporting

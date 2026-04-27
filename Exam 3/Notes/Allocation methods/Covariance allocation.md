@@ -1,0 +1,5 @@
+- need to use the std risk measure
+- advantages:
+	- satisfy the 4 allocation criteria
+- disadvantages:
+	- need to use the std risk measure witch is not common

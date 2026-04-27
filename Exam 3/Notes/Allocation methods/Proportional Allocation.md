@@ -1,0 +1,8 @@
+- Does not satisfy: Consistency
+- Advantages:
+	- straightforward
+	- simple to calculate
+	- easy to explain
+- Disadvantages:
+	- does not reflect the relationship between units
+	- is not consistent

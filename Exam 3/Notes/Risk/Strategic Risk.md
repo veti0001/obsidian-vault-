@@ -1,0 +1,4 @@
+- Strategic risk refers to losses arising from adverse effects of strategic decisions made at the senior organizational level.
+- It is used more as a catch-all term for the potential adverse outcome of a strategic plan or decision.
+- Happens when obvious bad decision are made
+- Not really quantifiable with quantitative analysis

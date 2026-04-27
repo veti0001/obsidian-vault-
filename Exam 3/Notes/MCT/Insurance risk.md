@@ -1,0 +1,5 @@
+- Insurance risk is the risk arising from the potential for claims or payouts to be made to policyholders or beneficiaries. Exposure to this risk results from the present value of losses being higher than the amounts originally estimated.
+- Liability for incurred claims and unexpired coverage:
+	- Given the uncertainty that insurance contract liabilities will be sufficient to cover future claims, margins are added to cover a potential shortfall.
+- Reinsurance held with unregistered insurers:
+- Earthquake and nuclear catastrophe reserves

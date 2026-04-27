@@ -1,0 +1,29 @@
+- risk appetite
+	- The amount and type of risk an organisation is willing to accept in pursuit of its strategic objectives, balancing both threats and opportunities
+- risk identification
+	- Risk identification is the **structured, proactive activity of uncovering, describing, and recording potential risks**—whether threats or opportunities—that may influence financial performance, operational stability, or strategic goals. It is the **first step in ERM**, forming the foundation for later assessment, measurement, and mitigation.
+- risk assessment 
+	- Risk assessment is the **systematic evaluation of hazards or risks to understand how likely they are to occur and how severe their consequences could be**, enabling an organization to **prioritize and decide on appropriate controls or mitigation actions**.
+- risk monitoring
+	- Risk monitoring ensures that an organization maintains an up‑to‑date understanding of its risk profile as conditions evolve. It involves **ongoing observation of key risk indicators (KRIs)**, **detection of new or emerging risks**, and **verification that risk responses continue to work as intended**.
+	- This step is essential because risks rarely remain static—likelihoods, impacts, and external conditions shift over time. Effective monitoring ensures that management can **adjust controls, escalate issues, or revise strategies** before exposures become material.
+- risk limit
+	- Thresholds to monitor so that actual risk exposure does not deviate too much from risk target and stays within the organisation's risk tolerance and risk appetite. Exceeding risk limits will typically act as a trigger for management action
+- risk mitigation
+	- Risk mitigation is a **core step in the risk management process**. Once risks have been identified and assessed, the organization selects and implements strategies to **lower exposure**, **strengthen resilience**, and **ensure continuity**. It does _not_ aim to eliminate all risks—many are unavoidable—but instead to **prepare for them and minimize their consequences**.
+- risk capacity
+	- The amount and type of risk an organisation is able to support in pursuit of its business objectives
+- risk tolerance
+	- The specific maximum risk an organisation is willing to take regarding each relevant risk
+- desired risk profile
+	- A **desired risk profile** is the **aspirational description of the risks an organization wants to be exposed to**, reflecting its strategy, capabilities, and risk appetite. It outlines the **types of risks**, **levels of exposure**, and **balance across risk categories** that the organization considers optimal for achieving its goals.
+	- This concept is distinct from a _current_ or _actual_ risk profile, which describes the risks the organization is **actually** carrying today.
+- risk objective
+	- Risk objectives translate broad risk appetite into **actionable, quantifiable expectations**. They define _how much risk_ is acceptable, _in what form_, and _under what conditions_. They guide decision‑making, capital allocation, and control design by setting clear boundaries for acceptable exposure.
+	- examples: Reduce 5‑year IT risk exposure by 37%., Cap maximum losses related to material damage at $100,000 per month.
+- risk reporting
+	- Across authoritative sources, risk reporting is consistently described as a **systematic communication process** that provides leadership with visibility into the organization’s risk posture:
+	- It **documents and informs** senior management and the board about top organizational risks in a structured format.
+	- It **assesses, documents, and communicates** risks that threaten the organization’s objectives.
+	- It highlights **critical and emerging risks**, how well they are being managed, and where controls may be insufficient.
+	- In short, risk reporting turns raw risk data into **decision‑useful insight**.

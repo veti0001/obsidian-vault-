@@ -1,0 +1,4 @@
+-  Credit risk is the risk of loss arising from a counterparty's potential inability or unwillingness to fully meet its contractual obligations due to an insurer. Exposure to this risk occurs any time funds are extended, committed, or invested through actual or implied contractual agreements. Components of credit risk include loan loss/principal risk, pre-settlement/replacement risk and settlement risk. Counterparties include issuers, debtors, borrowers, brokers, policyholders, reinsurers and guarantors.
+- Counterparty default for balance sheet assets
+- Counterparty default for off-balance sheet exposures
+- Collateral held for unregistered reinsurance and self-insured retention

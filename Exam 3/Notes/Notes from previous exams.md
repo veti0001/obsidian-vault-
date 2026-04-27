@@ -17,3 +17,7 @@
 	- ORSA is used for mitigation/prevention exercise
 - Duration comparison:
 	- Effective duration accounts for situations where the cash flows may change as a result of changes in interest rates. Modified duration does not.
+- What kind of capital ECM can be calibrated at:
+	- Rating agency capital is the amount of capital needed to maintain a certain rating. It can be calculated based on the rating agency’s factor based model or adjusted internal model of the insurer
+	- Economic capital is the amount of capital to keep the probability of ruin of an insurer below a target level. Usually based on an internal model of the insurer and at different confidence level.
+	- Economic impairment earning usually use a much lower confidence level than the 2 above.

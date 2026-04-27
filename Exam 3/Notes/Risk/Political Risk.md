@@ -1,0 +1,2 @@
+- Political risk arises from adverse political changes in an organization’s home country or in a foreign country where there is some exposure.
+- Not really quantifiable with quantitative analysis

@@ -1,0 +1,2 @@
+- Regulatory risk arises from changes in laws or regulations which adversely impact an organization’s operations or cash flow.
+- Not really quantifiable with quantitative analysis

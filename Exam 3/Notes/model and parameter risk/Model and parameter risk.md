@@ -1,0 +1,30 @@
+- Model risk definition:
+	- ‘The use of models invariably presents model risk, which is the potential for adverse consequences from decisions based on incorrect or misused model outputs and reports. Model risk can lead to financial loss, poor business and strategic decision making, or damage to a bank’s reputation.’
+- definition of parameter risk:
+	- Parameter risk is the random uncertainty in the frequency and severity distributions of each line of business since the parameters and forms of these distributions are only estimates. This is a significant risk for insurance of all sizes because it is not able to be diversified.
+- uncertainty in loss modelling process :
+	- Model Risk – models can’t fully capture the complexity of the insurance process. 
+	- Estimation Risk – historical data may not be enough to accurately estimate model parameters. 
+	- Projection Risk – parameter estimates may not be equal to historical estimates for projection period due to trend / inflation.
+- 2 type of risk :
+	- defective model risk
+		- Model errors:
+			- model specification error: error in mathematical algo
+			- model implementation error: error when translating the model into a computer program
+		- right model wrong parameter:
+			- insufficient data to estimate parameter
+		- user generated error:
+			- error that happens after the model has been installed
+		- data quality:
+		- inconsistent model:
+			- model developed by multiple business units 
+	- defective model application
+		- right model wrong application:
+		- poor communication
+			- can cause the users to not understand the model well
+		- Over reliance on the model
+			- do not take into account that the model is  a simplification of reality
+		- Failure to heed the model:
+			- results of model are ignored
+		- model concentration risk:
+			- 1 model use in multiple context is flawed

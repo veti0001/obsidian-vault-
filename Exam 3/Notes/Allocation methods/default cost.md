@@ -1,0 +1,15 @@
+- disadvantages of allocation method based on risk measure:
+	- allocated capital may be negative
+	- if use for pricing, the allocation method may give rise to arbitrage
+	- business unit allocation does not always recognize the very different type of risk involve
+- Myers-Read:
+	- advantages: 
+		- captures some of the benefits of Euler allocation
+	- disadvantages: 
+		- A drawback is the lack of connection between the aggregate economic capital (which is assumed given) and the allocation method. Also, the allocated capital may be negative, which indicates that it would not be helpful in providing a measure of manager performance.
+- Sherris
+- Kim-Hardy:
+	- advantage:
+		- this allocation is that it can be decomposed into separate parts, depending on the purpose of the capital allocation exercise.
+- The Myers–Read and Sherris allocation methods are both based on the Q-measure default cost, and were initially developed to give capital costs for pricing purposes; they are not designed for measuring manager performance.
+-  The Kim–Hardy method is designed to bridge the risk measure based allocations and the default cost allocations, and is also constructed with the view that different decompositions can be used for different purposes.

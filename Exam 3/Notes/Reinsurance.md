@@ -1,0 +1,10 @@
+- Quota Share:
+	- Fixed percentage ceded on every policies
+- Surplus Share:
+	- Ceded portion varies by policy size; insurer retains a “line.”
+- Excess of loss (XoL):
+	- Covers severity above a retention (e.g., 1M xs 1M).
+- Catastrophe XoL (Cat XoL)
+	- Covers event‑based accumulations (wind, quake, flood).
+- Stop Loss:
+	- Covers aggregate losses above a % of premium (e.g., 120% L/R).

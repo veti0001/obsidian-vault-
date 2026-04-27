@@ -1,0 +1,2 @@
+- Reputational risk refers to any risk that could damage the enterprise by damaging its reputation with customers or other stakeholders.
+- Not really quantifiable with quantitative analysis

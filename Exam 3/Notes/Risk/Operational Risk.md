@@ -1,0 +1,48 @@
+- Operational risk is defined as the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This definition includes legal risk, but excludes strategic and reputational risk
+- Risk culture is really important in operational risk (weak risk culture = more operational risk)
+- Not well adapted for quantitative approaches
+- Be certain that there is no double counting (quite frequent in practice)
+- type of operational risk:
+	- People and people process risk
+		- People risk:
+			- is the risk that individuals working for the organization, directly or through outsourcing, fail to follow the organization’s rules, processes, or procedures.
+		- Behavioural risk:
+			- refers to poor behaviour or poor decision-making caused by the corporate culture, combined with psychological biases.
+		- People process risk:
+			- is the risk that the human resource process fails.
+		- Dominance risk:
+			- individual (typically CEO) has too much power
+	- Cyber Risk:
+		- Cyber risk may refer to the potential for losses arising from the failure of a firm’s IT systems, but it is most commonly associated with criminal attempts to breach a firm’s security system.
+		- Data breach:
+			- is an event in which information is accessed by hackers from outside the firm.
+		- Ransomware:
+			- refers to malware (malicious software) that blocks the victim’s access to their data until a ransom is paid to the perpetrators.
+		- denial of service attack (DoS):
+			- is designed to render the victim’s network unusable by either flooding the network with traffic or creating a network crash.
+		- Other IT risk:
+			- (a) Accidental loss or corruption of data.
+			- (b) Unidentified bugs/errors in programs.
+			- (c) System failure from inadequate capacity.
+			- (d) Outages and interruptions to service.
+			- (e) Failure of internet service providers (ISPs).
+			- (f) Loss of data through destruction of physical storage through, for example, a natural disaster.
+	- Project Risk:
+		- Scope risk
+			- is the risk that the project goals are changed during the implementation phase, leading to potential overruns in time or budget and also, potentially, failing to meet the original project objectives.
+			- cause by scope creek and gap risk
+		- Defect risk
+			- is the risk that hardware or software acquired or developed in order to implement a project does not meet the project needs.
+		- Schedule risk
+			- is the risk of loss due to schedule failure.
+		- Resource risk
+			- is the risk of loss due to resources not being available when required.
+	- Legal Risk:
+		- Risk of lawsuit
+			- or similar claim or proceeding arising from infringement of laws or regulations, or from negligence leading to civil liability.
+		- Defective contracts,
+			- where, for example, a contract is not legally enforceable because of errors or omissions in the contract terms or process.
+	- Pricing risk:
+		- Pricing risk arises if a product is priced too low or too high.
+		- model and parameter risk fall here
+	

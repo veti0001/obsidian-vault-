@@ -1,0 +1,7 @@
+- method based on game theory
+- is not consistent
+- advantages
+	- linear homogeneous allocation
+- disadvantages:
+	- quite difficult to calculate if multiple business units
+	- not consistent

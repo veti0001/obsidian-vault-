@@ -31,3 +31,22 @@
 	- Ockham’s Razor and the principle of parsimony (the principle of parsimony states that all else equal, a simpler model is preferred);
 	- Predictive variability; and
 	- Model validation.
+- Model management actions:
+	- depends of the risk rating of the model (more risky model = more mitigation items)
+		- look at 2 factors to determine model risk:
+			- potential severity:
+				- financial significance of model outputs
+				- importance of decision being made with the model
+				- frequency of usage
+				- reputational impact
+			- likelihood of model failure:
+				- complexity of model
+				- expertise and knowledge of users
+				- adequacy of documentation
+	- list of things to validate:
+		- Data:
+			- need to be sufficient and reliable
+		- Assumptions:
+		- Results:
+		- Documentation: 
+			- model limitation

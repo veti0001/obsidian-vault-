@@ -1,0 +1,8 @@
+- Market liquidity:
+	- risk is the risk that access to liquidity is restricted through general market conditions – typically, in a volatile, falling market
+- Funding liquidity:
+	- risk arises when a firm has sufficient assets to meet liabilities, but insufficient cash. This may arise from market liquidity risk, reducing availability of loans or liquid assets, or it may be an idiosyncratic risk, arising from the specific circumstances of the firm.
+- Less quantifiable:
+	- stress and scenario test 
+	- use liquidity adjusted risk measure
+-

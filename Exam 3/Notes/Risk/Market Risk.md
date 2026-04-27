@@ -1,0 +1,10 @@
+- Stock Market risk:
+	- risk arising from movement in the stock market
+- Interest rate risk:
+	- as interest rate increase, bond value will decrease. This may be a significant risk for entity with significant bond exposure
+	- interest rate also affect investor behaviour
+- Spread risk:
+	- Spread risk is the risk arising from changes in spreads. It is a problem, for example, if a firm holds short-term bonds, but has liabilities tied to long-term yields.
+- Systemic risk:
+	- risk of disruption to financial services that is caused by an impairment of all or parts of the financial system and that has the potential to cause serious negative consequences for the real economy.
+- Highly quantifiable 

@@ -1,0 +1,6 @@
+- 2 type of credit risk:
+	 - Market Risk:
+		 - assets held by a firm lose value because of changes in the credit standing of the issuer 
+	- Default risk:
+		- losses caused by the failure of other business or individuals with whom the firm has financial relationship
+- highly quantifiable

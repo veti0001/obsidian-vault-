@@ -10,3 +10,12 @@
 	- Any material reservations about the accuracy or completeness of the data, to the extent that they are likely to limit the usefulness of the resulting actuarial information for decision- making;
 	- Any doubt that is associated with the use of an approximation; and
 	- An indication of the level of uncertainty inherent in the data.
+-  The main purposes of model governance are:
+	- • Managing different life stages
+	- • Managing inventory
+	- • Assessing the materiality of the model being used
+- Peer Review:
+	- As recommended by good practice, reviews and audits should be made by people that were independent to the work. They should also be independent of the managers since there could be some conflicts of interest. There is clearly a conflict of interest for my colleague as he responds to the same manager and probably has to gain that the project moves on. However, he is right to say that the peer reviewer should be an FICA. But in addtion to being FICA, the peer reviewer should have similar experience to the AA. Next, an external audit is a good thing, but a peer review would need to challenge at a more granular level the assumptions and methods used, while the auditor should only assess the overall adequacy. With all that being said, an independent peer reviewer would still be required.
+	
+- The Board has the initial key responsibility for establishing and communicating the risk culture of the organization. It is also responsible for determining the organization’s risk appetite and for creating formal structures and processes for implementing and monitoring risk management practices throughout the organization.
+- The management of the firm are then responsible for implementing the structures and processes determined by the board and setting internal control mechanisms for monitoring the implementation.

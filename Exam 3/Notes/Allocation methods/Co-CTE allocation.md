@@ -1,0 +1,3 @@
+- advantages:
+	- much more stable than the co-cte allocation
+	- satisfy the 4 criteria

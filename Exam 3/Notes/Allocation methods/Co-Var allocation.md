@@ -1,0 +1,3 @@
+- disadvantages:
+	- does not satisfy the no undercut criteria
+	- lack of stability in the allocation

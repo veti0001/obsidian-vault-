@@ -1,4 +1,4 @@
-2500: (FCT)
+2500: (FCT) [SOP Part 2000](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618461&fid=618463) 
 	 - 2510:
 		- Financial condition testing 
 		- talks about the duty of the appointed actuary
@@ -15,14 +15,14 @@
 		- Opinion by the actuary
 		- The report should contain an opinion signed by the appointed actuary
 		- need to disclose management action in some specific case
-8000:
+8000: (ERM) [SOP Part 8000](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618516&fid=618517)
 	-  8100
 		- ERM focused
 		- purpose of section: 
 			- Actuarial work are carried out professionally and with due care;
 			- The results are relevant to users’ needs, are presented clearly and understandably, and are complete; and
 			- The assumptions and methodology used are disclosed appropriately.
-	- 8210eeeeeeeaahahahah
+	- 8210
 		- actuary should take into account the circumstances affecting the work
 	- 8220
 		- Identifying risks

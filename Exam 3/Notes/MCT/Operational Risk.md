@@ -1,0 +1,1 @@
+- Operational risk is the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. The definition includes legal risk but excludes strategic and reputation risk. Exposure to operational risk results from either day-to-day operations or a specific, unanticipated event.

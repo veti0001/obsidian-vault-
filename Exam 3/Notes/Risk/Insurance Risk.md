@@ -1,0 +1,15 @@
+- Pricing/Underwriting:
+	- Underwriting risk is defined as the degree to which insured claims and expenses are different from expected provisions in the premiums or the degree to which actual premiums do not materialize as expected. (favourable or unfavourable)
+	- 3 main components are (in order of importance):
+		- Future claims excluding catastrophe claims and including participation in relevant risk-sharing pools;
+		- Uncertainty in both premiums and exposures; and
+		- Expenses
+	- Easily quantifiable
+- Reserving risk
+	- Reserving risk is defined as the degree to which the best estimate of unpaid claims is insufficient to meet the final settlement value of all incurred claims as they run off.
+	- The required economic capital associated with reserving risk is determined based on the selected risk measure minus the expected value underlying the distribution modified for relevant adjustments (remove expected value of reserve)
+	- Easily quantifiable (Exam 2 methods)
+- Catastrophe risk:
+	- the risk associated with catastrophes from an underwriting perspective (i.e., the catastrophe risk underlying the unearned premiums and the premiums forecasted to be written during the time horizon).
+	- Need to be certain that there is no double counting
+	- Easily quantifiable with Cat models, but there is a lot of uncertainty in the tail of the data due to low data volume.

@@ -1,0 +1,14 @@
+- link: [Appointed Actuary: Legal Requirements, Qualifications and Peer Review – Guideline (2023) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/appointed-actuary-legal-requirements-qualifications-peer-review-guideline-2023)
+- peer review usage:
+	- Actuarial peer review is one tool OSFI uses in its assessment of the safety and soundness of federally regulated insurers.
+	- Be of benefit to the AA by providing a source of independent consultation advice and an additional source of professional education
+	- Maintain and strengthen confidence in the work of the AA by the public, by insurance company management and directors, and by supervisory authorities.
+- What peer reviewer is expected to do in FCT:
+	- Ascertain that the work of the AA complies with accepted actuarial practice and OSFI regulation
+	- Review the appropriateness and extent of internal and external material changes affecting the AA’s analyses.
+	- Review the adequacy of procedures, systems, and the work of others relied on by the AA to the extent that these are not reviewed by the external auditor
+	- Discuss with the AA the appropriateness of assumptions used, methods employed, FCT scenarios, and work of others relied upon
+	- Determine whether the AAR and FCT report sufficiently describe the assumptions and methodology employed by and adequately present the findings of the AA.
+	- Produce a written report documenting the findings of the peer review.
+- If there are no material changes to the FCT, then the limited annual review is only required to address the appropriateness of the scenarios employed.
+- The review of the FCT report is also encouraged to be pre-release but may be post-release depending on the circumstances of the company

@@ -1,0 +1,9 @@
+- Market risk arises from potential changes in rates or prices in various markets such as for interest rates, foreign exchange rates, equities, real estate, and other market risk exposures. Exposure to this risk results from trading, investing, and other business activities, which create on- and off-balance sheet positions.
+- Interest Rate Risk:
+	- Interest rate risk represents the risk of economic loss resulting from market changes in interest rates and the impact on interest rate sensitive assets and liabilities. Interest rate risk arises due to the volatility and uncertainty of future interest rates.
+- Foreign Exchange Risk:
+	- The foreign exchange risk margin is intended to cover the risk of loss resulting from fluctuations in currency exchange rates and is applied to the entire business activity of the insurer.
+- Equity risk:
+	- Equity risk is the risk of economic loss due to fluctuations in the value of common shares and other equity securities.
+- Real estate risk:
+	- Real estate risk is the risk of economic loss due to changes in the value of a property or in the amount and timing of cash flows from a property.
