@@ -1,0 +1,6 @@
+-  Number: 1520
+- Definition:
+	- The actuary should cooperate with an auditor who wishes to use the actuary’s work in accordance with the following Joint Policy Statement.
+- Other useful info:
+	- The statement is on the pdf document, if needed
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 49

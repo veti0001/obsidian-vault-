@@ -1,0 +1,7 @@
+-  Number: 2430
+- Definition
+	- Section 1300 applies rigorously to the engagement.
+- Other useful info:
+	- Qualifications, experience, and knowledge is needed
+	- Information needed (data neede to do analysis)
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 110

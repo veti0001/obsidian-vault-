@@ -1,0 +1,6 @@
+-  Number: 2440
+- Definition
+	- The appointed actuary should identify and monitor matters that may threaten the insurer’s financial condition. The appointed actuary should investigate and then report, as required by law, any such matter that requires rectification to the senior management and, in the case of a Canadian insurer, send a copy of the report to the directors. Depending on the jurisdiction of the insurer, the law may also require that the report be provided to the insurer’s regulation
+	- The report may include recommendations for rectification and should specify a deadline for rectification that the actuary may later extend if appropriate. If there is no suitable rectification by that deadline or its extension, then the appointed actuary should report the matter to the insurer’s regulator.
+- Other useful info:
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 112

@@ -1,0 +1,4 @@
+Why model are not accurate:
+		- The insurance loss environment is too dynamic to be captured in a single stochastic loss reserve model. I.e., There could be different “black swan” events that invalidate any attempt to model loss reserves.
+		- There could be other models that better fit the existing data.
+		-  The data used to calibrate the model is missing crucial information needed to make a reliable prediction. Examples of such changes could include changes in the way the underlying business is conducted, such as changes in claim processes or changes in the direct/ceded/assumed reinsurance composition of the claim values in triangles.

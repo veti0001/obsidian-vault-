@@ -1,0 +1,31 @@
+-  CY Premium, CY Exposures and CY Claims:
+	- Advantages:
+		-  No development
+		-  Calendar year data is readily available, since it's required for financial reporting
+	- Disadvantage:
+		- It provides a poor match in timing between  premium/exposures and loses
+-  CY Premium, CY Exposures and AY Claims:
+	- Advantages:
+		-  Most commonly use aggregation method
+		-  It provides a better match in timing between  premium/exposures and loses  than Calendar Year
+		-  Method is also preferable when we want to isolate events such as catastrophes
+	- Disadvantage:
+		- Future development must be estimated since accident year losses develop over time
+- AY Premium, AY Exposures and AY Claims:
+	- Advantages:
+		-  Provides a truer match between or premiums/exposures to losses then calendar / accident year
+	- Disadvantage:
+		- Need to develop Premiums and exposure (need to estimate)
+- PY Premium, PY Exposures and PY Claims:
+	- Advantages:
+		- Provides a true match between or premiums/exposures to losses
+		- Preferable when you want to isolate policy or underwriting changes
+	- Disadvantage:
+		- Takes longer to develop than accident year data
+- - RY Premium, RY Exposures and RY Claims:
+	- Advantages:
+		- Use for claim made policy
+		- Number of claims is known at the end of the year
+		- Preferable when you want to isolate changes in claims practices
+	- Disadvantage:
+		- Useful in estimating IBNER but not IBNR

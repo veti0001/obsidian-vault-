@@ -1,0 +1,41 @@
+- Residuals = Real value - Predicted Value
+- j = development period
+- k = accident year
+-  Mack model: 
+	- Hypothesis:
+		- Accident years are stochastically independent,
+		- Xkj ( j varying) form a Markov chain (Cumulative paid value)
+		- For each k = 1, 2, . . . , K and j = 1, 2, . . . , J-1, (a) E[Xk,j+1|Xkj] = fjXkj for some parameter fj > 0; (b) Var[Xk,j+1|Xkj] = sigma^2j Xkj for some parameter sigmaj > 0
+	-  It is worthy of note at the outset that the Mack models apply to cumulative data
+	- that setting the weight of any observation to zero causes that observation, in effect, to be deleted from the data set (for mack model)
+	- The Mack model assumes that the loss amounts for different accident years are independent. A model that allows for correlation between accident years could increase the standard deviation
+-  EDF Mack model: 
+	-  Only difference is that Yk,j+1|Xkj ~ EDF(qkj, fkj; a, b, c)
+	- A specific form is defined for the law of incremental loss knowing past cumulative losses. 
+	- the form of variance allowed in the EDF Mack model is more general than in the non-parametric Mack model.
+- ODP Mack model:
+	- $Yk,j+1|Xkj$  ~ $ODP(µkj, fkj)$
+	- the response  vector Y now consists of all observations Yk,j+1/Xkj (incremental loss / cumulative loss -1 period)
+-  The prediction error associated with the forecast Y kj is Real value - Predicted Value.
+- For example, in the case of one large insurer, model error was assessed as representing about three-quarters of total prediction error.
+- Estimate error of model:
+	- Delta method:
+		- The delta method is relatively simple computationally, its accuracy in any particular application is unknown, and may be dubious in some cases. Further, although it provides an estimate of MSEP, it provides no information on the distributional properties of prediction error, e.g., quantiles
+	- Bootstrap Method:
+		-  First, since it is a second order approximation to covariance, it leaves an unquantified third order error
+		- Second, even a relatively accurate estimation of second order moments provides little distributional information
+		- The bootstrap is a procedure which estimates the entire distribution of the estimand
+		- it also generates an estimate of variance
+			- Semi - Parametric:
+				- it involves repeated sampling from the available data
+				- procedure that involved resampling residuals and constructing pseudo datasets from these and fitted values
+				- the requirement is actually that the Si (residuals) be approximately iid
+				-  Use those residuals to simulate data (inverese them)
+				- Use same model on new simulated data
+				- Will produce range of possible value for desire mesure
+			- Parametric:
+				-  Resampling of the actual residuals may be replaced by sampling from a normal distribution with the appropriate variance
+				- Rest is same as previous bootstrapping method 
+				- Its implementation is somewhat simpler than that of the semi-parametric form with shorter computational times, considerably so for larger data sets
+				- its validity is dependent on the assumptions
+		

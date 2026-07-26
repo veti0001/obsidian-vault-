@@ -1,0 +1,6 @@
+-  Number: 2210
+- Definition
+	- IFRS 17 Insurance Contracts (“IFRS 17”) establishes principles for the recognition, measurement, presentation and disclosure of insurance contracts. The actuary should be familiar with IFRS 17 and apply the requirements in the valuation of insurance contracts and other obligations where such valuation is to be in accordance with IFRS 17.
+- Other useful info:
+	- RA does not equal to provision for adverse deviations
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 85

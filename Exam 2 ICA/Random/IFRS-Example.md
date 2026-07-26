@@ -1,0 +1,19 @@
+- Discount = negative exponent value (oupsss)
+- sample 7 - 17 - 22
+- can combine in same portfolio GMA and PAA
+- need to calculate pv of RA if there is a specific value for every year (or multiply by discounted cash flow value)
+- Identify two contract provisions that may indicate the need to assess whether a non-distinct investment component (NDIC) needs to be reported.
+	- |Any two of the following (.25 each)|
+	- |Sliding scale commissions|
+	- |Pre-paid reinstatement premiums repayable in all circumstances|
+	- |Loss or deficit carry-forward|
+	- |Profit sharing/Experience adjustment/No-claims bonus|
+	- |Contingency fee|
+	- |Premium rebate or refund|
+	- |Stabilization fund|
+- Identify two examples of reinsurance arrangements where a uniform insurance revenue recognition pattern based on the passage of time may not be applicable.
+	- |1. risk attaching proportional treaties||
+	- |2. catastrophe treaties with material seasonality (eg hurricane)||
+	- |3. catastrophe treaties with low attachment points and limits for which the exposure may be heavily concentrated in specific months of the year (eg hail, flood and forest fire)||
+- ULAE are in LIC
+- insurance acquisition expenses are not taken into account for insurance service results

@@ -1,0 +1,6 @@
+-  Number: 1640
+- Definition:
+	- Unless the actuary reports the inconsistency, the assumptions for a calculation for a periodic report should be consistent with those of the prior calculation.
+- Other useful info:
+	- Similarly to the choice of assumptions, the choice of the model used is itself an important consideration. If the current model is different from that used in prior work, the actuary would report the implications and impact.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 69

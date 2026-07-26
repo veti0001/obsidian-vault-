@@ -1,0 +1,6 @@
+-  Number: 1730
+- Definition
+	- Oral reporting, especially to an internal user, is both useful and inevitable in some situations.
+- Other useful info:
+	- It is therefore good practice to confirm an oral report in writing,
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 79

@@ -1,0 +1,19 @@
+-  Number: 1240
+- Definition:
+	- Deviation from a particular recommendation or explanatory text in these standards is accepted actuarial practice if the effect of so doing is not material.
+- Other useful info:
+	- The standard of materiality depends on how the user uses the actuary’s work (difficult to know in advance)
+	- The actuary would choose the most rigorous standard of materiality among the users and uses.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 20
+- Things to keep in mind when determining matreriallity level:
+	- The materiality level should be related to the purposes and intended uses of the work. The actuary should understand which financial values are usually important for the intended uses. For example
+		- For regulatory or solvency issues, the materiality level is typically related to statutory surplus or the solvency benchmark ratio;
+		- For appraisal work, the materiality level is generally related to net worth, net income, or earnings per share;
+		- For DCAT work, the materiality level is expected to be less rigorous than for valuation work;
+	- The materiality level is also expected to vary according to other characteristics of the entity including but not limited to the:
+		- Size of the entity;
+		- Entity’s access to capital;
+		- Stage of organizational life cycle;
+		- Type of business (e.g., multi-line vs. single line, personal lines vs. commercial lines);
+		- Net retention.
+

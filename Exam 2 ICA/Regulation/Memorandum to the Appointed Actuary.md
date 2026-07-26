@@ -1,0 +1,21 @@
+- Generally accepted actuarial practice
+	- The work of the AA to be in accordance with accepted actuarial practice.
+	- AAs to clearly identify and provide justification when they do not follow accepted actuarial practice or the requirements of the Memorandum
+- Our Review:
+	- AAR is a critical input in our assessment of an insurer's financial resilience
+- AAR
+	- Table of contents
+	- Identification of the AA and peer review actuary
+	- Materiality
+	- Expression of opinion
+	- Changes that influenced the valuation
+	- Product
+	- Reinsurance held
+	- Data
+	- Actual and expected experience
+	- Methodology
+	- Assumptions
+	- Reliance on the work of others
+	- Table of exhibits and appendices
+
+link: [Memorandum to the Appointed Actuary (2024) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/memorandum-appointed-actuary-2024)

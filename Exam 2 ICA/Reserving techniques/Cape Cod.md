@@ -1,0 +1,26 @@
+- Assumptions: 
+	- Unreported claims will develop based on expected claims and expected claims are derived using reported claims and earned premium
+- Common usage:
+	- Same as BF
+- When to use (advantage):
+	- ECR is  estimated from historical data
+	- Compare to development method the random fluctuation at early maturities do not disturb the estimates
+- When not to use (Disadvantage)
+	- Can't be used for new lob as there is no data to calculate ECR
+	- Estimates are highly dependant on the on levelling of premium, but this can be difficult.
+	- when data is thin or volatile, the cape cod ECR will not be accurate and BR may be better
+- Change in assumptions:
+	- Speed up or slowdown of settlement of claims
+		- Accurate since based on reported claims
+	- Change in case reserve adequacy:
+		- Will overestimates when there as been an increase and underestimates when there as been a decrease, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method, but the error will be bigger then BF
+	- Change in claim ratio:
+		- These method do not fully react to change in claim ratio, because of the weight given to expected method.
+		- Will be more responsive then BF
+	- Exposure growth:
+		- Method are unaffected by exposure growth on his own. 
+		- If changes in average accident date then the estimates will be in the same direction as chain ladder but lower
+	- Change in mix of business:
+		-  Will be impacted of one of the following is true
+			- segment of the business that are changing have different claim ratio (change in claim ratio)
+			- segment of the business that are changing have same claim ratio, but different development pattern

@@ -1,0 +1,9 @@
+-  Number: 1440
+- Definition:
+	- The actuary should apply such procedures as are necessary for the actuary to arrive at a conclusion as to the sufficiency and reliability of the data. 
+- Other useful info:
+	-  Credibility vs homogeneity
+	- Data are sufficient if they include the needed information for the work. For example, participants’ dates of birth are needed to value the liabilities of a pension plan.
+	- Data are reliable if they are sufficiently complete, consistent, and accurate for the purposes of the work.
+	- Actuary should validate the data if possible
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 37

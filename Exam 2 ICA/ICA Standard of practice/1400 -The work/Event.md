@@ -1,0 +1,6 @@
+-  Number: 1420
+- Definition:
+	- Events that are definitive or virtually definitive on or before the calculation date, including those effective after the calculation date, should be reflected in the work, unless the purpose of the work is to reflect the situation prior to the event.
+- Other useful info:
+	-  See graph
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 31

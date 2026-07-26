@@ -1,0 +1,17 @@
+- Assumptions: 
+	- Claims count and severity will continue to develop in future period as they have in the past
+	- Consistent definition of claims counts throughout the experience period
+	- The mix and types of claims is relatively homogeneous 
+	- Disposal rate techniques as also as assumptions that there is no partial payment 
+- Common usage:
+	- always
+- When to use (advantage):
+	- Disposal rate technique only use paid data so not affected by change in case reserve adequacy
+	- Assumptions about  inflation and expected claim disposal can be directly integrated in methods
+	- Gain greater insight on the claim process
+- When not to use (Disadvantage)
+	- Estimates are highly sensible to trend estimates
+	- Changes in definition of claim counts impacts the estimates
+	- Changes in claim reporting or processing impact the estimates 
+	- The method requires a relatively homogeneous mix of business
+	- The data needed may not be available 

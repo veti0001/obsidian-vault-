@@ -1,0 +1,33 @@
+- Assumptions: 
+	- Ultimate claims can be better estimated based on a priori estimate  than using the experience observed to date for that period.
+	- A reasonable claim ratio can be obtained.
+- Common usage
+	- When entering new lob as there is not enough credible data
+	- When operational or environmental changes make historical data irrelevant for projecting ultimate losses
+	- When estimating ultimate at early maturities for long-tailed lines of business where  the early age-to-ultimate are really leveraged.
+	- When data is unavailable so other method can not be used 
+- When to use (advantages):
+	- provides a stable estimates of ultimate claims 
+- When not to use (disadvantages):
+	- unresponsive to recent experience
+- Change in assumptions:
+	- Changes in settlement speed:
+		- has no impact on the estimates if the estimates claim ratio is not affected
+		- if changes affect most recent year (which is not part of the calculation of expected claim ratio) than nothing will happen
+		- if changes affect other years than the error will be in the same direction as the chain ladder one, but less important. Error will only happen if we are using paid data
+	- Changes in case reserve adequacy:
+		- has no impact on the estimates if the estimates claim ratio is not affected
+		- if changes affect most recent year (which is not part of the calculation of expected claim ratio) than nothing will happen
+		- if changes affect other years than the error will be in the same direction as the chain ladder one, but less important. Error will only happen if we are using reported data
+	-  Changes in claim ratio:
+		- This method will not react to changes in that value, since the claim ration is fixed.
+		- This method will be inaccurate
+	- Exposure Growth:
+		- This method is not affected by exposure growth changes
+		- Unless the average accident year changes
+			- if changes affect most recent year (which is not part of the calculation of expected claim ratio) than nothing will happen
+			- if changes affect other years than the error will be in the same direction as the chain ladder one, but less important.
+	- Change in mix of business:
+		- Will be impacted of one of the following is true
+			- segment of the business that are changing have different claim ratio (change in claim ratio)
+			- segment of the business that are changing have same claim ratio, but different development pattern

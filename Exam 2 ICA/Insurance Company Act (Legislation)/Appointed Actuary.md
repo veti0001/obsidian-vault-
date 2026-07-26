@@ -1,0 +1,18 @@
+- Content:
+	- 357: Notify Superintendent in writing when new AA
+	- 359.1: CEO or CFO cannot be AA, unless specific conditions
+	- 359.2: CFO cannot be AA, unless specific conditions
+	- 360: Director can fired AA
+	- 361: AA stop being AA when: (list in text)
+	- 362: Notify Superintendent and fill position when AA vacancy
+	- 363: AA write a statement to Superintendent and Director when lose job
+	- 364: Need statement of 363, before new AA start job, if possible
+	- 365: AA task
+	- 365.1: Superintendent may appoint an actuary to do AA task and company will pay
+	- 366: AA can access all relevant information to do is job
+	- 367: Actuary should do is report and make a statement
+	- 368: AA should meet with director to talk financial condition of entity
+	- 369: AA should write to director if something is wrong to company  then  Superintendent if nothing is done
+	- 370: AA statement have privilege
+	
+- link: [Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/i-11.8/page-30.html#h-261737)

@@ -1,0 +1,5 @@
+-  Number: 2460
+- Definition
+	- Communication with the insurer’s auditor would be desirable when the actuary makes a report to the insurer’s senior management on a matter requiring rectification or makes an unfavourable report on the insurer’s financial condition.
+- Other useful info:
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 117

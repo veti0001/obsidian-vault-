@@ -1,0 +1,25 @@
+- definition:
+	- investigate and pay valid claims under existing insurance contracts for insured events that have not yet occurred (ie the obligation that relates to the unexpired portion of the insurance coverage); and
+	- pay amounts under existing insurance contracts that are not included in (a) and that relate to:
+		- insurance contract services not yet provided (ie the obligations that relate to future provision of insurance contract services); or
+		- any investment components or other amounts that are not related to the provision of insurance contract services and that have not been transferred to the liability for incurred claims.
+- GMA:
+	- The GMA is the standard approach for measuring insurance contracts under IFRS 17. Under the GMA, the LRC is the sum of the following elements
+		- The fulfilment cash flows related to future service, which comprise:
+		- CSM
+	- IFRS 17.33 requires the LRC to be determined at the group level. The CSM is determined at the group level, however fulfilment cash flows may be determined at a different level of aggregation and then allocated to groups of contracts.
+	- Coverage unit:
+		- determining EU. Most of time use uniform allocation unless the limit change based on coverage period (increase or decrease) (useful to determine amount of CSM gained per period)
+- PAA:
+	- The key simplification for LRC is that for groups of contracts that are not onerous, there is no requirement to calculate fulfilment cash flows nor is it necessary to identify and amortize the CSM.
+	- LRC
+		- premiums received up until the end of the reporting period less insurance revenue associated with premium for the insurance contract services provided up until the end of the reporting period, which is mathematically equivalent to the unexpired portion of the total premium receipts, net of premiums receivable;
+		- less acquisition costs that are yet to be expensed; and
+		- plus adjustments for financing and investment components
+	- LC:
+		- In broad terms, facts and circumstances can arise from any existing information readily available to management without undue cost or effort.
+		- Need to calculate LC only if previous line is true.
+		- Under the PAA, an entity may elect the option to recognize acquisition cash flows as expenses when it incurs those costs, as long as the coverage period of each contract in the group at initial recognition is no more than one year as described in IFRS 17.59
+- Summary LRC:
+	- ![[Pasted image 20251102100701.png]]
+- 

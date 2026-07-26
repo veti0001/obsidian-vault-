@@ -1,0 +1,2 @@
+- 464: director may pay dividend/bonus following actuary report
+- link:[Insurance Companies Act](https://laws-lois.justice.gc.ca/eng/acts/I-11.8/page-37.html#docCont)

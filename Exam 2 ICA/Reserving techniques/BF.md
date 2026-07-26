@@ -1,0 +1,29 @@
+- Assumptions: 
+	- Ultimate claims can be better estimated based on a priori estimate  than using the experience observed to date for that period.
+	- A reasonable claim ratio can be obtained.
+- Common usage:
+	- When there are random fluctuations or large claims at early maturities
+	- When entering new lobs
+	- When estimating ultimate at early maturities for long-tailed lines of business where  the early age-to-ultimate are really leveraged.
+- When to use (advantage):
+	- Provides more stable estimates then the Development technique and more responsive estimates then the expected claim method
+	- Benktander is even more responsive then BF while being more stable then the development method. (But not as stable as BF)
+- When not to use (Disadvantage)
+	- When CDF are lower then one need to take it into account
+- Change in assumptions:
+	- Speed up or slowdown of settlement of claims
+		- Reported will still be accurate
+		- Paid will overestimate when there is a speedup and underestimate when there is a slowdown, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method
+	- Change in case reserve adequacy:
+		- Paid will be accurate
+		- Reported will overestimates when there as been an increase and underestimates when there as been a decrease, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method
+	- Change in claim ratio:
+		- These method do not fully react to change in claim ratio, because of the weight given to expected method.
+		- Reported method will be more precise since more weight is given to development method
+	- Exposure growth:
+		- Method are unaffected by exposure growth on his own. 
+		- If changes in average accident date then the estimates will be in the same direction as chain ladder but lower
+	- Change in mix of business:
+		-  Will be impacted of one of the following is true
+			- segment of the business that are changing have different claim ratio (change in claim ratio)
+			- segment of the business that are changing have same claim ratio, but different development pattern

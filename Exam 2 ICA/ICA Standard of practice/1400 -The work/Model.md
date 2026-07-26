@@ -1,0 +1,8 @@
+-  Number: 1450
+- Definition:
+	- When the work involves the use of a model, the actuary should:
+		- choose a model appropriate to the purpose and requirements of the work; and
+		- understand any limitations in the model that might make the results of the model inappropriate for the intended purpose or might produce a misleading result.
+- Other useful info:
+	-  A standard actuarial method used within a model in its proper context would be considered appropriate without further justification; (chain-ladder, BF)
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 39

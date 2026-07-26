@@ -1,0 +1,10 @@
+-  Number: 1510
+- Definition:
+	- The actuary should use and take responsibility for another person’s work if such actions are justified.
+- Other useful info:
+	- There are considerations when an Actuary take into account the work of somebody else
+	- Actuary can:
+		- Use and take responsibility
+		- Use but not take responsibility
+			- If the actuary uses but does not take responsibility for another person’s work, the actuary’s report should indicate that the actuary relied on another person’s work, including disclosing the rationale for the nature and extent of the use of the work.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 47
