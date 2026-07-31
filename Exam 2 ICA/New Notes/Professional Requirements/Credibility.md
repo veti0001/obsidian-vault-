@@ -1,0 +1,18 @@
+- When do actuaries take into account credibility:
+    - Projecting ultimate claims
+    - Estimating unpaid claims
+    - Pricing products
+- What the actuary should document regarding the procedure:
+    - Will it produce reasonable results?
+    - Is it appropriate?
+    - Is it practical for implementation?
+- Complement of credibility considerations:
+    - The complement of credibility should be similar to the insurer's own experience.
+    - While assigning a credibility value, the actuary needs to consider the following points:
+        - The volume of claims as represented by the number or amounts of claims, premiums, or exposures
+        - The number of years of claim data underlying the experience
+        - The stability or variability observed in claims from year to year
+        - The presence or absence of large or unusual claims
+        - Changes in the internal or external environment
+        - The age, relevance, and reliability of the experience
+        - The age, relevance, and reliability of other data to which the complement of credibility would be applied

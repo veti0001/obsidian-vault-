@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51bfcce9973b36bd",
+        "id": "baf0462a3f79a1aa",
         "type": "tabs",
         "children": [
           {
-            "id": "971c0910797a818c",
+            "id": "05d38d514a329c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Notes/Ultimate claim and expenses/Definition.md",
+                "file": "Rate Regulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition"
-            }
-          },
-          {
-            "id": "7bb90c4801d21465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Notes/Ultimate claim and expenses/Use of ultimate claims.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Use of ultimate claims"
+              "title": "Rate Regulation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50260543823242
+    "width": 212.50260543823242
   },
   "right": {
     "id": "d3b3467f5618094d",
@@ -205,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 655.6666870117188
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,12 +207,25 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "130f901e6aef0424",
+  "active": "05d38d514a329c24",
   "lastOpenFiles": [
-    "Untitled",
-    "New Notes/Ultimate claim and expenses/Definition.md",
     "New Notes/Professional Requirements/Actuarial Standards.md",
+    "New Notes/Professional Requirements/Credibility.md",
+    "New Notes/Professional Requirements/Data.md",
+    "New Notes/Professional Requirements/Documentation.md",
+    "New Notes/Professional Requirements/Trend.md",
+    "Rate Regulation.md",
+    "Professional Judgement.md",
+    "Flashcards — Claim Data, Exposure, Reinsurance, Expenses, Data Quality.md",
+    "New Notes/Data/ULAE vs ALAE.md",
+    "New Notes/Data/Reinsurance Analysis.md",
+    "New Notes/Data/Homogeneity and statistical reliability of data.md",
+    "New Notes/Data/Exposure Data.md",
+    "New Notes/Data/Claim data at alternate limit.md",
+    "New Notes/Data/Aggregation of claim data.md",
     "New Notes/Ultimate claim and expenses/Use of ultimate claims.md",
+    "New Notes/Ultimate claim and expenses/Definition.md",
+    "Untitled",
     "copilot/copilot-conversations/File_Summarization_Request@20260726_183623.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-conversations/API_Key_Configuration_Error@20260727_212517.md",
@@ -243,18 +243,8 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Legacy/Advanced Reserving/MCMC.md",
     "Legacy"
   ]
 }

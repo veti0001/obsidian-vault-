@@ -1,0 +1,3 @@
+- Documentation is an integral part of actuarial process
+- Documentation requirements are set out in standards
+- documentation is complete if an other qualify actuary could redo the work and asses the judgement made
