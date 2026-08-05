@@ -1,0 +1,7 @@
+-  Number: 1620
+- Definition:
+	- The actuary should identify and select each assumption that is needed for the work, except for those that are prescribed, that are mandated by law or that are stipulated by the terms of the engagement.
+- Other useful info:
+	- The actuary should select an appropriate model or data assumption for a matter as the best estimate assumption relating to that matter, modified, if appropriate, to make provision for adverse deviations. In selecting an assumption, the actuary should take account of the circumstances affecting the work, past experience data, the relationship of past to expected future experience, anti-selection, and the relationship among matters.
+	- The appropriate assumption for a matter, other than a model or data assumption, should be continuation of the status quo, unless there is none or unless there is a reasonable expectation that it will change, and the actuary so reports
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 63

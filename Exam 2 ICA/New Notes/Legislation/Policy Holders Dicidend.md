@@ -1,0 +1,7 @@
+**464** (1) Subject to this section, the directors of a company that issues participating policies may declare, and the company may pay or otherwise satisfy, a dividend, bonus or other benefit on those policies in accordance with its dividend or bonus policy established pursuant to paragraph 165(2)(e).
+
+(2) The company’s actuary shall, in writing, report to the directors on the fairness to participating policyholders of a proposed dividend, bonus or other benefit and whether it is in accordance with the policy. The directors shall consider the actuary’s report before declaring the dividend, bonus or other benefit.
+
+(2.1) The report of the actuary referred to in subsection (2) shall be prepared in accordance with generally accepted actuarial practice with such changes as may be determined by the Superintendent and any additional directions that may be made by the Superintendent.
+
+(3) The directors of a company shall not declare a dividend, bonus or other benefit to participating policyholders if there are reasonable grounds for believing that the company is, or the payment or other satisfaction would cause the company to be, in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3).

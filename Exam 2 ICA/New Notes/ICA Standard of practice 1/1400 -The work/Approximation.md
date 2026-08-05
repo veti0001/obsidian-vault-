@@ -1,0 +1,11 @@
+-  Number: 1410
+- Definition:
+	- An approximation is appropriate if it reduces the cost of, reduces the time needed for, or improves the actuary’s control over, work without affecting the result
+- Other useful info:
+	- If the actuary reports an appropriate approximation, the report should avoid unintended reservation.
+	- If the appropriateness of an approximation is doubtful, the actuary should report its use with reservation
+	- Can arise in :
+		- Selecting Model
+		- Selecting Assumptions
+		- Sampling data to reduce size
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 29

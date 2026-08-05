@@ -1,0 +1,5 @@
+-  Number: 1630
+- Definition:
+	- The actuary should include a provision for adverse deviations in calculations only to the extent required by the terms of the actuary’s engagement or as mandated by law or as prescribed by practice-specific standards.
+- Other useful info:
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 69

@@ -1,0 +1,6 @@
+-  Number: 2450
+- Definition
+	- The appointed actuary for a Canadian insurer should report at least yearly to the directors, or to their audit committee if the directors so delegate
+- Other useful info:
+	- Different report need to be presented
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 113

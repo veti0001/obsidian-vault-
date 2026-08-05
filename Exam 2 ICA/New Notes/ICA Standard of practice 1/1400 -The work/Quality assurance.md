@@ -1,0 +1,6 @@
+-  Number: 1460
+- Definition:
+	- The actuary should implement appropriate quality assurance processes prior to the release of work to users.
+- Other useful info:
+	-  The actuary should select a peer reviewer with the appropriate experience and expertise to perform the peer review. If a person is qualified to have performed the work to be reviewed, then that is prima facie evidence that the person is also qualified to perform the peer review.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 41

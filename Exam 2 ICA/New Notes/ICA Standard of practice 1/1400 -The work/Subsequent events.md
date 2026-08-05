@@ -1,0 +1,10 @@
+-  Number: 1430
+- Definition:
+	- The actuary should correct any data defect or calculation error that is revealed by a subsequent event.
+- Other useful info:
+	-  For work with respect to an entity, the actuary should not take a subsequent event into account (other than in a pro forma calculation) unless the subsequent event:
+		- Provides information about the entity as it was at the calculation date;
+		- Retroactively makes the entity different at the calculation date; or
+		- Makes the entity different after the calculation date and a purpose of the work is to report on the entity as it will be as a result of the event.
+	- The actuary should report a subsequent event that is not taken into account in the work.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 33

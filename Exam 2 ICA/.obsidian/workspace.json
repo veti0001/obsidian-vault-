@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "baf0462a3f79a1aa",
+        "id": "4401775c403f513d",
         "type": "tabs",
         "children": [
           {
-            "id": "05d38d514a329c24",
+            "id": "ca905169e9672cf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rate Regulation.md",
+                "file": "New Notes/Reserving techniques/Possible test on triangle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate Regulation"
+              "title": "Possible test on triangle"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.50260543823242
+    "width": 200
   },
   "right": {
     "id": "d3b3467f5618094d",
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 655.6666870117188
+    "width": 518.4393310546875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,44 +207,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "05d38d514a329c24",
+  "active": "ca905169e9672cf6",
   "lastOpenFiles": [
-    "New Notes/Professional Requirements/Actuarial Standards.md",
-    "New Notes/Professional Requirements/Credibility.md",
-    "New Notes/Professional Requirements/Data.md",
-    "New Notes/Professional Requirements/Documentation.md",
-    "New Notes/Professional Requirements/Trend.md",
-    "Rate Regulation.md",
-    "Professional Judgement.md",
-    "Flashcards — Claim Data, Exposure, Reinsurance, Expenses, Data Quality.md",
-    "New Notes/Data/ULAE vs ALAE.md",
-    "New Notes/Data/Reinsurance Analysis.md",
-    "New Notes/Data/Homogeneity and statistical reliability of data.md",
-    "New Notes/Data/Exposure Data.md",
-    "New Notes/Data/Claim data at alternate limit.md",
-    "New Notes/Data/Aggregation of claim data.md",
-    "New Notes/Ultimate claim and expenses/Use of ultimate claims.md",
-    "New Notes/Ultimate claim and expenses/Definition.md",
+    "New Notes/Reserving techniques/Possible test on triangle.md",
+    "Legacy/Aggregation/Aggregation methods advantages and disadvantages.md",
     "Untitled",
-    "copilot/copilot-conversations/File_Summarization_Request@20260726_183623.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-conversations/API_Key_Configuration_Error@20260727_212517.md",
-    "New Notes/Untitled.base",
-    "New Notes",
-    "New Notes/Data",
-    "New Notes/Ultimate claim and expenses",
-    "New Notes/Professional Requirements",
-    "Legacy/IFRS_17/Discount Rate.md",
-    "Legacy/IFRS_17/Pasted image 20251102100701.png",
-    "Legacy/Advanced Reserving/Claim Layer.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Legacy"
+    "New Notes/Triangle investigations",
+    "New Notes/Reserving techniques/Chain Ladder.md",
+    "Expenses and Profit.md",
+    "New Notes/ICA Standard of practice 1/1400 -The work/Approximation.md",
+    "New Notes/ICA Standard of practice 1/Materiality.md",
+    "Legacy/ICA Standard of practice/1400 -The work/Subsequent events.md",
+    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Report to the directors.md",
+    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Report on matters requiring rectification.md",
+    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Communication with the auditor.md",
+    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Accepting and continuing an engagement.md",
+    "New Notes/ICA Standard of practice 1/2200 -Insurance Contract Valuation/Reporting.md",
+    "New Notes/ICA Standard of practice 1/2200 -Insurance Contract Valuation/General.md",
+    "New Notes/ICA Standard of practice 1/1700 -Reporting/Summary report.md",
+    "New Notes/ICA Standard of practice 1/1700 -Reporting/Reporting oral report.md",
+    "New Notes/ICA Standard of practice 1/1700 -Reporting/Reporting internal user report.md",
+    "New Notes/ICA Standard of practice 1/1700 -Reporting/Reporting external user report.md",
+    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Provision for adverse deviations.md",
+    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Methods.md",
+    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Comparison of current and prior assumptions.md",
+    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Assumptions.md",
+    "New Notes/ICA Standard of practice 1/1500 -Another Person's Work/Review or repeat of another actuary’s work.md",
+    "New Notes/ICA Standard of practice 1/1500 -Another Person's Work/Auditor’s use of an actuary’s work.md",
+    "New Notes/ICA Standard of practice 1/1500 -Another Person's Work/Actuary’s use of another person’s work.md",
+    "New Notes/ICA Standard of practice 1/1400 -The work/Subsequent events.md",
+    "New Notes/ICA Standard of practice 1/1400 -The work/Reasonableness of results.md",
+    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary",
+    "New Notes/ICA Standard of practice 1/2200 -Insurance Contract Valuation",
+    "New Notes/ICA Standard of practice 1/1700 -Reporting",
+    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods",
+    "New Notes/ICA Standard of practice 1/1500 -Another Person's Work",
+    "New Notes/ICA Standard of practice 1/1400 -The work",
+    "New Notes/ICA Standard of practice 1",
+    "New Notes/Legislation",
+    "Legacy/IFRS_17/Pasted image 20251102100701.png"
   ]
 }

@@ -1,0 +1,7 @@
+-  Number: 2230
+- Definition
+	- Actuary report should conform to many different things
+- Other useful info:
+	- RA does not equal to provision for adverse deviations
+	- need to explain all the major difference that could happen and relevant report wording
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 87

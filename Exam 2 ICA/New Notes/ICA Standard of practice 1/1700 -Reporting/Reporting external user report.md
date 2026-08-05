@@ -1,0 +1,8 @@
+-  Number: 1710
+- Definition:
+	- Report destined to external users
+- Other useful info:
+	- There are thing that an actuary should do after the report is finished.
+	- There are a lot of things to keep in mind
+	- The range of appropriate reports is relatively narrow for external user reports as compared to that for internal user reports.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 71

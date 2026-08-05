@@ -1,0 +1,7 @@
+-  Number: 1720
+- Definition
+	- In the case of an internal user report, the actuary may appropriately abbreviate the recommendation for external user reports.
+- Other useful info:
+	- At one end of the range, a formal internal user report may differ little from an external user report.
+	- To abbreviate the standards for an internal user report is efficient for both the actuary and the user provided that complete and clear communication is not thereby compromised
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 79

@@ -1,0 +1,10 @@
+-  Number: 1530
+- Definition:
+	- If the terms of the first actuary’s engagement so permit, then the first actuary should cooperate with the reviewer.
+- Other useful info:
+	- If the terms of the review engagement so permit, then the reviewer should, as soon as practical, discuss the review with the first actuary (unless the reviewer’s agreement with the first actuary’s work makes such discussion superfluous), and should attempt to resolve any difference between them. The reviewer should report the result of such discussion.
+	- If the reviewer reports disagreement with the first actuary’s work but that work is within the range of accepted actuarial practice, then the reviewer should so report.
+	- If a limitation in time, information, data, or resources constrained the quality of the first actuary’s work, then the reviewer should so report.
+	- If discussion between the two actuaries results in improvement to the first actuary’s work or, in the case of periodic reporting, to the work expected for the subsequent report, then the reviewer should so report.
+	- If the first actuary’s work is not within the range of accepted actuarial practice, then the reviewer should so report.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 60

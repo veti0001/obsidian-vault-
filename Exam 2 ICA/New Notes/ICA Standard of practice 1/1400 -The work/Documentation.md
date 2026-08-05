@@ -1,0 +1,6 @@
+-  Number: 1490
+- Definition:
+	- The actuary should use his or her best efforts to compile and secure the retention of appropriate documentation. 
+- Other useful info:
+	-  The actuary should document the quality assurance processes that were followed in performing the work.
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 45
