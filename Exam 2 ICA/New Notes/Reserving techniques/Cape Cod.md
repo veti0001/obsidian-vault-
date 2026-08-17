@@ -1,19 +1,45 @@
-- Assumptions: 
+- # Assumptions: 
+
 	- Unreported claims will develop based on expected claims and expected claims are derived using reported claims and earned premium
-- Common usage:
+	- cost per exposure unit is constant (claim ratio)
+- # Used-Up premium/exposure:
+
+	- used used-up earned premium/exposure to calculate claim ratio
+	- earned premium/exposure are modified to reflect that portion of the earned premium/exposure has been used at the valuation date
+- # Common usage:
+
 	- Same as BF
-- When to use (advantage):
+- # Trend:
+
+	- adjust premium to a common rate level
+	- inflation sensitive exposures should also be adjusted
+- # When to use (advantage):
+
 	- ECR is  estimated from historical data
 	- Compare to development method the random fluctuation at early maturities do not disturb the estimates
-- When not to use (Disadvantage)
+	- Easy to apply and to explain to non-actuary
+	- Generalized Cape Cod should be used over BF, unless there is the need to use professional judgement to select ECR or use external data
+- # When not to use (Disadvantage)
+
 	- Can't be used for new lob as there is no data to calculate ECR
-	- Estimates are highly dependant on the on levelling of premium, but this can be difficult.
+	- Estimates are highly dependent on the on levelling of premium, but this can be difficult.
 	- when data is thin or volatile, the cape cod ECR will not be accurate and BR may be better
-- Change in assumptions:
+	- Not able to use actuarial judgement to determine claim ratio, but able to in selecting exposure period used to calculate claim ratio
+	- when CDF are less then one the BF method application is not always recommended and the used up premium/exposure calculation will result in used-up premium/exposure greater than what the value initially was
+	- Not able to use external data
+- # Generalize Cape Cod
+
+	- Weight is:
+		- Proportional to exposure
+		- Inversely proportional to the development time
+- # Change in assumptions:
+
 	- Speed up or slowdown of settlement of claims
-		- Accurate since based on reported claims
+		- Reported will still be accurate
+		- Paid will overestimate when there is a speedup and underestimate when there is a slowdown, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method
 	- Change in case reserve adequacy:
 		- Will overestimates when there as been an increase and underestimates when there as been a decrease, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method, but the error will be bigger then BF
+		- Paid will be accurate
 	- Change in claim ratio:
 		- These method do not fully react to change in claim ratio, because of the weight given to expected method.
 		- Will be more responsive then BF

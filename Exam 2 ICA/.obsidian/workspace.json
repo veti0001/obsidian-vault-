@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4401775c403f513d",
+        "id": "7da98dff4653e3ed",
         "type": "tabs",
         "children": [
           {
-            "id": "ca905169e9672cf6",
+            "id": "02b698905298afc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Notes/Reserving techniques/Possible test on triangle.md",
+                "file": "New Notes/Data/ULAE vs ALAE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Possible test on triangle"
+              "title": "ULAE vs ALAE"
             }
           }
         ]
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.4393310546875
+    "width": 397.3333740234375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,36 +207,36 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ca905169e9672cf6",
+  "active": "02b698905298afc1",
   "lastOpenFiles": [
-    "New Notes/Reserving techniques/Possible test on triangle.md",
-    "Legacy/Aggregation/Aggregation methods advantages and disadvantages.md",
-    "Untitled",
-    "New Notes/Triangle investigations",
+    "New Notes/Data/Reinsurance Analysis.md",
+    "New Notes/Advanced Reserving/Latent Claims.md",
+    "New Notes/Advanced Reserving/Model Validation.md",
+    "New Notes/Advanced Reserving/Stochastic Loss Reserving.md",
+    "Legacy/Advanced Reserving/Claim Layer.md",
+    "Legacy/Advanced Reserving/Validation of stochastic model.md",
+    "Legacy/Advanced Reserving/Stochastic model texts.md",
+    "Legacy/Advanced Reserving/MCMC.md",
+    "New Notes/Reserving techniques/Trend.md",
+    "New Notes/Advanced Reserving",
+    "New Notes/Ultimate claim and expenses/Use of ultimate claims.md",
+    "New Notes/Ultimate claim and expenses/Definition.md",
+    "New Notes/Professional Requirements/Expenses and Profit.md",
+    "New Notes/Reserving techniques/How to select reserving methods.md",
+    "New Notes/Reserving techniques/Cape Cod.md",
+    "New Notes/Reserving techniques/BF.md",
+    "New Notes/Reserving techniques/Freq-Sev.md",
+    "New Notes/Reserving techniques/Expected method.md",
     "New Notes/Reserving techniques/Chain Ladder.md",
-    "Expenses and Profit.md",
+    "New Notes/Reserving techniques/Possible test on triangle.md",
+    "New Notes/Reserving techniques/Berquist sherman.md",
+    "New Notes/Reserving techniques/Closure Method.md",
+    "Legacy/Aggregation/Aggregation methods advantages and disadvantages.md",
+    "New Notes/Triangle investigations",
     "New Notes/ICA Standard of practice 1/1400 -The work/Approximation.md",
     "New Notes/ICA Standard of practice 1/Materiality.md",
     "Legacy/ICA Standard of practice/1400 -The work/Subsequent events.md",
     "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Report to the directors.md",
-    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Report on matters requiring rectification.md",
-    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Communication with the auditor.md",
-    "New Notes/ICA Standard of practice 1/2400 -The appointed actuary/Accepting and continuing an engagement.md",
-    "New Notes/ICA Standard of practice 1/2200 -Insurance Contract Valuation/Reporting.md",
-    "New Notes/ICA Standard of practice 1/2200 -Insurance Contract Valuation/General.md",
-    "New Notes/ICA Standard of practice 1/1700 -Reporting/Summary report.md",
-    "New Notes/ICA Standard of practice 1/1700 -Reporting/Reporting oral report.md",
-    "New Notes/ICA Standard of practice 1/1700 -Reporting/Reporting internal user report.md",
-    "New Notes/ICA Standard of practice 1/1700 -Reporting/Reporting external user report.md",
-    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Provision for adverse deviations.md",
-    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Methods.md",
-    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Comparison of current and prior assumptions.md",
-    "New Notes/ICA Standard of practice 1/1600 -Assumptions and Methods/Assumptions.md",
-    "New Notes/ICA Standard of practice 1/1500 -Another Person's Work/Review or repeat of another actuary’s work.md",
-    "New Notes/ICA Standard of practice 1/1500 -Another Person's Work/Auditor’s use of an actuary’s work.md",
-    "New Notes/ICA Standard of practice 1/1500 -Another Person's Work/Actuary’s use of another person’s work.md",
-    "New Notes/ICA Standard of practice 1/1400 -The work/Subsequent events.md",
-    "New Notes/ICA Standard of practice 1/1400 -The work/Reasonableness of results.md",
     "New Notes/ICA Standard of practice 1/2400 -The appointed actuary",
     "New Notes/ICA Standard of practice 1/2200 -Insurance Contract Valuation",
     "New Notes/ICA Standard of practice 1/1700 -Reporting",

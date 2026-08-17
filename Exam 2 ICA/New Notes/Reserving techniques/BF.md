@@ -3,11 +3,15 @@
 	- A reasonable claim ratio can be obtained.
 - Common usage:
 	- When there are random fluctuations or large claims at early maturities
-	- When entering new lobs
+	- When entering new lobs \ geographical area
 	- When estimating ultimate at early maturities for long-tailed lines of business where  the early age-to-ultimate are really leveraged.
+	- When the experience period is immature
 - When to use (advantage):
 	- Provides more stable estimates then the Development technique and more responsive estimates then the expected claim method
 	- Benktander is even more responsive then BF while being more stable then the development method. (But not as stable as BF)
+	- Easy to apply and to explain to non-actuary 
+	- It's intuitive to give more weight to actual claims as years mature
+	- External information can easily be incorporated in the anlaysis
 - When not to use (Disadvantage)
 	- When CDF are lower then one need to take it into account
 - Change in assumptions:
