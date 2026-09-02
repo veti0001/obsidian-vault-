@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,7 +214,6 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
       "copilot:Open Copilot Agent Chat": false
     }
   },
