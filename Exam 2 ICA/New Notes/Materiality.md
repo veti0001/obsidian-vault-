@@ -10,7 +10,7 @@
 - Task-specific and not product specific
 - Materiality threshold should not change in time
 - Materiality threshold varies in function of the following:
-	- Size of the entity;\
+	- Size of the entity;
 	- Entity’s access to capital;
 	- Stage of organizational life cycle; 
 	- Type of business (e.g., multi-line vs. single line, personal lines vs. commercial lines); 

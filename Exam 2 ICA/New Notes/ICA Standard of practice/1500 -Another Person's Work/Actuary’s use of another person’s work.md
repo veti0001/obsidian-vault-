@@ -1,10 +1,26 @@
 -  Number: 1510
 - Definition:
 	- The actuary should use and take responsibility for another person’s work if such actions are justified.
+	- The CIA encourages members to use the work of an auditor in accordance with the Joint Policy Statement in 1520; that Statement also provides guidance if the actuary uses the work of a person other than an auditor.
 - Other useful info:
-	- There are considerations when an Actuary take into account the work of somebody else
-	- Actuary can:
-		- Use and take responsibility
-		- Use but not take responsibility
-			- If the actuary uses but does not take responsibility for another person’s work, the actuary’s report should indicate that the actuary relied on another person’s work, including disclosing the rationale for the nature and extent of the use of the work.
+	- Where the work involves [[Data]], [[Model]]s, [[Methods]], [[Assumptions]] and/or opinions provided by another person, the actuary would take into account the considerations in subsections 1440, 1450, 1610, 1620 and 1710 respectively.
+	- Considerations before using and taking responsibility for another person’s work:
+		- Taking responsibility may place more demands on the actuary, including the possibility of exposure to risk of legal liability, but may give the user more confidence in the final work product.
+		- The actuary’s ability to communicate early and periodically with that other person.
+		- Communicating to the other person any information known to the actuary that may affect their work, and vice versa.
+		- Confidence in the other person’s qualifications, competence, integrity, and objectivity.
+		- Awareness of the original intended purpose of the other person’s work and its appropriateness and limitations for the actuary’s use.
+		- The other person’s awareness of how the actuary intends to use their work.
+		- The actuary’s view on the credibility of any report by the other person, especially any reservation in the report.
+		- The availability, sufficiency, accuracy and understandability of relevant [[Documentation]].
+		- If available, an understanding of the other person’s [[Quality assurance]] processes (subsection 1460) and [[Control]] procedures (subsection 1470).
+		- If using another actuary’s work: review the other actuary’s documentation; where the work was prepared under a different jurisdiction, identify the differences between accepted actuarial practice in Canada and the practice followed; and consider how the other actuary working outside Canada might affect the actuary’s use of the information.
+		- If the actuary cannot communicate directly with the person who performed the original work, the relative degree to which the actuary can assess the above considerations through another person with sufficient expertise and communication with the original performer.
+	- Use and take responsibility:
+		- The actuary need not report the use of another person’s work when responsibility is taken, but would consider disclosing the key 1510.04 considerations for the particular work.
+		- The actuary who performed the work also continues to be responsible for it, even if another actuary takes responsibility.
+	- Use but not take responsibility:
+		- The actuary’s report should indicate reliance on another person’s work, including the rationale for the nature and extent of the use.
+		- The actuary would not take such responsibility if doing so would lead a reasonable person to believe the actuary possessed and purported to exercise the skill and learning of a duly qualified professional in that other person’s area of expertise.
+		- The actuary would nevertheless examine the work for evident shortcomings and, where practicable, for reasonableness and consistency, and either report the results or avoid the use; the actuary is not considered to have used the other person’s data, models, methods, assumptions or opinions in that case.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 47

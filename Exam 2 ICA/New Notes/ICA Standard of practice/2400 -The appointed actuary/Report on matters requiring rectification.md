@@ -1,6 +1,13 @@
 -  Number: 2440
-- Definition
-	- The appointed actuary should identify and monitor matters that may threaten the insurer’s financial condition. The appointed actuary should investigate and then report, as required by law, any such matter that requires rectification to the senior management and, in the case of a Canadian insurer, send a copy of the report to the directors. Depending on the jurisdiction of the insurer, the law may also require that the report be provided to the insurer’s regulation
-	- The report may include recommendations for rectification and should specify a deadline for rectification that the actuary may later extend if appropriate. If there is no suitable rectification by that deadline or its extension, then the appointed actuary should report the matter to the insurer’s regulator.
+- Definition:
+	- The appointed actuary should identify and monitor matters that may threaten the insurer's financial condition. The actuary should investigate and then report, as required by law, any such matter that requires rectification to the senior management and, in the case of a Canadian insurer, send a copy of the report to the directors. Depending on the jurisdiction of the insurer, the law may also require that the report be provided to the insurer's regulator.
+	- The report may include recommendations for rectification and should specify a deadline for rectification that the actuary may later extend if appropriate. If there is no suitable rectification by that deadline or its extension, the appointed actuary should report the matter to the insurer's regulator.
 - Other useful info:
+	- The sensitivity of financial condition to adverse conditions and events varies among insurers; so does the magnitude of the conditions and events that may threaten it.
+	- The frequency and intensity of monitoring depend on the threatening conditions and events and on the circumstances of the insurer; a quarterly review would usually be a minimum.
+	- There would be no report to senior management for an adverse condition that does not threaten the insurer's financial condition; informal notification and consultation would usually precede, and may obviate, that report.
+	- The report describes the threatening condition or event and the assumptions and methods in the actuary's investigation of it; it is desirable that it include recommendations for its rectification.
+	- The deadline should allow time that is reasonable in the circumstances to arrange rectification.
+	- The report to the regulator describes the actuary's investigation, the report to senior management, and senior management's response to that report. The actuary would advise the directors of the report to the regulator.
+	- Related: [[Communication with the auditor]] is desirable when this report is made; see also [[Report to the directors]]. "Senior management" and "directors" are defined in 2410.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 112

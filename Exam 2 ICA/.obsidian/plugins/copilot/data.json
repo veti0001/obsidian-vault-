@@ -454,7 +454,7 @@
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
-  "enableSemanticSearchV3": false,
+  "enableSemanticSearchV3": true,
   "enableSelfHostMode": false,
   "enableMiyo": false,
   "enableMiyoSearchSkill": false,
@@ -499,11 +499,15 @@
   "agentMode": {
     "byok": {},
     "activeBackend": "opencode",
-    "backends": {},
+    "backends": {
+      "opencode": {
+        "defaultMode": "auto"
+      }
+    },
     "debugFullFrames": true,
     "notificationSound": true,
     "notificationSoundId": "piano",
-    "welcomeDismissed": false,
+    "welcomeDismissed": true,
     "skills": {
       "folder": "copilot/skills"
     },

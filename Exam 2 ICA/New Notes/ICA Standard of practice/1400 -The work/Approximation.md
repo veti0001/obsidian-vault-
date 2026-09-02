@@ -1,11 +1,16 @@
 -  Number: 1410
 - Definition:
-	- An approximation is appropriate if it reduces the cost of, reduces the time needed for, or improves the actuary’s control over, work without affecting the result
+	- An approximation is appropriate if it reduces the cost of, reduces the time needed for, or improves the actuary's control over, work without affecting the result.
 - Other useful info:
-	- If the actuary reports an appropriate approximation, the report should avoid unintended reservation.
-	- If the appropriateness of an approximation is doubtful, the actuary should report its use with reservation
-	- Can arise in :
-		- Selecting Model
-		- Selecting Assumptions
-		- Sampling data to reduce size
+	- Like [[Materiality]], approximation pervades virtually all work and affects the application of nearly all standards; the words "approximation" and "approximate" seldom appear in the standards but are understood throughout them. It permits the actuary to strike a balance between the benefit of precision and the effort of arriving at it.
+	- If the actuary reports an appropriate approximation, the report should avoid unintended reservation; if the appropriateness of an approximation is doubtful, the actuary should report its use with reservation.
+	- Approximations arise in:
+		- Model selection: reality is complex; a simple model reduces time and expense and also the risk of calculation and data error. Appropriateness depends on the circumstances affecting the work, including its purpose (e.g. modify the investment return assumption to arrive at a composite assumption in order to allow for indexing).
+		- Assumption selection: simplification of an assumption may be an appropriate approximation. Examples: assume deaths occur at mid-year; assume all early retirees retire at age 62 rather than at various rates between ages 55 and 65; assume preretirement mortality is zero where the preretirement death benefit roughly equals the present value of the retirement benefit.
+		- Sampling: a well-chosen sample avoids the extra work of an examination of the entire universe.
+		- Data: data may be defective (e.g. a plan's records lack dates of birth), in which case sampling or extrapolation from similar situations may be an appropriate approximation.
+	- Making no assumption about a contingency is usually tantamount to assuming a zero rate, which is rarely appropriate in itself but may be appropriate when combined with an adjustment to a related assumption (e.g. approximate wage/price inflation by using a lower liability discount rate representative of the real rate of return).
+	- Approximation vs. assumption: the criterion of appropriateness is the effect on the result. If the actuary approximates but cannot assess the resulting error, the approximation becomes, in effect, an assumption (e.g. data that are missing and not practical to obtain).
+	- Reporting: the pervasiveness of approximations makes their complete reporting impractical; reporting appropriate approximations in a longer report may provide useful information while avoiding unintended reservation. If the actuary reports an implicit assumption used as an approximation, or two offsetting approximations with the same net effect as explicit assumptions, the corresponding explicit assumptions should also be reported.
+	- The actuary would not usually use an approximation whose appropriateness is doubtful, but this may be unavoidable if data are insufficient or unreliable or if needed resources are lacking. In an appropriate engagement, the actuary would report with reservation so a user is aware of the limitation.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 29

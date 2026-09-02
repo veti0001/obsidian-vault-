@@ -2,5 +2,10 @@
 - Definition:
 	- Events that are definitive or virtually definitive on or before the calculation date, including those effective after the calculation date, should be reflected in the work, unless the purpose of the work is to reflect the situation prior to the event.
 - Other useful info:
-	-  See graph
+	- A decision tree (1420.02) may assist the actuary in deciding how to reflect an event, if the actuary determines that the event makes the entity different:
+		- Event occurs before the calculation date and is definitive or virtually definitive: reflect the event in the work (1420.01).
+		- Event occurs between the calculation date and the report date: it is a subsequent event (see [[Subsequent events]]); determine whether it reveals a data defect or error (1430.01), provides information about the entity as it was or retroactively makes it different at the calculation date, or makes it different after the calculation date (1430.02 and 1430.03).
+		- Event makes the entity different after the calculation date: reflect the work as it will be as a result of the event, or as it was at the calculation date, depending on the purpose of the work.
+		- The actuary becomes aware of an event after the report date: if the event invalidates the report, withdraw or amend the report and consider informing the user.
+	- Reflect the entity as it will be as a result of the event, or as it was at the calculation date, according to the purpose of the work.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 31

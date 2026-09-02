@@ -2,6 +2,13 @@
 - Definition:
 	- Control procedures that detect errors and decrease the effect of errors should be performed for calculations.
 - Other useful info:
-	-  To mitigate model risk, the actuary should perform model validation and employ other strategies appropriate for the financial significance of the results and the complexity of the model.
-
+	- To mitigate model risk, the actuary should perform model validation and employ other strategies appropriate for the financial significance of the results and the complexity of the model.
+	- A calculation that is data-intensive, complex, involves physically separate steps (e.g. manual and data processing steps or parallel data processing steps), or especially a combination of them, is prone to error that appropriate control procedures may prevent or, failing prevention, detect. Appropriate control procedures also help meet the need for consistency between the actuary's work and other related work (e.g. a uniform cut-off date in the preparation of financial statements).
+	- Examples of control procedures: ensure all steps in the calculation are coordinated and have been performed and checked; the actuary's data processing does not corrupt the data supplied; established procedures (e.g. for a prior period) are not changed inadvertently; changes in established procedures are made in an orderly manner; and results of models in production environments remain appropriate through time.
+	- Examples of control tools: random sampling; testing on independent dataset(s); spot checks; and audit trails.
+	- Model validation: test that the model implementation uses the data and assumptions as intended by the model specification; verify that the methods used by the model implementation function as intended; test the reasonableness of a model run using alternative models; and compare various components of a complex model to results obtained by separate models.
+	- Validate that the model specification is suitable for its intended purpose (e.g. a stochastic model may be more suitable than a deterministic model for the valuation of minimum guarantees in some life insurance policies).
+	- Strategies to mitigate model risk also apply to models developed by third parties and those for which the actuary has limited access to intermediate results, but the range of strategies may be more limited than with other models.
+	- In assessing a model's suitability, understand the model's basic operations, important relationships, major sensitivities, limitations, strengths, model training (if relevant), and potential weaknesses.
+	- When a model is to be used for stress tests or is stochastic, give appropriate consideration to the statistical distributions used and the magnitude and behaviour of tail events in light of the nature of the work.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 43

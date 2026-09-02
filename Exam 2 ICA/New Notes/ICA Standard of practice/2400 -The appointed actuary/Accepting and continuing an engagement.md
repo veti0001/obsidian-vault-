@@ -1,7 +1,20 @@
 -  Number: 2430
-- Definition
+- Definition:
 	- Section 1300 applies rigorously to the engagement.
 - Other useful info:
-	- Qualifications, experience, and knowledge is needed
-	- Information needed (data neede to do analysis)
+	- **Qualifications, experience, and knowledge** go beyond technical understanding to include the awareness that comes with maturity, communication with other actuaries, discussions at Institute meetings, and familiarity with conditions both internal and external to the insurer, as well as communication skills.
+	- An actuary accepting an engagement for the first time may wish to arrange professional, formal, and timely access to another actuary with experience as an appointed actuary.
+	- The insurer's directors should understand and accept the actuary's role and its requirements for time, resources, and access to information; the actuary may wish written confirmation of that understanding and acceptance unless the role is part of the insurer's corporate culture.
+	- **Information needed** for the work comprises the records, accounts, documents, and oral briefings that provide an understanding of the insurer's operations, its obligations, and the resources available to meet them. This includes, but is not limited to:
+		- Files of in-force policies and outstanding claims, including their reinsurance
+		- Policy provisions and other communications with policy owners
+		- Past experience data and past financial data
+		- Communications with auditors and regulators
+		- Pricing, underwriting, and accounting practice
+		- Claims settlement practice (including case estimate practice) and cost
+		- Asset-liability management and capital management practice
+		- Enterprise risk management policy
+		- Own risk and solvency assessment (ORSA) report
+	- **Process to identify and assure timely receipt of information** includes an understanding of the insurer's decision-making, continual communication with members of management who can supply information, and continual communication with the auditor in accordance with the CIA/CICA Joint Policy Statement.
+	- Part 1000 applies to any work within the scope of Section 2400 (2420.01); "senior management" and "directors" are defined in 2410.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 110

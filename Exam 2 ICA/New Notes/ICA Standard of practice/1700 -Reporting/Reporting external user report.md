@@ -1,8 +1,76 @@
 -  Number: 1710
 - Definition:
-	- Report destined to external users
+	- In an external user report, the actuary should:
+		- Identify the client or employer;
+		- Describe the work, its purpose, and its users;
+		- Say that use of the report may not be suitable for another purpose;
+		- Say whether or not the work is in accordance with accepted actuarial practice in Canada and, if not, disclose the deviation from that practice;
+		- If useful, disclose any unusual application of accepted actuarial practice;
+		- If the report is supported by the use of a model, disclose limitations in the model relevant to the intended purpose;
+		- Disclose any aspect of the work for which the actuary does not take responsibility;
+		- Describe each assumption used for the work that is material to the results, including the extent of any margin for adverse deviations included with respect to each such assumption;
+		- Provide the rationale for each such material assumption;
+		- For matters requiring an assumption other than a model or data assumption, disclose any assumption that differs from continuance of the status quo and, if practical, useful and appropriate under the engagement, disclose the effect of alternative assumptions;
+		- Describe the methods used for the work;
+		- In a periodic report, disclose any inconsistency between the assumptions and methods of the current and prior reports and the rationale for it;
+		- Describe any subsequent event not taken into account in the work;
+		- Disclose any reservation;
+		- Express an opinion on the assumptions and methods used for the work;
+		- Express an opinion on the results of the work;
+		- Identify himself or herself and sign the report; and
+		- Date the report.
 - Other useful info:
-	- There are thing that an actuary should do after the report is finished.
-	- There are a lot of things to keep in mind
-	- The range of appropriate reports is relatively narrow for external user reports as compared to that for internal user reports.
+	- Description and disclosure in general:
+		- .02 Any description or disclosure may be in material referred to in the report and either accompanying it or plausibly available to users.
+		- .03 The actuary should respond to a user's request for explanation, except if contrary to the terms of the engagement.
+		- .04 The actuary should withdraw or amend the report if information coming to hand after the report date invalidates it.
+		- .05 A duty of confidentiality in an appropriate engagement supersedes any conflicting requirement above.
+		- .06 The range of appropriate reports is relatively narrow for external user reports as compared to that for internal user reports; be relatively formal and detailed when the actuary does not communicate directly with users or when the interests of the external user and of the client/employer are not the same.
+		- .07 Balance disclosure: too little deprives the user of needed information; too much exaggerates minor matters, implies a diminution of responsibility, or makes the report hard to read.
+		- .08 The criterion is "What qualitative and quantitative information best serves the user's understanding and decision-making?" — not merely what the user wants, since the actuary may know of needs the user does not.
+		- .09 Consider and address the sensitivity of results to variations in key assumptions where practical, useful, and consistent with the engagement.
+		- .10 Disclosure need not be in the report itself unless its importance warrants it or it cannot be referenced in material available to users; disclosure in a short report may over-emphasize.
+		- .11 Avoid unintended reservations: they mislead the user into thinking there was a deviation or less than full responsibility. Approximation is usual (disclosing it may mislead); using another's work is usual (disclose only if responsibility is not taken); and immaterial deviations from a recommendation/guidance should not be disclosed.
+	- The work, its purpose, and its users:
+		- .12 Description of the work usually includes the calculation date and the numerical result; cite the law if the work is mandated.
+		- .13 Detail depends mainly on user needs; a separate report may suit a particular user (usually a regulator) wanting far more detail than others.
+		- .14 Describing purpose and users lets others judge suitability to their needs and may avoid unintended use.
+		- .15 Users are the addressee(s) plus any others explicitly identified; with more than one user, have regard to the information of value to each.
+	- Accepted actuarial practice:
+		- .16 A simple statement that the work is in accordance with accepted actuarial practice is powerful and reassuring; otherwise state that it is so "except for specified deviations".
+		- .17 Any deviation arises only from conflict with law or conflict with the terms of an appropriate engagement.
+		- .18 For work in Canada, refer to "accepted actuarial practice for work in Canada" (or equivalent language).
+		- .19 For work outside Canada, may refer to "accepted actuarial practice for work in [jurisdiction]", "internationally accepted actuarial practice" (IAA guidance applied), or "accepted actuarial practice for work in Canada" (Canadian guidance applied for lack of applicable foreign guidance).
+		- .20 Do not usually report a deviation from a recommendation/guidance that results from an unusual or unforeseen situation.
+		- .21 Where practice encompasses a range, usually report the work as in accordance without highlighting the selection; disclose the selection (and reason) if it is mandated by law/engagement, excluded from the accepted range by an exposure draft or approved-but-not-yet-effective standards, inconsistent with a prior periodic report's assumption, dependent on a special permissive feature in the law, or unusual or controversial.
+	- Limitation to responsibility:
+		- .22 Disclose any diminution of responsibility caused by an engagement whose terms require a deviation from accepted actuarial practice.
+	- Disclosure of assumptions:
+		- .23 If an assumption or method is mandated by law, disclose (if relevant) that using the report for other purposes may be inappropriate.
+	- Subsequent events:
+		- .24 Example: a non-retroactive pension benefit increase — describe it, state it was not taken into account but will be in future advice, and quantify its effect (e.g., pro forma funding effect) if useful.
+	- Reservations:
+		- .25 A report with reservation may be unavoidable when: obliged to use another's work and doubts its appropriateness; unable to conclude on the sufficiency and reliability of data; undue limitation to the scope of work (e.g., contemplated time, information, or resources did not materialize); or an unresolved conflict of interest exists.
+		- .26 Report any remedy, underway or expected, to the problem causing the reservation.
+		- .27 A serious reservation may call for consulting another actuary or obtaining legal advice.
+		- .28 Unless the report says otherwise, the user is entitled to assume: the work accords with accepted actuarial practice and no reservation is required; the data are sufficient and reliable; and (for periodic reports) the method is the same and assumptions consistent with the prior report.
+	- Use of models:
+		- .29 An external user report would rarely refer directly to a model; model disclosures typically sit in supporting documents. Reference a model if the engagement requires it, the model has limitations relevant to the purpose, or the actuary cannot assess model risk.
+		- .30 Explain model limitations and their implications: relevant exclusions, model transparency, and simplifying assumptions made.
+		- .31 If a model outside the domain of actuarial practice is used and its appropriateness cannot be verified, report that fact.
+	- Opinion:
+		- .32 Begin opinions with "In my opinion..." to signal a formal, professional opinion.
+		- .33 For assumptions/methods specified by the engagement: opine "appropriate" if within the accepted range; report "not in accordance with accepted actuarial practice" if outside it; report "may not be in accordance" if the position is not easily determinable — in the latter two cases report that the engagement specified the assumption/method.
+		- .34 It may be convenient to group opinion statements in a signed section headed "Statement of Opinion".
+	- Identification and report date:
+		- .35 For work in Canada, usually identify as "Fellow, Canadian Institute of Actuaries" (or "FCIA" if recognized), especially when Fellowship is required or expected.
+		- .36 Consider all information available up to the report date, including subsequent events, when the report date is after the calculation date.
+		- .37 The report date is usually when the work is substantially completed; peer review, typing, photocopying, and documentation may remain.
+		- .38 Sign and deliver as soon as practical; if unavoidably delayed, consider additional subsequent events that a current report date would bring in.
+		- .39 Issue the report within a reasonable time, given the terms of engagement and the needs of users.
+	- Withdrawal or amendment:
+		- .40 No obligation to seek information after the report date, but consider information that comes to hand; it affects the report if it reveals a data defect or calculation error, provides additional information about the entity as at the calculation date, retroactively makes the entity different at that date, or makes it different after that date where the work's purpose was to report on that result.
+		- .41 Additional information may be external or an internal discovery of an error; classify it like subsequent events — it affects the report if the event would have to be reflected in data, assumptions, or methods, but not if it only changes the entity's outlook leading to different assumptions at the next calculation date.
+		- .42 If an affecting event occurs: determine whether it invalidates the report; if not, consider informing some or all users; if it does, withdraw or amend it — seeking the client/employer's agreement on notifying users and on an amended or replacement report, otherwise consider legal advice (all users should so be informed to the extent practical and useful).
+		- .43 Guidance examples: no action on a prior report once superseded; if a pension plan's financial position is materially affected but its funding is not, disclosure to users may suffice; if an assumption later proves obviously erroneous but was reasonable at the report date, typically reflect it in a subsequent report; but if a funding report's recommendations would change materially due to a discovered error, withdrawing or amending may be appropriate.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 71

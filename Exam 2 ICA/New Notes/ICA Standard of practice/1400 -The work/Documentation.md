@@ -1,6 +1,11 @@
 -  Number: 1490
 - Definition:
-	- The actuary should use his or her best efforts to compile and secure the retention of appropriate documentation. 
+	- The actuary should use his or her best efforts to compile and secure the retention of appropriate documentation.
 - Other useful info:
-	-  The actuary should document the quality assurance processes that were followed in performing the work.
+	- Documentation consists of letters of engagement, working papers, meeting notes, memoranda, correspondence, reports, copies or excerpts of company or plan data and documents, and work plans. Appropriate documentation describes the course of the work and its conformity with accepted actuarial practice.
+	- Both professional and legal needs may affect the length of time during which documentation is to be retained.
+	- Documentation for a model, if required, would typically include: the intended purpose of the model; the appropriateness of the model specification for the intended purpose; the limitations of the model specification relevant to the model's intended purpose; the testing of the model implementation; and the presence of appropriate mitigating strategies for model risk.
+	- Model documentation would typically be sufficiently detailed to enable another actuary knowledgeable in the matters at hand to form an assessment of the judgments made and of the reasonableness of the model run and key model results.
+	- When a model is based in whole or in part on a model developed by a third party, the actuary would document how the actuary assessed the model as being appropriate for the purpose.
+	- The actuary should document the quality assurance processes that were followed in performing the work (see [[Quality assurance]]).
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 45

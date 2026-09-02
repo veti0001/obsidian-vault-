@@ -1,5 +1,9 @@
 -  Number: 2460
-- Definition
-	- Communication with the insurer’s auditor would be desirable when the actuary makes a report to the insurer’s senior management on a matter requiring rectification or makes an unfavourable report on the insurer’s financial condition.
+- Definition:
+	- Communication with the insurer's auditor would be desirable when the actuary makes a report to the insurer's senior management on a matter requiring rectification or makes an unfavourable report on the insurer's financial condition.
 - Other useful info:
+	- This standard has only one paragraph (.01): communication is encouraged ("would be desirable"), not mandatory.
+	- Relates to the report to senior management under [[Report on matters requiring rectification]] and to unfavourable financial-condition reporting under [[Report to the directors]].
+	- Continual communication with the auditor, in accordance with the CIA/CICA Joint Policy Statement, is part of the process to identify and assure timely receipt of information under 2430.06.
+	- "Senior management" is defined in 2410: for a Canadian insurer, the CEO, the CFO, and the chief risk officer; for a foreign insurer, both the chief agent for Canada and the person designated by the insurer as having responsibility for its Canadian operation.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 117

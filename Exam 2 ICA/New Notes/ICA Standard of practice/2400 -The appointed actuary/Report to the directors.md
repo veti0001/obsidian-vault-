@@ -1,6 +1,16 @@
 -  Number: 2450
-- Definition
-	- The appointed actuary for a Canadian insurer should report at least yearly to the directors, or to their audit committee if the directors so delegate
+- Definition:
+	- The appointed actuary for a Canadian insurer should report at least yearly to the directors, or to their audit committee if the directors so delegate:
+		- On the insurer's financial position and financial condition
+		- If required by law:
+			- If the insurer has one or more participating accounts — on the method of allocation of income and expenses to each such participating account; and on the management of the participating account(s), the dividend policy, and the dividend scales for the participating policy owners
+			- If the insurer has adjustable policies in force — on the criteria established or amended by the directors for changes made by the company to the premium or charge for insurance, amount of insurance, or surrender value in respect of its adjustable policies
 - Other useful info:
-	- Different report need to be presented
+	- For a foreign insurer, the appointed actuary should report at least yearly to its chief agent for Canada on its financial position and financial condition.
+	- **Allocation of income:** the report considers the fairness and equity of the allocation of income and expenses among accounts to participating policy owners.
+	- **Management of participating accounts:** considers the fairness to participating policy owners of the policy established by the directors for the management of the account(s).
+	- **Dividend policy and dividend scale:** the dividend policy report considers the fairness of the policy to participating policy owners; the dividend scale report considers the conformity of the scale to the policy and its fairness to participating policy owners.
+	- **Adjustments of adjustable policies:** considers the fairness of the criteria for changes established or amended by the directors, the fairness to adjustable policy owners of the adjustments made, and their conformity to those criteria.
+	- Where the law requires a fairness opinion on any of: management of the participating accounts; dividend policy; dividends declared; criteria for adjusting adjustable policies and the adjustments made; allocation of investment income; or allocation of expenses — the unqualified opinion is that the policy/method was reviewed in accordance with accepted actuarial practice in Canada and pursuant to the guidance of the Superintendent of Financial Institutions, and is, in the actuary's opinion, fair (and, for allocations, fair and equitable) to the participating policyholders.
+	- If the appointed actuary is unable to issue an unqualified opinion, the wording of the opinion would be adjusted to reflect the necessary qualification (see 2450.07 for the model opinion wording).
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 113

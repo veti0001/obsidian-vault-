@@ -1,9 +1,17 @@
 -  Number: 1440
 - Definition:
-	- The actuary should apply such procedures as are necessary for the actuary to arrive at a conclusion as to the sufficiency and reliability of the data. 
+	- The actuary should apply such procedures as are necessary for the actuary to arrive at a conclusion as to the sufficiency and reliability of the data.
 - Other useful info:
-	-  Credibility vs homogeneity
-	- Data are sufficient if they include the needed information for the work. For example, participants’ dates of birth are needed to value the liabilities of a pension plan.
-	- Data are reliable if they are sufficiently complete, consistent, and accurate for the purposes of the work.
-	- Actuary should validate the data if possible
+	- Data relevant to the work may include experience data, membership or policyholder data, census data, claims data, asset and investment data, economic data, operational data, benefit definitions, and policy or contract terms and conditions.
+	- Sources of data may include inventory or sampling methods; data may be obtained directly by the actuary or provided by the client, an accountant or auditor, a government or statistical body, a financial statement, or others.
+	- Where data specific to the circumstances are not available or not relevant, consider industry data, population data, or other published data with suitable adjustments. In selecting other relevant data, consider the similarity of risk characteristics (demographics, coverages, frequency and severity); if the credibility of the data specific to the circumstances is lower than needed, consider other relevant data and a method for blending the relevant data.
+	- To enhance credibility, consider the homogeneity of each data set; segments not representative of the whole may be better treated separately. Balance homogeneity against the size of the data.
+	- Sufficiency: data include the needed information for the work (e.g. participants' dates of birth are needed to value the liabilities of a pension plan). Reliability: data are sufficiently complete, consistent, and accurate for the purposes of the work.
+	- Consider and be aware of characteristics of the data that could lead to unintended or inappropriate bias in the results of any model using that data, and consider measures to mitigate the impact on model outcomes when concluding on sufficiency and reliability.
+	- Validation: test the sufficiency and reliability of the data as appropriate for the work, but the actuary is not normally required to perform a detailed audit and is not responsible for discovering falsified or misleading data. If the terms of an appropriate engagement prevent validation, report so and report any apparent or evident shortcomings in the data.
+	- Validation may include reconciliation against financial statements and books of account or other external data, examination of internal and external consistency, comparison with prior periods, independent confirmation from other sources, or detailed confirmation using sampling techniques.
+	- If sufficient and reliable data cannot be obtained (or their sufficiency or reliability cannot be ascertained), first attempt to rectify the data, then consider whether to report with reservation in respect of the data or to decline to perform the work.
+	- Rectification: obtaining corrected, more complete, alternative, additional, or supplementary data; making assumptions with respect to incomplete data; or making adjustments or transformations to the data.
+	- If assumptions, transformations, or adjustments applied to the data may cause material uncertainty or statistical bias in the results of the work, report so and report any limitations on the use of the work product where appropriate.
+	- Reliance on others: data are usually prepared by another party (the client, an independent administrator, an auditor, a government body, or an external association); consider that party's qualifications, competence, integrity, and objectivity.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 37

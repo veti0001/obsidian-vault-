@@ -1,6 +1,11 @@
 -  Number: 2210
-- Definition
-	- IFRS 17 Insurance Contracts (“IFRS 17”) establishes principles for the recognition, measurement, presentation and disclosure of insurance contracts. The actuary should be familiar with IFRS 17 and apply the requirements in the valuation of insurance contracts and other obligations where such valuation is to be in accordance with IFRS 17.
+- Definition:
+	- IFRS 17 Insurance Contracts (IFRS 17) establishes principles for the recognition, measurement, presentation and disclosure of insurance contracts. The actuary should be familiar with IFRS 17 and apply its requirements in the valuation of insurance contracts and other obligations where such valuation is to be in accordance with IFRS 17. (Effective January 1, 2023.)
 - Other useful info:
-	- RA does not equal to provision for adverse deviations
+	- 2210.02: These Standards of Practice provide guidance to actuaries performing actuarial services (services based on actuarial considerations provided to intended users — 2220.04) in connection with IFRS 17; they are intended to supplement, and not replace or restate, the requirements of IFRS 17.
+	- 2210.03: Notwithstanding the general applicability of Part 1000, the discount rate paragraphs 1620.35–1620.37 do NOT apply to the valuation of insurance contracts and other obligations where such valuation is to be in accordance with IFRS 17.
+	- 2210.04: The IFRS 17 risk adjustment for non-financial risk is NOT a provision for adverse deviations as defined in paragraph 1120.55 ([[Provision for adverse deviations]]).
+	- 2210.05: Assumptions or methodology set or prescribed by the principal (the party who engages the provider of actuarial services — 2220.14) or another party for IFRS 17 work are treated as the actuary’s use of another person’s work under subsection 1510 ([[Actuary’s use of another person’s work]]). The actuary would NOT take responsibility for such work if:
+		- it conflicts with what would be appropriate for the purpose of the actuarial services; or
+		- the actuary is unable — or not qualified — to judge its appropriateness without performing a substantial amount of additional work beyond the scope of the assignment.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 85

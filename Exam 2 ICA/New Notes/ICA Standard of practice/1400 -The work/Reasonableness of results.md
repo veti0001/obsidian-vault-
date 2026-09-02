@@ -1,6 +1,12 @@
 -  Number: 1480
 - Definition:
-	- The actuary should examine the reasonableness of a calculation’s result.
+	- The actuary should examine the reasonableness of a calculation's result.
 - Other useful info:
-	
+	- As a result of defective data, defective computer software, an accumulation of individually biased assumptions, or the like, a calculation -- especially a complex one like a valuation or financial forecast -- may be prone to error that checking the calculation's steps does not reveal but that an examination of its result may reveal. Such an examination is therefore useful and prudent.
+	- The examination would consider simple questions:
+		- How does the result compare to the corresponding result for a prior period or a similar case, or to a related but independently calculated amount? Comparison of a benchmark may be more meaningful than comparison of the result; examples of benchmarks are the forecasted number of retirees divided by the forecasted number of active employees, the loss ratio implied by claim liabilities, and the change during the year of the result.
+		- How does the result compare to the corresponding result of a rough approximation?
+		- Does the result make common sense?
+		- Do changes in model results appear reasonable given changes to input variables?
+	- The answers to such questions may indicate a need for more work.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 44

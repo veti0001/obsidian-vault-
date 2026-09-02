@@ -1,6 +1,8 @@
 -  Number: 1730
-- Definition
+- Definition:
 	- Oral reporting, especially to an internal user, is both useful and inevitable in some situations.
 - Other useful info:
-	- It is therefore good practice to confirm an oral report in writing,
+	- The disadvantage of oral reporting is that the actuary and the user may have differing recollections of what was reported.
+	- Good practice is therefore to confirm an oral report in writing, especially when there is an external user, or to record it in documentation.
+	- .02 Except for signature and report date, the standards are the same for both oral and written reports; the requirements for an [[Reporting external user report|external user report]] or [[Reporting internal user report|internal user report]] apply equally to oral reports.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 79

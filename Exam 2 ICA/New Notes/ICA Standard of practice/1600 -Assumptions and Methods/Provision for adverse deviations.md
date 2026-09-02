@@ -1,5 +1,8 @@
 -  Number: 1630
 - Definition:
-	- The actuary should include a provision for adverse deviations in calculations only to the extent required by the terms of the actuary’s engagement or as mandated by law or as prescribed by practice-specific standards.
+	- The actuary should include a provision for adverse deviations in calculations only to the extent required by the terms of the actuary's engagement or as mandated by law or as prescribed by practice-specific standards.
 - Other useful info:
+	- This is a short section whose operative rule is the single paragraph above: a provision for adverse deviations (PFAD) is included only when required by the engagement, by law, or by practice-specific standards — not as a general, unconditional margin.
+	- A PFAD may be an explicit or implicit margin intended to protect against the risk that actual experience is worse than the best estimate. The best-estimate concept and the "modified, if appropriate, to make provision for adverse deviations" language is set out in [[Assumptions]] (1620.02).
+	- The amounts and design of such provisions are generally determined by practice-specific standards (e.g., for insurance contract liabilities) rather than by this subsection.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 69

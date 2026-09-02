@@ -2,18 +2,35 @@
 - Definition:
 	- Deviation from a particular recommendation or explanatory text in these standards is accepted actuarial practice if the effect of so doing is not material.
 - Other useful info:
-	- The standard of materiality depends on how the user uses the actuary’s work (difficult to know in advance)
-	- The actuary would choose the most rigorous standard of materiality among the users and uses.
-- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 20
-- Things to keep in mind when determining matreriallity level:
-	- The materiality level should be related to the purposes and intended uses of the work. The actuary should understand which financial values are usually important for the intended uses. For example
+	- "Material" has its ordinary meaning, but is judged from the point of view of a user, having regard for the purpose of the work. An omission, understatement, or overstatement is material if the actuary expects it to affect either the user's decision-making or the user's reasonable expectations.
+	- When the user does not specify a standard of materiality, judgment falls to the actuary.
+	- Setting the standard of materiality may be difficult because:
+		- The standard depends on how the user uses the actuary's work, which the actuary may be unable to foresee. If practical, the actuary would discuss the standard of materiality with the user. Alternatively, the actuary would report the purpose of the work as precisely as possible, so the user is warned of the risk of using the work for a different purpose with a more rigorous standard of materiality.
+		- The standard may vary among users → the actuary would choose the most rigorous standard of materiality among the users.
+		- The standard may vary among uses → e.g. the same accounting calculations used for a pension plan's financial statements and the financial statements of its participating employer → choose the more rigorous standard between the two uses.
+		- The standard depends on the user's reasonable expectations, consistent with the purpose of the work → e.g. advice on winding up a pension plan may affect each participant's share of its assets, creating a conflict between equity and practicality (also true for advice on a policy dividend scale).
+	- The standard of materiality also depends on the work and the entity that is the subject of the work:
+		- A given dollar standard of materiality is more rigorous for a large than for a small entity;
+		- Valuation of an insurer's policy liabilities is usually more rigorous for financial statements than for a forecast in financial condition testing;
+		- The standard for data is more rigorous for calculating an individual benefit (e.g. pension plan wind-up) than for a valuation of a group benefit plan (e.g. going-concern valuation of a pension plan);
+		- For work involving a threshold (regulatory capital adequacy requirement of an insurer, statutory minimum or maximum funding level of a pension plan), the standard becomes more rigorous as the entity approaches that threshold.
+	- The actuary would not report an immaterial deviation from a recommendation or other guidance, except if doing so assists a user to decide whether the standard of materiality is appropriate for that user.
+	- The materiality recommendation applies to both calculation and reporting standards.
+	- Calculation standards:
+		- The result of applying a recommendation may not differ materially from the result of a simpler practice requiring less time and expense.
+		- In considering materiality, it is not appropriate to net items that are reported separately. Example: if simpler practices materially overstate premium liabilities and materially understate claim liabilities, but not their sum, the overstatement and understatement are each material if both items are reported separately. It is, however, appropriate to net components within a separately reported item (e.g. net the two if only the insurance contract liabilities total is reported).
+		- The effect of a simpler practice may be conservative or not; usually the criterion of materiality is the same in both cases.
+	- Reporting standards:
+		- The result of applying a recommendation may provide information that is not useful (e.g. disclosing a material change in valuation basis for a class of members that was trivial at the previous valuation; describing immaterial provisions of a benefit plan). Ignoring the recommendation is accepted actuarial practice in that situation.
+- Things to keep in mind when determining materiality level:
+	- The materiality level should be related to the purposes and intended uses of the work. The actuary should understand which financial values are usually important for the intended uses. For example:
 		- For regulatory or solvency issues, the materiality level is typically related to statutory surplus or the solvency benchmark ratio;
 		- For appraisal work, the materiality level is generally related to net worth, net income, or earnings per share;
-		- For DCAT work, the materiality level is expected to be less rigorous than for valuation work;
-	- The materiality level is also expected to vary according to other characteristics of the entity including but not limited to the:
+		- For DCAT work, the materiality level is expected to be less rigorous than for valuation work.
+	- The materiality level is also expected to vary according to other characteristics of the entity, including but not limited to the:
 		- Size of the entity;
-		- Entity’s access to capital;
+		- Entity's access to capital;
 		- Stage of organizational life cycle;
 		- Type of business (e.g., multi-line vs. single line, personal lines vs. commercial lines);
 		- Net retention.
-
+- Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 20

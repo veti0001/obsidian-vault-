@@ -2,5 +2,10 @@
 - Definition:
 	- Unless the actuary reports the inconsistency, the assumptions for a calculation for a periodic report should be consistent with those of the prior calculation.
 - Other useful info:
+	- The definition of "consistency" for this recommendation varies among practice areas:
+		- For advice on funding a pension plan: an assumption at a calculation date is consistent with the corresponding assumption at the prior calculation date if the two are numerically the same.
+		- For valuation of insurance contract liabilities for financial reporting: an assumption is consistent if each assumption: (a) reflects the conditions and outlook at its respective calculation date, consistent with the circumstances affecting the work, in the case of a best estimate assumption; (b) reflects the risks at its respective calculation date, consistent with the circumstances affecting the work, in the case of a margin for adverse deviations; and (c) is located at the same point within the range of accepted actuarial practice.
+	- If the assumptions are not consistent, the actuary would report the inconsistency. If practical, useful and appropriate under the terms of the engagement, the report would quantify the effect of the inconsistency.
 	- Similarly to the choice of assumptions, the choice of the model used is itself an important consideration. If the current model is different from that used in prior work, the actuary would report the implications and impact.
+	- Links to [[Assumptions]] on selecting assumptions and [[Methods]] on selecting the method/model.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 69

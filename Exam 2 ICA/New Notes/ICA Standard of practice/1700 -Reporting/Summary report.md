@@ -1,6 +1,9 @@
 -  Number: 1740
-- Definition
-	- Where required by practice-specific standards, the actuary should prepare a summary report
+- Definition:
+	- Where required by practice-specific standards, the actuary should prepare a summary report.
 - Other useful info:
-	- It is therefore good practice to confirm an oral report in writing,
+	- The practice-specific standards specify the language to be used in the summary report.
+	- The purpose of the summary report is to simplify the actuary's communication with users.
+	- It may be incorporated in a report prepared by the actuary's employer or client; for example, the financial statements of an insurer, a pension plan, or a public personal injury compensation plan.
+	- Such a summary report does not constitute an [[Reporting external user report|external user report]].
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 80

@@ -2,4 +2,7 @@
 - Definition:
 	- The actuary should select a method that takes account of the circumstances affecting the work.
 - Other useful info:
+	- The basis for calculating actuarial estimates is comprised of a method and one or more assumptions. Methods represent the underlying manner in which actuarial calculations are undertaken; they differ from one area of actuarial practice to another and have differed over time.
+	- In selecting an appropriate method, the actuary would consider whether any method is mandated by law, by practice-specific standards or by the terms of the engagement.
+	- Method is distinct from assumptions — [[Methods]] sets the manner of the calculation, while [[Assumptions]] are the values or conditions fed into it.
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 63
