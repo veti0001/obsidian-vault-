@@ -1,5 +1,0 @@
-- Assign to portfolio and group that can't be change after initial recognition. (to stop onerous contract being offset by non-onerous one.)
-- Fulfilment cash flow can estimated at a higher level then group. 
-- Only group cannot be changed after initial recognition
-- LIC can be estimated at higher level then the group and then relocated.
-- Separate insurance contract issued to reinsurance contract held

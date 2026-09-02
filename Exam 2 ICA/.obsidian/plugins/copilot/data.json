@@ -1,42 +1,37 @@
 {
   "userId": "633beaf2-4567-4e20-9ea5-620b95cc142f",
+  "isPaidUser": false,
   "isPlusUser": false,
+  "entitlementToken": "",
+  "entitlementExpiresAt": 0,
   "plusLicenseKey": "",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
-  "azureOpenAIApiKey": "",
-  "azureOpenAIApiInstanceName": "",
-  "azureOpenAIApiDeploymentName": "",
-  "azureOpenAIApiVersion": "",
-  "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
-  "amazonBedrockApiKey": "",
-  "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
-  "githubCopilotAccessToken": "",
-  "githubCopilotToken": "",
-  "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "gemini-flash-lite-latest|google",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
-  "temperature": 0.1,
-  "maxTokens": 6000,
   "contextTurns": 15,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
+  "copilotFolder": "copilot",
+  "copilotRootHistory": [
+    "copilot"
+  ],
+  "upgradedToV8FromLegacy": false,
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": false,
-  "generateAIChatTitleOnSave": false,
   "autoAddActiveContentToContext": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
@@ -59,10 +54,10 @@
       "isBuiltIn": true,
       "core": true,
       "plusExclusive": true,
-      "projectEnabled": false,
       "capabilities": [
         "vision"
       ],
+      "projectEnabled": false,
       "apiKey": ""
     },
     {
@@ -71,10 +66,10 @@
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
-      "projectEnabled": true,
       "capabilities": [
         "vision"
       ],
+      "projectEnabled": true,
       "apiKey": ""
     },
     {
@@ -441,48 +436,38 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "apiKey": ""
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "apiKey": ""
     }
   ],
   "embeddingRequestsPerMin": 60,
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
-  "showSuggestedPrompts": true,
-  "showRelevantNotes": true,
   "numPartitions": 1,
   "lexicalSearchRamLimit": 100,
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
   "chatHistorySortStrategy": "recent",
-  "projectListSortStrategy": "recent",
   "projectsFolder": "copilot/projects",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
-  "lastDismissedVersion": "4.0.0",
+  "lastDismissedVersion": "4.0.4",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
   "enableSemanticSearchV3": false,
   "enableSelfHostMode": false,
   "enableMiyo": false,
+  "enableMiyoSearchSkill": false,
   "miyoSearchAll": false,
-  "selfHostModeValidatedAt": null,
-  "selfHostValidationCount": 0,
-  "selfHostUrl": "",
-  "selfHostApiKey": "",
   "miyoServerUrl": "",
+  "miyoSyncedExclusions": "",
   "selfHostSearchProvider": "firecrawl",
   "firecrawlApiKey": "",
   "perplexityApiKey": "",
+  "parallelApiKey": "",
+  "exaApiKey": "",
   "supadataApiKey": "",
+  "docProcessorBackend": "plus",
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": true,
   "autonomousAgentMaxIterations": 4,
@@ -511,6 +496,116 @@
   "defaultSystemPromptTitle": "",
   "autoCompactThreshold": 128000,
   "convertedDocOutputFolder": "",
-  "_keychainOnly": true,
-  "_keychainVaultId": "b3cf20bd"
+  "agentMode": {
+    "byok": {},
+    "activeBackend": "opencode",
+    "backends": {},
+    "debugFullFrames": true,
+    "notificationSound": true,
+    "notificationSoundId": "piano",
+    "welcomeDismissed": false,
+    "skills": {
+      "folder": "copilot/skills"
+    },
+    "deviceProfiles": {
+      "53f0fe0d-82e0-4442-a62f-e45606d17e43": {
+        "opencode": {
+          "binaryPath": "C:\\Users\\evezi\\.obsidian-copilot\\opencode\\1.18.16\\bin\\opencode.exe",
+          "binaryVersion": "1.18.16",
+          "binarySource": "managed",
+          "probeSessionId": "ses_fa01c77e1ffeACDo25tD6wodHs"
+        }
+      }
+    }
+  },
+  "providers": {
+    "2e516031-60c7-45c0-9634-e57d80209d7f": {
+      "providerType": "openai-compatible",
+      "displayName": "opencode",
+      "origin": {
+        "kind": "agent",
+        "agentType": "opencode"
+      },
+      "requiresApiKey": false,
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "addedAt": 1788315142195,
+      "apiKeyKeychainId": null
+    }
+  },
+  "configuredModels": [
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/big-pickle",
+        "displayName": "OpenCode Zen/Big Pickle"
+      },
+      "configuredModelId": "059ade77-d8d2-4320-bc45-5b3ecb7c57cd",
+      "configuredAt": 1788315142643
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/ling-3.0-flash-fin-free",
+        "displayName": "OpenCode Zen/Ling 3.0 Flash Fin Free"
+      },
+      "configuredModelId": "8c19c160-8f41-432a-a5b1-202fcb3f7baf",
+      "configuredAt": 1788315142646
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/mimo-v2.5-free",
+        "displayName": "OpenCode Zen/MiMo V2.5 Free"
+      },
+      "configuredModelId": "4a84b918-848d-4612-8424-715002deb45a",
+      "configuredAt": 1788315142652
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/muse-spark-1.2-contributor-free",
+        "displayName": "OpenCode Zen/Muse Spark 1.2 Free"
+      },
+      "configuredModelId": "5bed6b2f-4927-486a-bb68-b7ca3210fa0f",
+      "configuredAt": 1788315142657
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/nemotron-3-ultra-free",
+        "displayName": "OpenCode Zen/Nemotron 3 Ultra Free"
+      },
+      "configuredModelId": "0c460d34-4fba-4b09-9654-249aafd9ba3f",
+      "configuredAt": 1788315142657
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/nemotron-3.5-lightning-free",
+        "displayName": "OpenCode Zen/Nemotron 3.5 Lightning Free"
+      },
+      "configuredModelId": "9c80dfc6-886f-48cd-8426-195c28471ed6",
+      "configuredAt": 1788315142658
+    }
+  ],
+  "backends": {
+    "opencode": {
+      "enabledModels": [
+        "059ade77-d8d2-4320-bc45-5b3ecb7c57cd",
+        "8c19c160-8f41-432a-a5b1-202fcb3f7baf",
+        "4a84b918-848d-4612-8424-715002deb45a"
+      ]
+    }
+  },
+  "temperature": 0.1,
+  "generateAIChatTitleOnSave": false,
+  "showSuggestedPrompts": true,
+  "showRelevantNotes": true,
+  "projectListSortStrategy": "recent",
+  "selfHostModeValidatedAt": null,
+  "selfHostValidationCount": 0,
+  "selfHostUrl": "",
+  "selfHostApiKey": "",
+  "_keychainVaultId": "b3cf20bd",
+  "settingsVersion": 12
 }

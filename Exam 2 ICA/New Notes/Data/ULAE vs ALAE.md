@@ -34,6 +34,7 @@
 		- the 0.5 multiplier could also not be accurate
 	- More appropriate formula would be:
 		- Unpaid ULAE = (ULAE ratio X IBNYR) + (ULAE ratio X multiplier X (case estimate+ development on case estimate)
+		- development on case estimate = IBNR - IBNYR
 		- since IBNR = IBNER + IBNYR
 	- the method is biased and often produce estimate that are too high
 
@@ -53,3 +54,22 @@
 	- When there are large claims that distort the CY paid and reported claims
 	- When there is a low claim volume with a great variability in the averages
 	- When there is not a lot of volume of credible paid or reported claims
+- Assumptions:
+	- payment, reporting patterns and estimated ult claims are accurate
+
+#### Count based methods
+
+- Average ULAE will differed based on the transaction type
+- Advantages:
+	- ULAE does not only depend on the claim amount. 1 500k claims will probably have lower ULAE than 10 50k claims  
+	- ULAE will fluctuate to changes in claim estimates if ULAE ratio is used
+	- ULAE will be similar for claims files that are similar if count based approach is used
+- Data needed:
+	- Triangles of reported and closed count
+	- Selected ultimate count
+	- Paid ULAE
+- Weakness:
+	- Estimated ULAE tend to be much lower than the estimated ULAE from classical paid-to-paid method
+	- Count categories are not exclusive (claim can be open and closed in the same year)
+	- It is not because a claim file is open longer than the ULAE will necessarily be higher
+	- Difficult to determine the claim files that are open and closed during a year 

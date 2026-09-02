@@ -27,6 +27,7 @@
 
 - Seek a balance between responsiveness and stability
 	- Need a sufficient volume of credible experience form a long enough period of time
+	- We want to trend premiums that are on level to take into account the changes in rate changes. We want the trends to only capture the effect of change in mix of exposures  and inflation (if needed)
 
 ## Type of data used
 
@@ -50,3 +51,9 @@
 	- Seasonality
 	- Tort reform
 	- Legislated benefits level changes
+## Premium Trending
+
+- Written premium: 
+	- Use average written date of written premium of each of the exposures period to the average written date of forecast period
+- Earned premium:
+	- Use average earned date of earned premium of each of the exposures period to the average earned date of forecast period

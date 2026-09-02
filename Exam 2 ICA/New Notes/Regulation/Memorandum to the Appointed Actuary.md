@@ -32,16 +32,13 @@
 - Describe the insurer's reinsurance held, significant changes in its reinsurance arrangements, and the rationale for change
 - Describe the valuation of reinsurance held assets and liabilities
 - Identify reinsurance arrangements that are not accounted for under IFRS 17
-
 ### Data
 
 - Contain a description of the data used for the valuation and notable changes in data (if any) from the prior year and the reasons for such change
-
 ### Actual and expected experience
 
 - Include comparisons of actual to expected experience for significant assumptions used in the measurement of actuarial and policy liabilities
 - Comparison of actual and expected experience consists of comparing ultimate undiscounted estimates of losses at the end of the current fiscal year with similar estimates made at the end of prior fiscal year-ends
-
 ### Methodology
 
 ### Assumptions

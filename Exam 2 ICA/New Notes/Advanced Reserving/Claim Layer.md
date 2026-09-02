@@ -1,0 +1,25 @@
+- Useful definition
+	-  L(𝑑,𝑝) = Claims layer truncated from below at d and censored from above at p
+-  Trend Factor:
+	-  Trend that acts in the development period or calendar period direction is often not considered
+	- If trend is estimated from claims data that is subject to policy limits or deductibles then we will first need to adjust the data to a ground-up, unlimited basis using the claim size model.
+	- Trend factor will be different for every value of the triangle (in theory)
+- Claim size model
+	-  The limit adjustment factors, S(a,b), represents the ratio of expectations of claims between layer La and Lb .
+	- Si,j (La , Lb ) = {LEV(pa ; Φi,j ) – LEV(da ; Φi,j )} / {LEV(pb ; Φi,j ) – LEV(db; Φi,j )}
+	- LEV = limited expected value
+	- Φi,j  = assumed distribution
+	- S i,j (La , Lb ) = E[𝐶𝑖,𝑗 𝑳𝑎/ 𝐶𝑖,𝑗 𝑳𝑏]
+-  We adjust observed claim amounts for differences in cost level and limit using the limited expected value function.
+- How it works:
+	- We first select a Basic Limit, B, which is the threshold at which we believe the data is sufficiently credible for developing claims development patterns
+	- E[𝐶𝚤,𝚥 𝑩 ́ |𝐶𝑖,𝑗 𝑳]  =𝐶𝑖,𝑗 𝑳 × 𝐿𝐸𝑉(𝑩;𝚽𝑛,𝑗)/𝐿𝐸𝑉(𝑳;𝚽𝑖,𝑗)
+	- L = data at limit we have access to.
+- **Development factors at different cost levels and different layers are related to each other based on claim size models and trend.**
+- Issues (not too bad):
+	- The procedure requires that the actuary select a basic limit. (most of the time taken into account that basic limit is credible enough)
+	- The procedure requires the use of a(n ultimate) claim size model
+	- The procedure requires that the data triangle be adjusted to a basic limit and common cost level.
+- Issues (bad):
+	- Claim size models at maturities prior to ultimate are generally not available
+	- The procedure requires the calculation of a triangle of trend indices in order to implement a development method analysis

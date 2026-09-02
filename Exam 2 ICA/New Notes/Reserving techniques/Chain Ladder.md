@@ -144,6 +144,8 @@ Possible approaches:
 	- Relationship between claims at successive age may not be best explain by multiplicative factor
 	- Change in operation can result in historical relationship that are no longer predictive of future claim activity
 	- implicit assumptions that inflation in claim payments has been consistent and stable and that it will continue at the same rate in the future
+	- it does not measure or adjust for calendar-year effects
+	- it includes a significant number of parameters and many would argue that it over-fits the model to the data.
 ## 12. Impact of Changes in Assumptions
 
 ### Increasing Claim Ratio

@@ -1,7 +1,6 @@
 ## Goal |
 
 - Reduce volatility caused by large losses.
-Reduce volatility caused by large losses.
 
 ## Approach
 
