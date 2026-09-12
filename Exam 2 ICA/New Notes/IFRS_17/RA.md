@@ -1,4 +1,4 @@
-## Definition:
+ ## Definition:
 - “An entity shall adjust the estimate of the present value of the future cash flows to reflect the compensation that the entity requires for bearing the uncertainty about the amount and timing of the cash flows that arises from non-financial risk.”
 
 ## Non-financial risk
@@ -43,7 +43,7 @@
 		- usually quantify by correlation matrices and copulas.
 		- benefits of diversifications would be allocated to the units 
 	- #### Allocation in an unit of account approach
-		- the RA a unit may or may not reflect the diversification benefits between all the different units in the entity
+		- the RA for a unit may or may not reflect the diversification benefits between all the different units in the entity
 		- if not all the diversification is reflected in the RA, the confidence in the RA will be higher (we are more conservative)
 
 ## Reinsurance 
@@ -83,6 +83,16 @@
 		- scenario modelling
 	- if we use VaR, RA = VaR(x) - E(present value of probability weighted cash flow)
 	- if we used CTE, RA = CTE(x) - E(present value of probability weighted cash flow)
+- #### Method to calculate quantile
+	- Monte Carlo
+		- Advantages:
+			- Need way less data than Bootstrap
+			- work for data that is correlated (Not bootstrap)
+	- Bootstrap
+		- Advantages
+			- More precise
+		- Disadvantages
+			- Need a lot of uncorrelated data
 ### Cost of capital method
 
 - RA = compensation that the entity need to meet a target return

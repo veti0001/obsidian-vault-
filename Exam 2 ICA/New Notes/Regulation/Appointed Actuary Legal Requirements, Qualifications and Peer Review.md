@@ -7,7 +7,7 @@
 - Each company must have an AA and notify the superintendent of his appointment (30 days)
 - AA must be an FICA
 - CEO or COO cannot be the AA unless prior approval from the superintendent
-- AA can be fired superintendent must be informed
+- AA can be fired ,but superintendent must be informed
 - AA must report in writing why he thinks he was fired or why he resigned to the directors + superintendent
 - New AA must access that written document before accepting new AA mandate, unless he cannot get access to that document in 15 days
 
@@ -22,7 +22,7 @@
 - Respect actuarial rule of professional conduct
 - Work complies with accepted actuarial practice
 - Superintendent expects the AA to have the following qualifications:
-- Has appropriate Canadian practical experience, which is defined as work in Canada for at least three of the last six years, of which at least one year was performing valuation of Canadian actuarial liabilities and FCT of an insurance company with similar lines of business and/0r operations;
+- Has appropriate Canadian practical experience, which is defined as work in Canada for at least three of the last six years, of which at least one year was performing valuation of Canadian actuarial liabilities and FCT of an insurance company with similar lines of business and/or operations;
 - Has experience with the CIA's Standards of Practice and relevant insurance legislation and regulation;
 - Is up to date with respect to the CIA's continuing professional development requirement; and
 - Has not been the subject of an adverse finding by a CIA Disciplinary Tribunal. Where there has been such a finding, the Superintendent may nevertheless conclude that the AA is a suitable person if the circumstances of the case and other information support such a conclusion.

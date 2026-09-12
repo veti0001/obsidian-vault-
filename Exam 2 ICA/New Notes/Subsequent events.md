@@ -14,7 +14,7 @@ link: [Educational Note: Subsequent Events](https://www.cia-ica.ca/app/themes/wi
 - adjusting events : 
 	- provide evidence of conditions that existed at the end of the reporting period
 	- need to include them in calculations
-- on-adjusting events:
+- Non-adjusting events:
 	- indicative of conditions that arose after the reporting period
 	- need to disclose them
 - the events needs to be material to be considered 

@@ -4,23 +4,6 @@
 - **Illiquidity premium**: Adjustment made to a liquid risk-free yield curve to reflect differences between the liquidity characteristics of the financial instruments that underlie the (risk-free) rates observed in the market and the liquidity characteristics of the insurance contracts.
 - **Reference portfolio**: A portfolio of assets used to derive discount rates based on current market rates of return, adjusted to remove returns related to risk characteristics embedded in the portfolio that are not inherent in insurance contracts.
 
-## Determining FCF
-
-- Reinsurance contract held cash flow = Gross future cash flow - Net future cash flow
-- Data consideration:
-	- **Data availability**: If there is sparse or limited data for ceded claims, it may not be possible or appropriate to directly estimate the present value of ceded cash flows.
-	- **Cash flow volatility**: Different approaches may be warranted for different segments of business depending on the volatility of cash flows by segment.
-	- **Reinsurance held**: Consideration would be given to the type and consistency of an entity’s reinsurance held. For example, it may not be appropriate to use the net basis as a starting point if the entity’s retention has changed significantly over the experience period.
-- FCF are obtained by applying payment pattern to selected estimates of future paid losses
-- Only include cash flow for witch the company has discretion over the amount and timing 
-	- claim handling costs (i.e., unallocated loss adjustment expenses), receivables, payables, reinstatement premiums and contingent commissions.
-	
-- ### Payment pattern
-	- define on a homogeneous business segment level
-	- need to consider the following:
-		- undiscounted basis
-		- payout period 
-		- existence of a predetermined schedule of payments for a segment of claims
 ## Discount Rate
 
 - Characteristics:
@@ -46,7 +29,9 @@
 			- investment risk (e.g., credit risk, market risk)
 				- Credit risk: includes default risk and downgrade risk.
 			- amount, timing and uncertainty of cash flows
+				- assess the consistency of the timing of payments between the assets in the reference portfolio and the insurance contract liabilities
 			- currency risk
+				- select a reference portfolio made up of investments denominated in the same currency as the insurance contracts
 		- Top-Down Discount Rate = Reference Portfolio Rate – Credit Risk, Market Risk & Other Adjustments
 		- Selection of reference portfolio: We should aim to have portfolio with similar assets to have the least possible adjustment needed
 		- #### Advantages
@@ -71,8 +56,10 @@
 	- Exit cost
 	- Inherent value / value build-up:
 - LRC is generally liquid : Ability of policyholder to cancel policy before expiry date and to receive value without significant exit costs.
-- LIC is generally illiquid: Ability for the policyholder to obtain the exit value in advance of “normal” payment dates.
+	- Reinsurance contract held : the liquidity of the LRC is evaluated on the basis of the ability of the purchaser of the reinsurance to cancel the reinsurance contract before its expiry date and to receive value./Treaty-specific cancellation provisions are considered for the purposes of assessing liquidity
 
+- LIC is generally illiquid: Ability for the policyholder to obtain the exit value in advance of “normal” payment dates.
+	
 ## Reference Curve
 
 - 2 different yield curve could be used ( 1 for liquid assets and one for illiquid assets)

@@ -17,9 +17,23 @@ tags:
 
 ## Possible Analysis
 
-- Separately analyze claims on a direct, assumed, and ceded basis
+- Separately analyze claims on a direct, assumed, and ceded basis (Goss and Ceded)
+	- #### Advantages
+	    - Improve understanding of recoveries
+	    - Detail analysis of reinsurance term
+	    - Facilitate stress tesing
+	- #### Disadvantages
+		- Complexity
+		- sensitive to data quality
+		- Recoveries may lag behind close claims
 - Analyze claims on a gross and net basis:
     - Net claims = direct + assumed - ceded
+    - #### Advantages
+	    - direct estimation
+	    - align with IFRS-17 
+	- #### Disadvantages
+		- Recoveries are not modelled
+		- require assumption about the net to gross ratio
 - Choices are made based on:
     - The insurer's reinsurance program
     - Type of data segregation available

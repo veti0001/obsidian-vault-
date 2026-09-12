@@ -38,7 +38,7 @@
 		- Reported will still be accurate
 		- Paid will overestimate when there is a speedup and underestimate when there is a slowdown, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method
 	- Change in case reserve adequacy:
-		- Will overestimates when there as been an increase and underestimates when there as been a decrease, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method, but the error will be bigger then BF
+		- reported will overestimates when there as been an increase and underestimates when there as been a decrease, but the magnitude will not be as big as when development techniques are used, because of the weight given to expected method, but the error will be bigger then BF
 		- Paid will be accurate
 	- Change in claim ratio:
 		- These method do not fully react to change in claim ratio, because of the weight given to expected method.

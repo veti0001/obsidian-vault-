@@ -17,8 +17,8 @@
 	- An adjustment to reflect the time value of money; and
 	- A risk adjustment for non-financial risk (RA).	
 - entity shall include in the estimates of the present value of the future cash flows for the group of reinsurance contracts held the effect of any risk of non performance by the issuer of the reinsurance contract 
-- - Risk of non-performance by the issuer of the reinsurance contracts held
-	- the risk of non-performance of the reinsurer, including consideration for reinsurer default, coverage dispute, and other risk of non-performance
+- Risk of non-performance by the issuer of the reinsurance contracts held
+	- the risk of non-performance of the reinsurer, including consideration for reinsurer default, coverage dispute, and other risk of non-performance, Financial strength of the reinsurer, Contagion across various reinsurance arrangements
 	- incorporated as a decrease to the estimates of future cash inflows
 	- The CSM would not be adjusted as a result of the change in the risk of non-performance but the ARC would be adjusted to account for the changes in the FCF.
 

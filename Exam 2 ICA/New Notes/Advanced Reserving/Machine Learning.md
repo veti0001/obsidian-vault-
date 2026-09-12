@@ -4,7 +4,8 @@
 
 ## Advantages
 
-- aggregate methods neglect individual claims behavior features can be dynamic in the model (stochastic features)
+- aggregate methods neglect individual claims behavior
+- features can be dynamic in the model (stochastic features)
 
 ## How it works
 

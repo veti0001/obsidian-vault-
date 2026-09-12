@@ -23,7 +23,7 @@ The key trade-off: **development methods are most responsive** to recent experie
 | Method                | Paid claims                                                                                                  | Reported claims |
 | --------------------- | ------------------------------------------------------------------------------------------------------------ | --------------- |
 | [[Chain Ladder]]      | **Over-projects** on speed-up; **under-projects** on slow-down (historical factors assume slower settlement) | **Accurate**    |
-| [[BF]] / [[Cape Cod]] | Same direction but **smaller error** (expected weight cushions it)                                           | Accurate        |
+| [[BF]] / [[Cape Cod]] | Same direction but **smaller error** then CL (expected weight cushions it)                                   | Accurate        |
 | [[Expected method]]   | Error only if the estimated claim ratio is affected; otherwise no impact                                     | No impact       |
 | [[Berquist sherman]]  | Adjusts paid data explicitly (fit paid vs closed counts)                                                     | **Accurate**    |
 
@@ -80,13 +80,13 @@ For [[Freq-Sev]], mix changes break the *homogeneity* assumption directly.
 
 ### 7. Immature data / new LOB / no credible history
 
-| Method | Response |
-| --- | --- |
-| [[Chain Ladder]] | **Not usable** — no credible data / unstable recent diagonal |
+| Method              | Response                                                           |
+| ------------------- | ------------------------------------------------------------------ |
+| [[Chain Ladder]]    | **Not usable** — no credible data / unstable recent diagonal       |
 | [[Expected method]] | **Best** — a priori estimate when there's not enough credible data |
-| [[BF]] | Good — blends expected with early immature experience |
-| [[Cape Cod]] | **Not usable** for new LOB (no data to compute ECR) |
-| [[Freq-Sev]] | Good — projects frequency & severity separately |
+| [[BF]]              | Good — blends expected with early immature experience              |
+| [[Cape Cod]]        | **Not usable** for new LOB (no data to compute ECR)                |
+| [[Freq-Sev]]        | **Not usable** — no credible data / unstable recent diagonal       |
 
 **Best method:** [[Expected method]] (most stable), then BF if a little experience exists.
 

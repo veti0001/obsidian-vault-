@@ -17,6 +17,8 @@ Each basis groups losses differently, which changes how unpaid claims (IBNR) app
     - Poor indicator of pricing adequacy.
     - Misaligned with the risk period → development triangles on CY data are not meaningful for projecting ultimates.
 - **Actuary Usage:** CY data is *not* appropriate for building development patterns, but it feeds reserving indirectly through loss ratios and volume measures (e.g., Bornhuetter–Ferguson, Cape Cod) and is the basis for monitoring reserve adequacy.
+- ==CY reported claims = case estimate end of year - case estimate beginning of year + payment in year==
+- CY reported claims = difference in two diagonals of a claim triangle
 
 ### Accident Year
 

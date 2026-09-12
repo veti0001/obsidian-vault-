@@ -25,6 +25,7 @@
 ### Advantages of **reported** claims
 
 - Reported claims are typically more credible and less volatile due to higher volume.
+- Are not affected by changes in settlement pattern
 ## 3. Selection of Average Age‑to‑Age Factors
 
 ### Types of averages
@@ -95,6 +96,7 @@ Two approaches when combining ALAE with claims:
 
 - Reporting and payment patterns are similar to claims.
 - Differences between ALAE and claim patterns are stable across years.
+
 Consider ALAE separately when:
 
 - Reporting or payment patterns differ materially from claims.

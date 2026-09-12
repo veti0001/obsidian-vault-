@@ -29,7 +29,7 @@
 	- During a time exposure growth the ULAE ratio is overstated:
 		- ULAE reacts fairly quick to growth in exposures
 		- Paid claims are less responsive to growth in exposures
-	- During a period  of exposures the ULAE ratio is overstated:
+	- During a period  of inflation the ULAE ratio is overstated:
 		- inflation impact more the ULAE than paid claims
 		- the 0.5 multiplier could also not be accurate
 	- More appropriate formula would be:

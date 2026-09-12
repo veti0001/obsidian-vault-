@@ -1,61 +1,86 @@
-- ## Assumptions:
-    - Ultimate claims can be better estimated based on an a priori estimate than using the experience observed to date for that period.
-    - A reasonable claim ratio can be obtained.
-    
-- ## Common Usage:
-    - When entering a new LOB as there is not enough credible data.
-    - When operational or environmental changes make historical data irrelevant for projecting ultimate losses.
-    - When estimating ultimate at early maturities for long-tailed lines of business where the early age-to-ultimate factors are heavily leveraged.
-    - When data is unavailable so other methods cannot be used.
-    - When there is an immature experience period , specifically for long-tail GI business
-    
-- ## Advantages (When to Use):
-    - Provides stable estimates of ultimate claims.
-    - Simple method 
-    - No need for a lot of data
-    - May be only viable method on the following cases:
-	    - insurer offering new product
-	    - time of significant changes for the insurer
-    
-- ## Disadvantages (When Not to Use):
-    - Unresponsive to recent experience.
-    
-- ## Change in Assumptions:
-    - Changes in settlement speed:
-        - Has no impact on estimates if the estimated claim ratio is not affected.
-        - If changes affect the most recent year (which is not part of the calculation of the expected claim ratio), nothing will happen.
-        - If changes affect other years, the error will be in the same direction as the chain ladder method, but less severe. Errors will only occur if using paid data.
-    - Changes in case reserve adequacy:
-        - Has no impact on estimates if the estimated claim ratio is not affected.
-        - If changes affect the most recent year (which is not part of the calculation of the expected claim ratio), nothing will happen.
-        - If changes affect other years, the error will be in the same direction as the chain ladder method, but less severe. Errors will only occur if using reported data.
-    - Changes in claim ratio:
-        - This method will not react to changes in that value since the claim ratio is fixed.
-        - This method will become inaccurate.
-    - Exposure growth:
-        - This method is not affected by exposure growth changes.
-        - Unless the average accident year changes:
-            - If changes affect the most recent year (which is not part of the calculation of the expected claim ratio), nothing will happen.
-            - If changes affect other years, the error will be in the same direction as the chain ladder method, but less severe.
-    - Change in mix of business:
-        - Will be impacted if one of the following is true:
-            - Segments of the business that are changing have a different claim ratio (change in claim ratio).
-            - Segments of the business that are changing have the same claim ratio, but a different development pattern.
-- ## Possible ratios
-	- Claims
-		- Expected Ratio X EP
-			- most frequent
-		- Ult count X Ult severity
-		- Pure premium X exposure
-	- ALAE
-		- Ult ALAE ratio X EP
-		- Ult ALAE ratio X Ult claims
-		- Ult ALAE ratio X Ult indemnity
-		- Ult ALAE severity X Ult  count
-		- ALAE pure premium X exposures
-	- Counts
-		- Ult frequency X exposure
-	- S&S
-		- Ult S&S ratio X Ult claims
-		- Ult S&S ratio X EP
+# Expected Method
+
+## Assumptions
+
+- Ultimate claims can be better estimated based on an a priori estimate than using the experience observed to date for that period.
+- A reasonable claim ratio can be obtained.
+
+## Common Usage
+
+- When entering a new LOB as there is not enough credible data.
+- When operational or environmental changes make historical data irrelevant for projecting ultimate losses.
+- When estimating ultimate at early maturities for long-tailed lines of business where the early age-to-ultimate factors are heavily leveraged.
+- When data is unavailable so other methods cannot be used.
+- When there is an immature experience period, specifically for long-tail GI business.
+- Use for both short-tail and long-tail LOBs.
+
+## Advantages (When to Use)
+
+- Provides stable estimates of ultimate claims.
+- Simple method.
+- No need for a lot of data.
+- May be only viable method in the following cases:
+  - Insurer offering new product.
+  - Time of significant changes for the insurer.
+
+## Disadvantages (When Not to Use)
+
+- Unresponsive to recent experience.
+
+## Change in Assumptions
+
+### Changes in settlement speed
+
+- Has no impact on estimates if the estimated claim ratio is not affected.
+- If changes affect the most recent year (which is not part of the calculation of the expected claim ratio), nothing will happen.
+- If changes affect other years, the error will be in the same direction as the chain ladder method, but less severe. Errors will only occur if using paid data.
+
+### Changes in case reserve adequacy
+
+- Has no impact on estimates if the estimated claim ratio is not affected.
+- If changes affect the most recent year (which is not part of the calculation of the expected claim ratio), nothing will happen.
+- If changes affect other years, the error will be in the same direction as the chain ladder method, but less severe. Errors will only occur if using reported data.
+
+### Changes in claim ratio
+
+- This method will not react to changes in that value since the claim ratio is fixed.
+- This method will become inaccurate.
+
+### Exposure growth
+
+- This method is not affected by exposure growth changes.
+- Unless the average accident year changes:
+  - If changes affect the most recent year (which is not part of the calculation of the expected claim ratio), nothing will happen.
+  - If changes affect other years, the error will be in the same direction as the chain ladder method, but less severe.
+
+### Change in mix of business
+
+- Will be impacted if one of the following is true:
+  - Segments of the business that are changing have a different claim ratio (change in claim ratio).
+  - Segments of the business that are changing have the same claim ratio, but a different development pattern.
+
+## Possible Ratios
+
+### Claims
+
+- Expected Ratio X EP *(most frequent)*
+- Ult count X Ult severity
+- Pure premium X exposure
+
+### ALAE
+
+- Ult ALAE ratio X EP
+- Ult ALAE ratio X Ult claims
+- Ult ALAE ratio X Ult indemnity
+- Ult ALAE severity X Ult count
+- ALAE pure premium X exposures
+
+### Counts
+
+- Ult frequency X exposure
+
+### S&S
+
+- Ult S&S ratio X Ult claims
+- Ult S&S ratio X EP
 

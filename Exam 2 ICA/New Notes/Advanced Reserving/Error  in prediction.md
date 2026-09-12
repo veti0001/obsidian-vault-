@@ -1,0 +1,19 @@
+- Prediction error of a GLM can be decomposed into:
+	- parameter error
+		- difference between True mean and the forecast
+	- process error 
+		- is caused by the facts that even thought the model may be perfectly calibrated there would still be some error due to the stochastics value of the future observations
+	- model error
+		- 3/4 of total prediction error
+		- difficult to quantify
+		- can be partially mitigated by weighting the outputs of multiple models
+- Model predicts reserving values that are too light in the tails in general
+- MSEP
+	- useful to look at when looking at outputs of Mack model
+	- estimates the tightness of a forecast around it's target
+	- we want the model that produces the smallest MSEP
+	- Takes into account the number of parameters
+- AIC/BIC
+	- wants the lower possible values 
+- K-folding
+	- can be useful to look at model error

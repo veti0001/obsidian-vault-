@@ -47,3 +47,21 @@
 - Benefit or claim payments
 - directly related expenses, and similar items
 - If the expense cannot be directly attributed to the portfolio than it will not be included
+## Determining FCF
+
+- ==FCF = Expected future cash flow + discounting + RA==
+- Reinsurance contract held cash flow = Gross future cash flow - Net future cash flow
+- Data consideration:
+	- **Data availability**: If there is sparse or limited data for ceded claims, it may not be possible or appropriate to directly estimate the present value of ceded cash flows.
+	- **Cash flow volatility**: Different approaches may be warranted for different segments of business depending on the volatility of cash flows by segment.
+	- **Reinsurance held**: Consideration would be given to the type and consistency of an entity’s reinsurance held. For example, it may not be appropriate to use the net basis as a starting point if the entity’s retention has changed significantly over the experience period.
+- FCF are obtained by applying payment pattern to selected estimates of future paid losses
+- Only include cash flow for witch the company has discretion over the amount and timing 
+	- claim handling costs (i.e., unallocated loss adjustment expenses), receivables, payables, reinstatement premiums and contingent commissions.
+	
+- ### Payment pattern
+	- define on a homogeneous business segment level
+	- need to consider the following:
+		- undiscounted basis
+		- payout period 
+		- existence of a predetermined schedule of payments for a segment of claims

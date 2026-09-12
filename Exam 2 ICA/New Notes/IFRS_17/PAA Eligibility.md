@@ -35,7 +35,14 @@
 - Reinsurance contracts held that are written on a one-year risk-attaching basis could have a contract boundary of up to two years
 - Consequently, a group of reinsurance contracts held may not be automatically eligible for the PAA (and therefore subject to the GMA) while the underlying contracts are automatically eligible for the PAA
 ## Onerous Contract:
-- Always need to calculate GMA estimate since need LC
-- but can still be eligible for PAA
+- Always need to calculate GMA LRC estimate since need LC
+- but can still be eligible for PAA for LIC
+- Scenario that indicate that we need to test for Onerous contract:
+	- a group in the portfolio that is known to be onerous at initial recognition;
+	- past losses in the portfolio;
+	- aggressive underwriting;
+	- aggressive pricing;
+	- unfavorable experience trends;
+	- unfavorable external conditions.
 ## Discount rate:
 - the discounting directly affect the GMA LRC and may be the cause of the difference 

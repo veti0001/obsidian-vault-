@@ -1,4 +1,4 @@
-## Goal |
+## Goal 
 
 - Reduce volatility caused by large losses.
 
@@ -11,7 +11,7 @@
 - Add back a **large loss load**
     
 - Document treatment of ALAE (included or excluded)
-## Working |
+## Working 
 
 - Claims may be projected at an alternate limit to reduce the effect of large losses
 - Large losses will also affect the average claim value needed for trend analysis

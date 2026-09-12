@@ -1,0 +1,4 @@
+- undertaking reconciliation against audited financial statement, trial balances or other relevant records if they are available
+- testing the data for reasonableness against external or independant data
+- testing the data for internal consistency 
+- comparing the data with prior period

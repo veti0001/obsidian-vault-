@@ -1,4 +1,4 @@
--  Number: 2450
+ -  Number: 2450
 - Definition:
 	- The appointed actuary for a Canadian insurer should report at least yearly to the directors, or to their audit committee if the directors so delegate:
 		- On the insurer's financial position and financial condition

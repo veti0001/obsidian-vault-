@@ -11,26 +11,8 @@
 - **Disadvantages:**
 	- The Mack model use the last value on the diagonal to calculate ultimate losses
 	- The Mack model assumes that all the AY are independent
-- Prediction error of a GLM can be decomposed into:
-	- parameter error
-		- difference between True mean and the forecast
-	- process error 
-		- is caused by the facts that even thought the model may be perfectly calibrated there would still be some error due to the stochastics value of the future observations
-	- model error
-		- 3/4 of total prediction error
-		- difficult to quantify
-		- can be partially mitigated by weighting the outputs of multiple models
-- Model predicts reserving values that are too light in the tails in general
-- MSEP
-	- useful to look at when looking at outputs of Mack model
-	- estimates the tightness of a forecast around it's target
-	- we want the model that produces the smallest MSEP
-	- Takes into account the number of parameters
-- AIC/BIC
-	- wants the lower possible values 
-- K-folding
-	- can be useful to look at model error
-
+	- No information about the distribution of the predictor error
+	- No clue about the accuracy of the MSEP
 ## Bootstrapping
 
 
@@ -93,3 +75,58 @@
 	- the final incremental value of each models can be weighted together
 - Run models with independent random variables
 	- weights are selected to randomly select a model for each iteration by AY
+- Apply correlation
+	- Calculated correlation is almost always close to 0 witch is not ideal
+	- Contagion is not suited to the following calculation is contagion between different lines of business
+	- Location mapping:
+		- Use the same residuals for each resample triangles
+		- Correlation of the original residuals is preserved in the sampling process
+		- Advantages:
+			- easy to implement
+		- Drawbacks:
+			- requires all of the business segments to use data triangles that are precisely the same size with no missing values or outliers when comparing each location of the residuals
+			- The correlation of the original residuals is used in the model, and no other correlation assumptions can be used for stress testing the aggregate results
+	- Resorting:
+		- use copulas or Iman-Cover algorithm
+		- advantages:
+			- The triangles for each segment may have different shapes and sizes,
+			- Different correlation assumptions may be employed, and
+			- Different correlation algorithms may also have other beneficial impacts on the aggregate distribution.
+
+## Stochastics Model
+
+- Produce full probability distribution for unpaid claims
+- Can calculate std of estimators
+- #### Advantages
+	- Quantify uncertanty explicitly
+	- Statistical testing and diagnostics
+	- Decompose sources of variability
+		- Separate process risk and model risk
+- #### Disadvantages
+	- Model risk and over confidence
+	- Data and computational requirements
+	- communicational difficulty
+## Scenario test
+
+- Test multiple adverse scenarios
+- #### Advantages
+	- transparency and relevance
+	- Focus on plausible severe outcomes 
+	- Low data burden
+- #### Disadvantages
+	- Not probabilistic (No confidence interval)
+	- Selection bias
+	- Potential for incomplete coverages (Not all scenarios are taken into account)
+
+## Use of alternative sets of assumptions
+
+- produce a range of possible assumptions
+- Show sensitivity and define a possible reasonable range of results
+- #### Advantages
+	- Simplicity and clarity
+	- Quick to implement and interpret 
+	- useful for governance and negotiation
+- #### Disadvantages
+	- Partial view of uncertainty
+	- choice of alternative can be subjective
+	- May give false sense of precision

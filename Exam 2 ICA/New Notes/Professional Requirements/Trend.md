@@ -1,4 +1,4 @@
-- - Standards define trend consideration.
+- Standards define trend consideration.
 - Economic inflation is differentiated from social inflation.
 - Actuaries seek a balance between responsiveness and stability.
 - Need a credible amount of data for a long enough period of time.

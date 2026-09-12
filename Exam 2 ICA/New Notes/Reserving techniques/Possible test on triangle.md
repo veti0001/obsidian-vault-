@@ -4,7 +4,7 @@
     - Average paid on closed: Paid claims on closed files / count closed with payment
     - Average reported: Reported claim / reported count
 	    - Value will change between each column based on the trend
-	    - Change can happened in numerator on denominator
+	    - Change can happened in numerator and denominator
     - Average reported on counts: Excluding count closed with no payment (CNP count) and open counts with no payments or case estimates
     - Average case estimates: Case estimates divided by open counts
 	    - (Reported Claims - Paid Claims) * 1000 / (reported count - closed count)
@@ -15,7 +15,7 @@
     - Ratio of paid to reported
 	    -  Initial test to see if there is any changes in the settlement patterns or adequacy of case estimates over the exposure period.
 	    - One of the most calculated triangle analysis metric
-	    - Change in the numerator could be affected by changes in the denominator
+	    - Change in the numerator could be affected or offset by changes in the denominator
     - Ratio of indemnity paid on closed counts to total paid
     - Ratio of net of reinsurance to gross of reinsurance (reported or paid)
     - Ratio at basic limit or total limit (reported or paid)
@@ -55,3 +55,10 @@
 - A new claim management IT system being put into service;
 - A call center system being instituted for the handling of claims; and
 - A modification to the definition of a count; for example all incidents are now recorded as counts in the claim management system.
+
+## what to do after tests
+
+- Formulate observations 
+- derive questions for management 
+- decide whether further testing is needed
+- determine if any additional data and information is necessary
