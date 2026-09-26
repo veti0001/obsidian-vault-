@@ -1,13 +1,16 @@
 - Prediction error of a GLM can be decomposed into:
 	- parameter error
-		- difference between True mean and the forecast
+		- difference between True mean and the forecast. Uncertainty in estimated model parameters
 	- process error 
 		- is caused by the facts that even thought the model may be perfectly calibrated there would still be some error due to the stochastics value of the future observations
 	- model error
 		- 3/4 of total prediction error
 		- difficult to quantify
 		- can be partially mitigated by weighting the outputs of multiple models
-- Model predicts reserving values that are too light in the tails in general
+	- Structural Changes
+		- past data is not representative of the future
+	- Black Swan event risk
+		- Large or Cat claims
 - MSEP
 	- useful to look at when looking at outputs of Mack model
 	- estimates the tightness of a forecast around it's target

@@ -12,11 +12,12 @@
 - Unpaid ULAE = (ULAE ratio X IBNR) + (ULAE ratio X multiplier X case estimate)
 - There is a substantial amount of ULAE that happens when claim are opened. We assume that already reported claims should have a lower unpaid ULAE than unreported claims
 - That is why we assign a multiplier to the second part of this formula (usually 0.5)
+- Case estimate = reported - paid claims (by AY, RY or PY)
 
 #### Classical Paid-to-Paid method
 
 - Most widely used method
-- CY paid ULAE are compared to CY paid claims
+- ==CY== paid ULAE are compared to CY paid claims
 - Looks at CY since ULAE cannot be allocated to specific claims
 - Assumptions:
 	- Payments for ULAE are proportional to payments for claims;

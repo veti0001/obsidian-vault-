@@ -558,24 +558,6 @@
     {
       "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
       "info": {
-        "id": "opencode/mimo-v2.5-free",
-        "displayName": "OpenCode Zen/MiMo V2.5 Free"
-      },
-      "configuredModelId": "4a84b918-848d-4612-8424-715002deb45a",
-      "configuredAt": 1788315142652
-    },
-    {
-      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
-      "info": {
-        "id": "opencode/muse-spark-1.2-contributor-free",
-        "displayName": "OpenCode Zen/Muse Spark 1.2 Free"
-      },
-      "configuredModelId": "5bed6b2f-4927-486a-bb68-b7ca3210fa0f",
-      "configuredAt": 1788315142657
-    },
-    {
-      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
-      "info": {
         "id": "opencode/nemotron-3-ultra-free",
         "displayName": "OpenCode Zen/Nemotron 3 Ultra Free"
       },
@@ -599,14 +581,31 @@
       },
       "configuredModelId": "f01ab073-1f0b-4bc7-a058-96af18ce1c1d",
       "configuredAt": 1788523599863
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/mimo-v2.6-flash-free",
+        "displayName": "OpenCode Zen/MiMo-V2.6-Flash Free"
+      },
+      "configuredModelId": "dc47d0f6-3cb0-43f5-8c30-01c1c01932b2",
+      "configuredAt": 1790163368927
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/space-bunny-free",
+        "displayName": "OpenCode Zen/Space Bunny Free"
+      },
+      "configuredModelId": "11d77962-7879-4286-ad1e-2e2ea1faee80",
+      "configuredAt": 1790336204188
     }
   ],
   "backends": {
     "opencode": {
       "enabledModels": [
         "059ade77-d8d2-4320-bc45-5b3ecb7c57cd",
-        "8c19c160-8f41-432a-a5b1-202fcb3f7baf",
-        "4a84b918-848d-4612-8424-715002deb45a"
+        "8c19c160-8f41-432a-a5b1-202fcb3f7baf"
       ]
     }
   },

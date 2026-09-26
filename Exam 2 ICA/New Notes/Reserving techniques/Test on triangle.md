@@ -56,7 +56,7 @@
 - A call center system being instituted for the handling of claims; and
 - A modification to the definition of a count; for example all incidents are now recorded as counts in the claim management system.
 
-## what to do after tests
+## What to do after tests
 
 - Formulate observations 
 - derive questions for management 

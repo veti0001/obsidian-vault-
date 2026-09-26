@@ -21,3 +21,20 @@
 - **Used with:**
     - Claims aggregated by policy year
 - EP x = WP x - UEP x
+
+### Earned premium
+
+- Commonly used exposure base used in expected methods
+- Accurate data usually readily available
+- Require adjustment for rate changes over the experience period
+- Might require changes to reflect late reported premiums
+- Require adjustment of all claims to the same cost level
+- Need access to a priori claim ratios
+
+### Earned Exposures
+
+- Commonly used exposure base used in expected methods
+- No adjustment required, which is an advantage over earned premiums
+- Sometimes reliable exposure data is not readily available
+- Require adjustment of all claims to the same cost level
+- Need access to a priori pure premiums

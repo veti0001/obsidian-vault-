@@ -1,18 +1,66 @@
 ## Mack Model
 
-- Stochastic Chain ladder model
-- Conditions:
-	- AY are independent
-	- AY different incremental value form a Markov chain
-	- Cumulative value knowing past incremental value (for a given AY) follows a EDF(...) law
-	- Same output as CL
-- ODP Mack model happens when the conditional law is ODP
-- Predict values that are too high
-- **Disadvantages:**
-	- The Mack model use the last value on the diagonal to calculate ultimate losses
-	- The Mack model assumes that all the AY are independent
-	- No information about the distribution of the predictor error
-	- No clue about the accuracy of the MSEP
+- Stochastic distribution free Chain ladder model
+- No specified probability distribution
+- Only mean and variance are produced
+
+### Data
+
+- Cumulative loss triangles
+### What it produces
+
+- Chain‑ladder expected ultimate losses
+- **Analytical formulas** for:
+    
+    - process variance
+    - parameter variance
+    - MSEP of ultimate losses
+### Strengths
+
+- Minimal assumptions
+- Closed‑form MSEP
+- Easy to implement
+
+### Weaknesses (from Meyers)
+
+Meyers shows Mack **fails validation** on incurred triangles in the CAS database:
+> “These models do not accurately predict the distribution of outcomes… the percentiles are not uniformly distributed.”
+
+Reason: Mack cannot capture calendar effects, correlation, operational changes, or skewness.
+
+## ODP Mack Model
+Taylor & McGuire show that chain‑ladder can be written as a **generalized linear model** with:
+
+- **Distribution**: Over‑dispersed Poisson (ODP)
+- **Link**: log
+- **Mean structure**: ln⁡(μw,d)=αw+βd
+
+This is quoted in the monograph:
+
+> “There are two families of stochastic model which generate the chain ladder algorithm… Both families may be formulated as generalized linear models.”
+
+- Variance is implied by the GLM distributional assumptions
+
+### Data
+
+- Incremental loss triangles
+### Why this matters
+
+The GLM representation provides:
+
+- parameter estimates
+- dispersion parameter
+- residuals
+- deviance
+- diagnostics
+- ability to extend the model (trend, calendar effects, interactions)
+### Relationship to Mack
+
+- Mack is **distribution‑free**
+- ODP GLM is **parametric**
+- Both produce the same **mean chain‑ladder estimates**
+- But ODP GLM provides a **likelihood**, enabling bootstrap and Bayesian extensions
+
 ## Bootstrapping
 
 
@@ -27,47 +75,97 @@
 	- We get a distribution of possible values
 
 - ### Parametric bootstrapping
-
 	- based on theorical residuals (sampling from normal distribution for residuals)
 	- easier to implement then semiparametric version. 
 	- needs more assumptions to be true
 
-- ### ODP Bootstrap
+## ODP bootsraping
 
-	- Incremental losses follows a ODP poison model
-	- Need to use paid losses since ODP model only works for positive value
-	- Predict values that are too high
-	- #### Weakness:
-		- only works for positive incremental value (can adjust link functions to overcome this issue)
-		- only work for complete triangles
-		- Another common issue with using the ODP bootstrap model is that the distribution for the most recent accident years can produce results with more variance than you would expect when compared to earlier accident years.
-			- Can be fixed by doing BF or Cape-Cod
-	- #### Advantages (GLM bootstrap)
-		- The flexibility of the GLM framework allows the modeler to use enough parameters to capture the statistically relevant level and trend changes in the data without forcing a specific number of parameters.
-			- too much parameter = over-fitting
-		- this framework affords us the ability to add parameters for calendar-year trends
-		- GLM bootstrap model can be used to model data shapes other than triangles
-		- allow one to move away from the two basic assumptions of a deterministic chain ladder method
-		
-	- #### Assumptions
+### Data
 
-		- Same as Chain-Ladder
-		- **Pearson residuals represent the error structure**
-		- Residuals are i.i.d.
-		- Zero residuals are excluded
-		- **Residuals must be standardized**
-		- **Incremental losses follow an ODP GLM** with log‑link.
+- Incremental loss triangles
+- Enough data to compute residuals
+### Core idea
+
+Use the fitted ODP GLM and **resample residuals** to simulate:
+
+- parameter uncertainty
+- process uncertainty
+- full predictive distribution of unpaid losses
+    
+
+### Steps (from Taylor & McGuire)
+
+> “GLM formulation naturally invites the use of a bootstrap to estimate prediction error… The bootstrap estimates the entire distribution of loss reserve rather than just the mean square error.”
+
+### Workflow
+
+1. Fit ODP GLM to incremental triangle
+2. Extract Pearson residuals
+3. Adjust residuals using hat‑matrix (to equalize variance)
+4. Resample residuals with replacement
+5. Reconstruct pseudo‑triangles
+6. Refit GLM → parameter uncertainty
+7. Simulate future increments using ODP variance → process uncertainty
+8. Aggregate → predictive distribution
+
+### Strengths
+
+- Easy to implement
+- Captures parameter + process variance
+- Widely used in practice
+
+### Weaknesses (from Meyers)
+
+Meyers shows bootstrap ODP **fails validation** on paid triangles:
+
+> “For paid losses, both methods tend to overstate the range of expected outcomes.”
+
+Reason: residual bootstrap assumes i.i.d. residuals and no calendar effects.
 
 ## MCMC
 
-- The distributions can have parameters that are distributions
-- Used to overcome the shortcomings of both model presented above
--  Workings:
-	- 1. The user specifies the prior distribution, p(y), and the conditional distribution, f ( xy).
-	- 2. The user selects a starting vector, x1, and then, using a computer simulation, runs the Markov chain through a sufficiently large number, t1, of iterations. This first phase of the simulation is called the “adaptive” phase, where the algorithm is automatically modified to increase its efficiency.
-	- 3. The user then runs an additional t2 iterations. This phase is called the “burn-in” phase. t2 is selected to be high enough so that a sample taken from subsequent t3 periods represents the posterior distribution.
-	- 4. The user then runs an additional t3 iterations and then takes a sample, {xt}, from the (t2 + 1)th step to the (t2 + t3)th step to represent the posterior distribution f ( yx).
-	- 5. From the sample, one then constructs various “statistics of interest” that are relevant to the problem addressed by the analysis.
+### Core idea
+
+Instead of resampling residuals, **simulate from the posterior distribution** of all parameters using MCMC (JAGS).
+
+### Why MCMC is needed
+
+Meyers explains:
+
+> “Bayesian MCMC models have provided actuaries with unprecedented flexibility… complex Bayesian stochastic loss reserve models are now practical.”
+
+### What MCMC allows that bootstrap cannot
+
+Meyers introduces four key enhancements:
+
+1. **Accident‑year correlation** Bootstrap assumes independence; MCMC can model correlation structures.
+2. **Skewed distributions allowing negative increments** Paid data often have negative incremental values; MCMC can use skew‑normal or t‑distributions.
+3. **Payment‑year trend** Calendar effects (inflation, operational changes) can be modeled directly.
+4. **Changing settlement rate** MCMC can incorporate dynamic claim closure patterns.
+    
+
+### Workflow
+
+1. Specify likelihood (e.g., skew‑normal, t, ODP, lognormal)
+2. Specify priors for parameters
+3. Use MCMC (Metropolis‑Hastings, Gibbs) to simulate posterior
+4. For each posterior draw, simulate future increments
+5. Aggregate → full predictive distribution
+
+### Strengths
+
+- Handles correlation
+- Handles skewness
+- Handles calendar trends
+- Handles operational changes
+- Produces full posterior predictive distribution
+- Validates better on CAS database
+### Weaknesses
+
+- Requires modeling choices
+- Requires convergence diagnostics
+- Computationally heavier
 
 ## Combine stochastics model outputs
 
@@ -77,7 +175,7 @@
 	- weights are selected to randomly select a model for each iteration by AY
 - Apply correlation
 	- Calculated correlation is almost always close to 0 witch is not ideal
-	- Contagion is not suited to the following calculation is contagion between different lines of business
+	- Contagion is not suited to the following calculation (contagion between different lines of business)
 	- Location mapping:
 		- Use the same residuals for each resample triangles
 		- Correlation of the original residuals is preserved in the sampling process

@@ -1,4 +1,4 @@
- ## Definition:
+## Definition:
 - “An entity shall adjust the estimate of the present value of the future cash flows to reflect the compensation that the entity requires for bearing the uncertainty about the amount and timing of the cash flows that arises from non-financial risk.”
 
 ## Non-financial risk

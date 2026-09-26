@@ -17,7 +17,7 @@ tags:
 
 ## Possible Analysis
 
-- Separately analyze claims on a direct, assumed, and ceded basis (Goss and Ceded)
+- Separately analyze claims on a direct, assumed, and ceded basis (Gross and Ceded)
 	- #### Advantages
 	    - Improve understanding of recoveries
 	    - Detail analysis of reinsurance term

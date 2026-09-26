@@ -12,3 +12,5 @@
         - Ensure assumptions and methodologies are disclosed appropriately.
     - **Key Consideration:** Users and intended uses of the work are crucial in shaping the actuarial work.
 - **Jurisdiction:** Each jurisdiction has specific actuarial standards, and the correct one must be followed.
+
+The actuary should follow the standards where they perform the actuarial standards (where the work is applied)

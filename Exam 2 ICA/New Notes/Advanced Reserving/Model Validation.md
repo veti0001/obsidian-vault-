@@ -8,10 +8,10 @@
 
 - Not generally possible with triangles since all the data is used to create the triangles
 
-- Validation list:
-	- appropriate link function
-	- reasonable selection of distribution
-	- fit the main effects in the model and obvious interactions
-	- check the residuals for any gross model assumptions violation
-	- fit the model until satisfactory goodness of fit metrics are achieved
-	- review the distributional diagnostics in details and make adjustements required to yield satisfactory results
+## Validation list:
+- appropriate link function
+- reasonable selection of distribution
+- fit the main effects in the model and obvious interactions
+- check the residuals for any gross model assumptions violation
+- fit the model until satisfactory goodness of fit metrics are achieved
+- review the distributional diagnostics in details and make adjustements required to yield satisfactory results

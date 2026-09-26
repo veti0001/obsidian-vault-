@@ -1,4 +1,4 @@
-- - **Link**: [Memorandum to the Appointed Actuary (2024) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/memorandum-appointed-actuary-2024)
+-  **Link**: [Memorandum to the Appointed Actuary (2024) - Office of the Superintendent of Financial Institutions](https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/memorandum-appointed-actuary-2024)
 
 ## Usage
 
