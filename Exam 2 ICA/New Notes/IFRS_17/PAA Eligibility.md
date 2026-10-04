@@ -2,7 +2,7 @@
 ## Eligibility criteria :
 - the entity reasonably expects that such simplification would produce a measurement of the liability for remaining coverage for the group that would not differ materially from the one that would be produced applying the requirements. This criterion would apply for the LRC at the inception of the group and the expected LRC at each future accounting period within the coverage period
 - the coverage period of each contract in the group  is one year or less.
-- There should not be any expected significant variability in the fulfilment cash flows
+- There should not be any expected significant variability in the fulfilment cash flows. It would not directly exclude the policy from PAA eligibility, but it will probably create a difference between the PAA and GMA estimates
 - Only need to assess at initial valuation
 
 ## Coverage period consideration

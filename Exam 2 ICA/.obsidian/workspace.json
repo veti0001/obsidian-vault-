@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3932766cb542441a",
+        "id": "b9c118100ecb2d89",
         "type": "tabs",
         "children": [
           {
-            "id": "175af43a3d4f03df",
+            "id": "d02973ae02785013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Notes/Advanced Reserving/Stochastic Loss Reserving.md",
+                "file": "Revision Questions/01 Reserving Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stochastic Loss Reserving"
+              "title": "01 Reserving Techniques"
             }
           }
         ]
@@ -227,44 +227,44 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "175af43a3d4f03df",
+  "active": "96f17160b4b8422a",
   "lastOpenFiles": [
-    "New Notes/Advanced Reserving/Model Validation.md",
-    "New Notes/Advanced Reserving/Machine Learning.md",
-    "New Notes/Advanced Reserving/Latent Claims.md",
-    "New Notes/Advanced Reserving/Error in prediction.md",
-    "New Notes/Advanced Reserving/Claim Layer.md",
-    "New Notes/Advanced Reserving/Stochastic Loss Reserving.md",
-    "New Notes/Data/ULAE vs ALAE.md",
-    "New Notes/IFRS_17/Disclosure.md",
-    "New Notes/IFRS_17/Discount Rate.md",
-    "New Notes/IFRS_17/RA.md",
-    "New Notes/IFRS_17/LRC.md",
-    "New Notes/IFRS_17/CSM.md",
-    "New Notes/IFRS_17/PAA Eligibility.md",
-    "New Notes/IFRS_17/Pasted image 20251102100701.png",
-    "New Notes/Reserving techniques/1. Chain Ladder.md",
-    "New Notes/Reserving techniques/2. Expected method.md",
-    "New Notes/Reserving techniques/1.5 Trend.md",
-    "New Notes/Reserving techniques/Test on triangle.md",
-    "New Notes/Reserving techniques/Reinsurance.md",
+    "Revision Questions/Revision Questions Index.md",
+    "Revision Questions/02 Advanced Reserving.md",
+    "Revision Questions/03 Data.md",
+    "Revision Questions/06 ICA Standards of Practice - Reporting and Valuation.md",
+    "Revision Questions/05 ICA Standards of Practice - The Work.md",
+    "Revision Questions/04 IFRS 17.md",
+    "Revision Questions/09 General and Ultimate Claims.md",
+    "Revision Questions/08 Legislation and Regulation.md",
+    "Revision Questions/07 Professional Requirements.md",
+    "Revision Questions/01 Reserving Techniques.md",
+    "New Notes/Professional Requirements/Data.md",
+    "copilot/projects/Study_Guide/project.md",
+    "Revision Questions",
+    "copilot/projects/Study_Guide/ICA_Standard_practice.pdf",
+    "New Notes/Data/Aggregation of claim data.md",
+    "copilot/projects/test/project.md",
+    "copilot/projects/test",
     "New Notes/Reserving techniques/Resume/Which method is best when assumptions change.md",
+    "New Notes/Reserving techniques/Resume/Text for exam.md",
     "New Notes/Reserving techniques/Resume/Select reserving methods.md",
     "New Notes/Reserving techniques/Resume/Advantages and disadvantages.md",
-    "New Notes/IFRS_17/Reinsurance Contract.md",
-    "New Notes/IFRS_17/Unit of Account.md",
-    "New Notes/IFRS_17/Premium Allocation Approach (PAA).md",
-    "New Notes/IFRS_17/Level of Aggregation.md",
-    "New Notes/IFRS_17/Estimates of Future Cash Flows.md",
+    "New Notes/Reserving techniques/Test on triangle.md",
+    "New Notes/Reserving techniques/Reinsurance.md",
+    "New Notes/Reserving techniques/7. Closure Method.md",
+    "New Notes/Reserving techniques/6. Freq-Sev.md",
+    "New Notes/Reserving techniques/5. Berquist sherman.md",
+    "New Notes/Reserving techniques/4. Cape Cod.md",
+    "New Notes/Reserving techniques/3. BF.md",
+    "New Notes/Reserving techniques/2. Expected method.md",
+    "New Notes/IFRS_17/Pasted image 20251102100701.png",
     "New Notes/Reserving techniques/Resume",
-    "copilot/projects/Study_Guide/ICA_Standard_practice.pdf",
     "Untitled",
     "New Notes/ICA Standard of practice/Additional sections",
     "copilot/projects/Study_Guide",
     "copilot/projects",
     "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
-    "copilot/skills/json-canvas/LICENSE",
-    "copilot/skills/json-canvas/references"
+    "copilot/skills/obsidian-cli"
   ]
 }

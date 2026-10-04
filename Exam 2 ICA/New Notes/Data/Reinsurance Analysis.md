@@ -21,7 +21,7 @@ tags:
 	- #### Advantages
 	    - Improve understanding of recoveries
 	    - Detail analysis of reinsurance term
-	    - Facilitate stress tesing
+	    - Facilitate stress testing
 	- #### Disadvantages
 		- Complexity
 		- sensitive to data quality

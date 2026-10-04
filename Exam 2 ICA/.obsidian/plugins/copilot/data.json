@@ -599,6 +599,33 @@
       },
       "configuredModelId": "11d77962-7879-4286-ad1e-2e2ea1faee80",
       "configuredAt": 1790336204188
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/longcat-2.5-preview-free",
+        "displayName": "OpenCode Zen/LongCat 2.5 Preview Free"
+      },
+      "configuredModelId": "1ae46257-84fe-46e1-bbc7-d484f515ec75",
+      "configuredAt": 1790541901074
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/fledge-alpha-free",
+        "displayName": "OpenCode Zen/Fledge Alpha Free"
+      },
+      "configuredModelId": "02bcbe03-b992-4bb6-9721-08f3011b9a4b",
+      "configuredAt": 1791056483223
+    },
+    {
+      "providerId": "2e516031-60c7-45c0-9634-e57d80209d7f",
+      "info": {
+        "id": "opencode/ling-3.1-flash-free",
+        "displayName": "OpenCode Zen/Ling 3.1 Flash Free"
+      },
+      "configuredModelId": "a191c7cd-3ad2-4e66-980e-2763aa26447e",
+      "configuredAt": 1791056483226
     }
   ],
   "backends": {
