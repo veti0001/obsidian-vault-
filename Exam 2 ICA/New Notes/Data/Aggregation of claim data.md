@@ -31,7 +31,7 @@ Each basis groups losses differently, which changes how unpaid claims (IBNR) app
 - **Actuary Usage:**
     - Most common aggregation pattern.
     - Typically used with CY earned premium to estimate unpaid claims via development triangles and loss ratio methods.
-c- **Actuarial Implication:** AY balances timeliness and risk alignment → preferred for unpaid claim estimation. AY losses = reported + IBNR + IBNER.
+-  **Actuarial Implication:** AY balances timeliness and risk alignment → preferred for unpaid claim estimation. AY losses = reported + IBNR + IBNER.
 
 ### Policy (Underwriting) Year Aggregation
 

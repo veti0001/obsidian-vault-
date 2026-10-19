@@ -169,11 +169,11 @@ Meyers introduces four key enhancements:
 
 ## Combine stochastics model outputs
 
-- Use the same random variable for each model
+- ### Use the same random variable for each model
 	- the final incremental value of each models can be weighted together
-- Run models with independent random variables
+- ### Run models with independent random variables
 	- weights are selected to randomly select a model for each iteration by AY
-- Apply correlation
+- ### Apply correlation
 	- Calculated correlation is almost always close to 0 witch is not ideal
 	- Contagion is not suited to the following calculation (contagion between different lines of business)
 	- Location mapping:

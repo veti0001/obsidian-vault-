@@ -5,5 +5,5 @@
 	- The practice-specific standards specify the language to be used in the summary report.
 	- The purpose of the summary report is to simplify the actuary's communication with users.
 	- It may be incorporated in a report prepared by the actuary's employer or client; for example, the financial statements of an insurer, a pension plan, or a public personal injury compensation plan.
-	- Such a summary report does not constitute an [[Reporting external user report|external user report]].
+	- Such a summary report does not constitute an [[New Notes/ICA Standard of practice/1700 -Reporting/Reporting external user report|external user report]].
 - Link: [Standards of Practice (Complete)](https://www.cia-ica.ca/app/themes/wicket/custom/dl_file.php?p=618526&fid=618528) Page 80

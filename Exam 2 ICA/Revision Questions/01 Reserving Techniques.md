@@ -66,7 +66,7 @@ Source: [[1. Chain Ladder]], [[1.5 Trend]], [[2. Expected method]], [[3. BF]], [
 > [!answer]- Answer
 > - To reflect only the portion of earned premium/exposure that has been used at the valuation date when computing the Expected Claim Ratio.
 
-### A13. Define the "ratio of paid to reported claims" triangle test and its purpose.
+### <mark style="background:rgba(163, 67, 31, 0.2)">A13. Define the "ratio of paid to reported claims" triangle test and its purpose.</mark>
 
 > [!answer]- Answer
 > - It is the ratio of paid claims to reported claims by development period/accident year; used as an initial test to detect changes in settlement patterns or case reserve adequacy over time.
@@ -149,11 +149,11 @@ Source: [[1. Chain Ladder]], [[1.5 Trend]], [[3. BF]], [[4. Cape Cod]], [[6. Fre
 ### C1. Chain Ladder — Link ratios (calculation practice)
 Given the following reported claims triangle (simplified), compute simple average and volume-weighted average age-to-age factors for the 12-24 month interval. Numbers are illustrative as per instruction.
  
-Accident Year | 12 months | 24 months
------------- | ----------| ----------
-AY1          | $1,000    | $1,500
-AY2          | $1,200    | $1,680
-AY3          | $800      | $1,200
+| Accident Year | 12 months | 24 months |
+| ------------- | --------- | --------- |
+| AY1           | $1,000    | $1,500    |
+| AY2           | $1,200    | $1,680    |
+| AY3           | $800      | $1,200    |
 
 > [!answer]- Answer
 > - Link ratios 12-24: AY1 = $1,500/$1,000 = $1.500$, AY2 = $1,680/$1,200 = $1.400$, AY3 = $1,200/$1,800$? Wait, wait - AY3: 800 to 1200 gives $1200/800 = 1.500$.

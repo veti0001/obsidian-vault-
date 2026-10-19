@@ -2,7 +2,7 @@
 
 ## Part A — Definitions and Recall
 
-Source: [[Summary report]], [[Reporting oral report]], [[Reporting internal user report]], [[Reporting external user report]], [[General]], [[Reporting]], [[Accepting and continuing an engagement]], [[Communication with the auditor]], [[Report on matters requiring rectification]], [[Report to the directors]]
+Source: [[Legacy/ICA Standard of practice/1700 -Reporting/Summary report]], [[Reporting oral report]], [[Reporting internal user report]], [[Reporting external user report]], [[General]], [[Reporting]], [[Accepting and continuing an engagement]], [[Communication with the auditor]], [[Report on matters requiring rectification]], [[Report to the directors]]
 
 ### A1. Under SOP 1740, when should the actuary prepare a summary report, and what controls the wording used in it?
 
@@ -113,7 +113,7 @@ Source: [[Summary report]], [[Reporting oral report]], [[Reporting internal user
 
 ## Part B — Explain, Compare, Advantages and Disadvantages
 
-Source: [[Reporting external user report]], [[Reporting internal user report]], [[Reporting oral report]], [[Summary report]], [[Reporting]], [[Report to the directors]], [[Accepting and continuing an engagement]]
+Source: [[Reporting external user report]], [[Reporting internal user report]], [[Reporting oral report]], [[Legacy/ICA Standard of practice/1700 -Reporting/Summary report]], [[Reporting]], [[Report to the directors]], [[Accepting and continuing an engagement]]
 
 ### B1. Compare the range of appropriate reports for external user reports versus internal user reports.
 
@@ -256,7 +256,7 @@ Source: [[Reporting external user report]], [[Reporting]], [[Report on matters r
 
 ## Part D — Exam-Style Questions
 
-Source: [[Reporting external user report]], [[Reporting internal user report]], [[Reporting oral report]], [[Summary report]], [[General]], [[Reporting]], [[Accepting and continuing an engagement]], [[Communication with the auditor]], [[Report on matters requiring rectification]], [[Report to the directors]]
+Source: [[Reporting external user report]], [[Reporting internal user report]], [[Reporting oral report]], [[Legacy/ICA Standard of practice/1700 -Reporting/Summary report]], [[General]], [[Reporting]], [[Accepting and continuing an engagement]], [[Communication with the auditor]], [[Report on matters requiring rectification]], [[Report to the directors]]
 
 ### D1. Describe what an external user report must contain under SOP 1710, and explain how the actuary should decide how much to disclose.
 

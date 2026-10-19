@@ -17,7 +17,7 @@ tags:
 
 ## Possible Analysis
 
-- Separately analyze claims on a direct, assumed, and ceded basis (Gross and Ceded)
+- Separately analyze claims on a direct, assumed, and ceded basis (**Gross and Ceded**)
 	- #### Advantages
 	    - Improve understanding of recoveries
 	    - Detail analysis of reinsurance term
@@ -26,7 +26,7 @@ tags:
 		- Complexity
 		- sensitive to data quality
 		- Recoveries may lag behind close claims
-- Analyze claims on a gross and net basis:
+- Analyze claims on a **gross and net basis**:
     - Net claims = direct + assumed - ceded
     - #### Advantages
 	    - direct estimation

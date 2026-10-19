@@ -34,6 +34,7 @@
 				- select a reference portfolio made up of investments denominated in the same currency as the insurance contracts
 		- Top-Down Discount Rate = Reference Portfolio Rate – Credit Risk, Market Risk & Other Adjustments
 		- Selection of reference portfolio: We should aim to have portfolio with similar assets to have the least possible adjustment needed
+		- There is no market risk if the portfolio is comprised solely of bonds
 		- #### Advantages
 			- does not require the explicit derivation of an illiquidity premium
 		- #### Disadvantage
@@ -43,7 +44,7 @@
 		- Reference Portfolio Illiquidity premium = Top-Down Discount Rate – Risk-Free Rate
 		- #### Advantages
 			- blend robust illiquidity premium models with readily available Canadian risk-free yield curve
-- No need to estimate discount rate curve
+			- No need to estimate discount rate curve
 
 ## Liquidity of P&C contracts liabilities
 

@@ -22,10 +22,10 @@
 - Respect actuarial rule of professional conduct
 - Work complies with accepted actuarial practice
 - Superintendent expects the AA to have the following qualifications:
-- Has appropriate Canadian practical experience, which is defined as work in Canada for at least three of the last six years, of which at least one year was performing valuation of Canadian actuarial liabilities and FCT of an insurance company with similar lines of business and/or operations;
-- Has experience with the CIA's Standards of Practice and relevant insurance legislation and regulation;
-- Is up to date with respect to the CIA's continuing professional development requirement; and
-- Has not been the subject of an adverse finding by a CIA Disciplinary Tribunal. Where there has been such a finding, the Superintendent may nevertheless conclude that the AA is a suitable person if the circumstances of the case and other information support such a conclusion.
+	- Has appropriate Canadian practical experience, which is defined as work in Canada for at least three of the last six years, of which at least one year was performing valuation of Canadian actuarial liabilities and FCT of an insurance company with similar lines of business and/or operations;
+	- Has experience with the CIA's Standards of Practice and relevant insurance legislation and regulation;
+	- Is up to date with respect to the CIA's continuing professional development requirement; and
+	- Has not been the subject of an adverse finding by a CIA Disciplinary Tribunal. Where there has been such a finding, the Superintendent may nevertheless conclude that the AA is a suitable person if the circumstances of the case and other information support such a conclusion.
 
 ### Peer review of the AA work
 

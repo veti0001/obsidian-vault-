@@ -5,7 +5,7 @@
 ## Unpaid ULAE 
 
 - Estimated on an Aggregated basis for the whole company
-- ULAE are almost neve ceded to reinsurer so they are calculated using gross claims
+- ULAE are almost never ceded to reinsurer so they are calculated using gross claims
 
 ### Ratio based method
 

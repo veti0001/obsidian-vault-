@@ -43,3 +43,23 @@
 - when reinsurance held contract are recognize (earliest of those 2 things):
 		- The beginning of the coverage period of the group of reinsurance contracts held
 		- The date the entity recognizes an onerous group of underlying insurance contracts, if the entity entered into the related reinsurance contract held in the group of reinsurance contacts at or before that date.
+- Positive value = increase in assets
+
+
+## Summary
+
+### Key points
+
+- Reinsurance held is reported as a positive asset (usually).
+- RA is always greater than 0 and represents the risk ceded to the reinsurer.
+- RA is reported as a positive assets (the risk adjustment for reinsurance held will either increase the reinsurance contract asset or reduce the reinsurance contract liability)
+
+| Situation                            | CSM      | Balance sheet position |
+| ------------------------------------ | -------- | ---------------------- |
+| Net cost of purchasing reinsurance   | Positive | increase in Asset      |
+| Net gain from purchasing reinsurance | Negative | Increase in Liability  |
+
+### Balance sheet classification
+
+- **LIC** is an asset (**AIC**), as it represents amounts that will be obtained from reinsurers.
+- **LRC** can be an asset or a liability, depending on whether future recoveries are greater than expected future premium.

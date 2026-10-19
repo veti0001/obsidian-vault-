@@ -12,7 +12,7 @@
 
 ## Determination at initial recognition
 
-- CSM = total cash flow - total cash inflow (should be negative if contact is not onerous)
+- CSM = total cash outflow - total cash inflow (should be negative if contact is not onerous)
 
 ## CSM calculation
 

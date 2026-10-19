@@ -1,5 +1,5 @@
 {
-  "lastVersion": "4.0.11",
+  "lastVersion": "4.1.10",
   "aestheticStyle": "default",
   "positionStyle": "top",
   "menuCommands": [
@@ -404,7 +404,7 @@
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
   "cMenuFontColor": "#8064a2",
-  "cMenuBackgroundColor": "#fff88f",
+  "cMenuBackgroundColor": "rgba(163, 67, 31, 0.2)",
   "autohide": false,
   "Iscentered": false,
   "custom_bg1": "#FFB78B8C",
@@ -455,6 +455,7 @@
   "useCurrentLineForRegex": false,
   "ai": {
     "enabled": false,
+    "showAIContextMenu": true,
     "consentAccepted": false,
     "onboardingShown": true,
     "providerMode": "pkmer-first",

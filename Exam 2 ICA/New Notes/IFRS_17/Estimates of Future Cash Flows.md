@@ -50,6 +50,7 @@
 ## Determining FCF
 
 - ==FCF = Expected future cash flow + discounting + RA==
+	- Expected future cash flow = Expected outflow - expected inflow
 - Reinsurance contract held cash flow = Gross future cash flow - Net future cash flow
 - Data consideration:
 	- **Data availability**: If there is sparse or limited data for ceded claims, it may not be possible or appropriate to directly estimate the present value of ceded cash flows.

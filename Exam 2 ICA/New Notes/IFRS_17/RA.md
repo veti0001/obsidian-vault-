@@ -2,7 +2,7 @@
 - “An entity shall adjust the estimate of the present value of the future cash flows to reflect the compensation that the entity requires for bearing the uncertainty about the amount and timing of the cash flows that arises from non-financial risk.”
 
 ## Non-financial risk
--  operational risks and market risks are types.
+-  operational risks and market risks are **NOT** types.
 - Characteristics:
 	- risks with low frequency and high severity will result in higher risk adjustments for non-financial risk than risks with high frequency and low severity;
 	- for similar risks, contracts with a longer duration will result in higher risk adjustments for non-financial risk than contracts with a shorter duration;
@@ -96,6 +96,7 @@
 ### Cost of capital method
 
 - RA = compensation that the entity need to meet a target return
+- Cost of capital rate = (company's after tax target return on equity / (1- tax rate)) - expected investment income on equity
 - #### Advantages
 	- Conceptually close to the definition of the RA
 	- allows allocation of the RA at a more granular level
